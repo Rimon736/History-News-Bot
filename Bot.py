@@ -19,13 +19,13 @@ def generate_news():
     model = genai.GenerativeModel('gemini-2.5-flash')
     
     prompt = """
-    You are a satirical news generator. Pick a random famous historical event from anywhere in the world and any timeline (e.g., Julius Caesar's assassination, invention of the wheel, building of the pyramids, sinking of Titanic, fall of Troy).
+    You are a serious, professional news anchor for a major global news network (like the BBC or Reuters). Pick a random famous historical event from anywhere in the world and any timeline.
     Act as if it literally JUST happened today as breaking news.
     
     Respond STRICTLY in JSON format with these exact three keys:
-    1. "headline": A sensational, punchy breaking news headline (under 80 characters).
-    2. "description": A witty, sarcastic Facebook post description reporting on the event with modern news tropes (include some hashtags).
-    3. "search_term": A 1 or 2 word keyword to search for a historical image related to this event (e.g., "Caesar", "Pyramids", "Troy").
+    1. "headline": A serious, punchy breaking news headline (under 80 characters).
+    2. "description": A highly professional, journalistic news report detailing the event. Use formal language, maintain objective reporting standards, and do NOT use any emojis, slang, or internet speak. Include 2-3 relevant hashtags at the end.
+    3. "search_term": The exact, formal historical name of the event or primary subject to find a Wikipedia image (e.g., "Assassination of Julius Caesar", "Trojan Horse", "RMS Titanic").
     """
     
     response = model.generate_content(prompt, generation_config={"response_mime_type": "application/json"})
@@ -34,20 +34,30 @@ def generate_news():
 def fetch_historical_image(search_term):
     """Fetches a free public domain image from Wikimedia Commons."""
     print(f"Fetching image for: {search_term}")
-    url = f"https://en.wikipedia.org/w/api.php?action=query&titles={search_term}&prop=pageimages&format=json&pithumbsize=800"
+    
+    # Step 1: Search Wikipedia to find the exact article title
+    search_url = f"https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch={search_term}&utf8=&format=json&srlimit=1"
     
     try:
-        res = requests.get(url).json()
-        pages = res['query']['pages']
-        for page_id in pages:
-            if 'thumbnail' in pages[page_id]:
-                img_url = pages[page_id]['thumbnail']['source']
-                img_response = requests.get(img_url)
-                return Image.open(BytesIO(img_response.content))
+        search_res = requests.get(search_url).json()
+        if search_res['query']['search']:
+            exact_title = search_res['query']['search'][0]['title']
+            print(f"Found exact Wikipedia article: {exact_title}")
+            
+            # Step 2: Fetch the image for that specific article
+            img_url_req = f"https://en.wikipedia.org/w/api.php?action=query&titles={exact_title}&prop=pageimages&format=json&pithumbsize=800"
+            res = requests.get(img_url_req).json()
+            pages = res['query']['pages']
+            for page_id in pages:
+                if 'thumbnail' in pages[page_id]:
+                    img_url = pages[page_id]['thumbnail']['source']
+                    img_response = requests.get(img_url)
+                    return Image.open(BytesIO(img_response.content))
     except Exception as e:
         print(f"Image search failed: {e}")
     
     # Fallback: Create a solid dark grey image if search fails
+    print("No image found on Wikipedia, using dark grey fallback.")
     return Image.new('RGB', (800, 600), color=(40, 40, 40))
 
 def create_breaking_news_card(base_image, headline):
