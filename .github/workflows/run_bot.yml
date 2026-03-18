@@ -32,4 +32,11 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
-        run: python Bot.py  
+        run: python bot.py
+        
+      - name: Save Memory (Commit History)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add history.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Updated bot memory" && git push)
