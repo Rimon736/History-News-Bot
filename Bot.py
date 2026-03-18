@@ -18,7 +18,7 @@ genai.configure(api_key=GEMINI_API_KEY)
 
 # --- FONT DOWNLOADER ---
 def get_remote_font(url, size):
-    """Downloads a font from a URL safely, avoiding 404 corruption."""
+    """Downloads a font safely with a secondary backup to prevent tiny default text."""
     filename = url.split('/')[-1]
     try:
         if not os.path.exists(filename):
@@ -31,8 +31,20 @@ def get_remote_font(url, size):
                 raise Exception(f"HTTP {r.status_code} Error")
         return ImageFont.truetype(filename, size)
     except Exception as e:
-        print(f"Failed to load font {filename}: {e}. Using default.")
-        return ImageFont.load_default()
+        print(f"Failed to load font {filename}: {e}. Trying secondary fallback...")
+        # Emergency secondary fallback to PT Sans if primary fails
+        fallback_url = "https://github.com/google/fonts/raw/main/ofl/ptsans/PTSans-Bold.ttf"
+        fb_filename = "PTSans-Bold.ttf"
+        try:
+            if not os.path.exists(fb_filename):
+                r = requests.get(fallback_url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+                if r.status_code == 200:
+                    with open(fb_filename, 'wb') as f:
+                        f.write(r.content)
+            return ImageFont.truetype(fb_filename, size)
+        except Exception:
+            print("All font downloads failed. Using default.")
+            return ImageFont.load_default()
 
 # --- MEMORY SYSTEM ---
 def load_history():
@@ -157,14 +169,13 @@ def create_breaking_news_card(base_image, headline):
     """Generates the modern white Breaking News card design with robust fonts."""
     print("Creating Modern Breaking News Card...")
     
-    # Official stable Google Fonts URLs
+    # Official stable Google Fonts URLs (Swapped to Lato which is highly static and reliable)
     font_anton_url = "https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf"
-    font_roboto_bold_url = "https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-Bold.ttf"
-    font_roboto_ital_url = "https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-BoldItalic.ttf"
+    font_lato_bold_url = "https://github.com/google/fonts/raw/main/ofl/lato/Lato-Bold.ttf"
 
     font_breaking = get_remote_font(font_anton_url, 140)
-    font_bbc = get_remote_font(font_roboto_bold_url, 30)
-    font_headline = get_remote_font(font_roboto_ital_url, 45)
+    font_bbc = get_remote_font(font_lato_bold_url, 30)
+    font_headline = get_remote_font(font_lato_bold_url, 45)
 
     # 1. Setup Base Canvas (1080x1080 - standard square)
     canvas = Image.new('RGB', (1080, 1080), 'white')
