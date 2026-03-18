@@ -18,14 +18,17 @@ genai.configure(api_key=GEMINI_API_KEY)
 
 # --- FONT DOWNLOADER ---
 def get_remote_font(url, size):
-    """Downloads a font from a URL if it doesn't exist locally, ensuring fonts always work."""
+    """Downloads a font from a URL safely, avoiding 404 corruption."""
     filename = url.split('/')[-1]
     try:
         if not os.path.exists(filename):
             print(f"Downloading font: {filename}...")
-            r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-            with open(filename, 'wb') as f:
-                f.write(r.content)
+            r = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=15)
+            if r.status_code == 200:
+                with open(filename, 'wb') as f:
+                    f.write(r.content)
+            else:
+                raise Exception(f"HTTP {r.status_code} Error")
         return ImageFont.truetype(filename, size)
     except Exception as e:
         print(f"Failed to load font {filename}: {e}. Using default.")
@@ -76,50 +79,56 @@ def generate_news(recent_topics):
     return json.loads(response.text)
 
 def generate_historical_image(image_prompt, topic=""):
-    """Generates a free 2D illustrated image with a foolproof retry and fallback system."""
-    print(f"Generating image for prompt: {image_prompt}")
+    """Generates or fetches an image using 3 different fallback systems to guarantee success."""
+    print(f"Fetching/Generating image for: {topic}")
     
-    # Clean the prompt
-    clean_prompt = image_prompt.replace('\n', ' ').replace('"', '').replace("'", "")
-    full_prompt = f"{clean_prompt}, 2D illustration, high quality digital art, historical editorial style, no text, no watermarks"
-    encoded_prompt = urllib.parse.quote(full_prompt)
-    
-    # These headers trick Cloudflare into thinking GitHub Actions is a real Chrome browser
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'image/jpeg, image/png, image/webp, */*',
-        'Referer': 'https://pollinations.ai/'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+        'Accept': '*/*'
     }
 
-    # Foolproof Step 1: Try AI Generation with 3 Retries
-    for attempt in range(3):
-        try:
-            # Use a random seed to bypass aggressive caching
-            seed = random.randint(1, 1000000)
-            url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1080&height=600&nologo=true&seed={seed}"
-            print(f"AI Generation Attempt {attempt + 1}...")
-            
-            response = requests.get(url, headers=headers, timeout=45)
-            
-            if response.status_code == 200:
-                # Double check that we actually got an image and not a Cloudflare HTML block page
-                if 'image' in response.headers.get('Content-Type', '').lower():
-                    print("Successfully generated AI image!")
-                    return Image.open(BytesIO(response.content))
-                else:
-                    print("Failed: API returned non-image content (likely Cloudflare block).")
-            else:
-                print(f"Failed. Status code: {response.status_code}")
-        except Exception as e:
-            print(f"Attempt {attempt + 1} encountered an error: {e}")
+    # FOOLPROOF METHOD 1: Lexica.art AI Image Search (Extremely reliable and fast)
+    try:
+        print("Attempt 1: Searching Lexica.art AI database...")
+        lexica_query = urllib.parse.quote(f"{topic} historical event illustration")
+        lexica_url = f"https://lexica.art/api/v1/search?q={lexica_query}"
+        res = requests.get(lexica_url, headers=headers, timeout=15)
+        if res.status_code == 200:
+            data = res.json()
+            if data.get('images'):
+                img_url = data['images'][0]['src']
+                print(f"Lexica AI image found: {img_url}")
+                img_res = requests.get(img_url, headers=headers, timeout=15)
+                if img_res.status_code == 200:
+                    return Image.open(BytesIO(img_res.content))
+    except Exception as e:
+        print(f"Lexica search failed: {e}")
+
+    # FOOLPROOF METHOD 2: Pollinations AI Generation
+    try:
+        print("Attempt 2: Generating fresh AI image via Pollinations...")
+        clean_prompt = image_prompt.replace('\n', ' ').replace('"', '').replace("'", "")
+        # Truncate prompt to prevent 'URI Too Long' server errors
+        clean_prompt = clean_prompt[:150] if len(clean_prompt) > 150 else clean_prompt
+        full_prompt = f"{clean_prompt}, 2D illustration, high quality digital art"
+        encoded_prompt = urllib.parse.quote(full_prompt)
         
-        # Wait a few seconds before retrying
-        time.sleep(3)
+        seed = random.randint(1, 1000000)
+        poll_url = f"https://image.pollinations.ai/prompt/{encoded_prompt}?width=1080&height=600&nologo=true&seed={seed}"
         
-    # Foolproof Step 2: If AI is completely blocked, fall back to a real Wikimedia historical photo
+        res = requests.get(poll_url, headers=headers, timeout=30)
+        if res.status_code == 200 and 'image' in res.headers.get('Content-Type', '').lower():
+            print("Successfully generated Pollinations AI image!")
+            return Image.open(BytesIO(res.content))
+        else:
+            print(f"Pollinations returned status {res.status_code}")
+    except Exception as e:
+        print(f"Pollinations generation failed: {e}")
+
+    # FOOLPROOF METHOD 3: Wikimedia Commons Fallback
     if topic:
-        print(f"AI failed. Falling back to real historical photo for: {topic}")
         try:
+            print("Attempt 3: Falling back to real historical photo from Wikimedia...")
             search_term = urllib.parse.quote(topic)
             commons_url = f"https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch={search_term}&gsrnamespace=6&gsrlimit=3&prop=imageinfo&iiprop=url&format=json"
             res = requests.get(commons_url, headers=headers, timeout=15).json()
@@ -129,13 +138,14 @@ def generate_historical_image(image_prompt, topic=""):
                     if image_info:
                         img_url = image_info[0]['url']
                         if not img_url.lower().endswith(('.svg', '.pdf', '.tif', '.tiff')):
+                            print(f"Wikimedia image found: {img_url}")
                             r = requests.get(img_url, headers=headers, timeout=15)
-                            print("Successfully found Wikipedia Fallback image.")
-                            return Image.open(BytesIO(r.content))
+                            if r.status_code == 200:
+                                return Image.open(BytesIO(r.content))
         except Exception as e:
             print(f"Wikimedia fallback failed: {e}")
 
-    # Foolproof Step 3: The ultimate gray pattern fallback (should almost never happen now)
+    # ULTIMATE FALLBACK: Gray Pattern
     print("All image fetching failed. Using generated fallback pattern.")
     fallback = Image.new('RGB', (1080, 600), color=(220, 220, 220))
     draw = ImageDraw.Draw(fallback)
@@ -147,10 +157,10 @@ def create_breaking_news_card(base_image, headline):
     """Generates the modern white Breaking News card design with robust fonts."""
     print("Creating Modern Breaking News Card...")
     
-    # Download required fonts from Google Fonts directly
-    font_anton_url = "https://raw.githubusercontent.com/googlefonts/anton/main/fonts/ttf/Anton-Regular.ttf"
-    font_roboto_bold_url = "https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/Roboto-Bold.ttf"
-    font_roboto_ital_url = "https://raw.githubusercontent.com/googlefonts/roboto/main/src/hinted/Roboto-BoldItalic.ttf"
+    # Official stable Google Fonts URLs
+    font_anton_url = "https://github.com/google/fonts/raw/main/ofl/anton/Anton-Regular.ttf"
+    font_roboto_bold_url = "https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-Bold.ttf"
+    font_roboto_ital_url = "https://github.com/google/fonts/raw/main/ofl/roboto/Roboto-BoldItalic.ttf"
 
     font_breaking = get_remote_font(font_anton_url, 140)
     font_bbc = get_remote_font(font_roboto_bold_url, 30)
@@ -231,8 +241,6 @@ def create_breaking_news_card(base_image, headline):
         h = bbox[3] - bbox[1]
         draw.text(((1080 - w) / 2, y_text), line, fill="black", font=font_headline)
         y_text += h + 15
-
-    # Footer elements removed per request for a cleaner look
 
     # Save Final Image
     output_path = "news_card.jpg"
