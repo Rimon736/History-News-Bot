@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1773853020.6005044,
-        "topic": "Black Death Arrives Europe"
-    },
-    {
-        "timestamp": 1773860084.3421302,
-        "topic": "Humanity Lands on Moon"
-    },
-    {
         "timestamp": 1773865942.826129,
         "topic": "Storming of the Bastille"
     },
@@ -2986,5 +2978,9 @@
     {
         "timestamp": 1781622125.4494407,
         "topic": "Vesuvius Eruption Devastates"
+    },
+    {
+        "timestamp": 1781638266.805447,
+        "topic": "Black Death Arrives Europe"
     }
 ]
