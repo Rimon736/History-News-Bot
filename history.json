@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1773865942.826129,
-        "topic": "Storming of the Bastille"
-    },
-    {
         "timestamp": 1773872956.6235092,
         "topic": "Suez Canal Inauguration"
     },
@@ -2982,5 +2978,9 @@
     {
         "timestamp": 1781638266.805447,
         "topic": "Black Death Arrives Europe"
+    },
+    {
+        "timestamp": 1781647768.3191185,
+        "topic": "Fall of Berlin Wall"
     }
 ]
