@@ -1,33 +1,5 @@
 [
     {
-        "timestamp": 1773829100.154856,
-        "topic": "Fall of Berlin Wall"
-    },
-    {
-        "timestamp": 1773830470.7928474,
-        "topic": "Gutenberg's Printing Press"
-    },
-    {
-        "timestamp": 1773830638.98368,
-        "topic": "Wright Brothers' First Flight"
-    },
-    {
-        "timestamp": 1773830951.678395,
-        "topic": "Fall of Constantinople"
-    },
-    {
-        "timestamp": 1773838928.1249583,
-        "topic": "Caesar's Assassination"
-    },
-    {
-        "timestamp": 1773838985.9109936,
-        "topic": "Vesuvius Eruption"
-    },
-    {
-        "timestamp": 1773845996.2498505,
-        "topic": "Battle of Hastings"
-    },
-    {
         "timestamp": 1773853020.6005044,
         "topic": "Black Death Arrives Europe"
     },
@@ -3010,5 +2982,9 @@
     {
         "timestamp": 1781601785.6106734,
         "topic": "Great Dust Bowl Begins"
+    },
+    {
+        "timestamp": 1781622125.4494407,
+        "topic": "Vesuvius Eruption Devastates"
     }
 ]
