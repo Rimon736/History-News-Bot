@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1773931453.67817,
-        "topic": "Terracotta Army Discovered"
-    },
-    {
         "timestamp": 1773939314.1878278,
         "topic": "Krakatoa Volcanic Eruption"
     },
@@ -2966,5 +2962,9 @@
     {
         "timestamp": 1781703587.719392,
         "topic": "Caesar's Assassination"
+    },
+    {
+        "timestamp": 1781715228.467388,
+        "topic": "First Global Circumnavigation"
     }
 ]
