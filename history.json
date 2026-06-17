@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1773952398.82923,
-        "topic": "Sputnik 1 Launch"
-    },
-    {
-        "timestamp": 1773959072.5830498,
-        "topic": "Panama Canal Opening"
-    },
-    {
         "timestamp": 1773971393.407461,
         "topic": "Thera Volcanic Eruption"
     },
@@ -2962,5 +2954,9 @@
     {
         "timestamp": 1781726926.1603312,
         "topic": "Magna Carta Signed"
+    },
+    {
+        "timestamp": 1781738447.0240633,
+        "topic": "Great Fire London"
     }
 ]
