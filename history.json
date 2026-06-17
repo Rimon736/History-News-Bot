@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1773894125.8249004,
-        "topic": "Tutankhamun's Tomb Unsealed"
-    },
-    {
-        "timestamp": 1773903256.4748535,
-        "topic": "Global Circumnavigation Completed"
-    },
-    {
-        "timestamp": 1773909543.6509538,
-        "topic": "Columbus Reaches Americas"
-    },
-    {
         "timestamp": 1773916601.8106794,
         "topic": "Machu Picchu Discovered"
     },
@@ -2978,5 +2966,9 @@
     {
         "timestamp": 1781667535.4550397,
         "topic": "First Powered Flight"
+    },
+    {
+        "timestamp": 1781686737.2051086,
+        "topic": "Penicillin Discovered"
     }
 ]
