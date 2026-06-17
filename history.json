@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1773916601.8106794,
-        "topic": "Machu Picchu Discovered"
-    },
-    {
-        "timestamp": 1773925025.958353,
-        "topic": "Magna Carta Signed"
-    },
-    {
         "timestamp": 1773931453.67817,
         "topic": "Terracotta Army Discovered"
     },
@@ -2970,5 +2962,9 @@
     {
         "timestamp": 1781686737.2051086,
         "topic": "Penicillin Discovered"
+    },
+    {
+        "timestamp": 1781703587.719392,
+        "topic": "Caesar's Assassination"
     }
 ]
