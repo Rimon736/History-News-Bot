@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1773971393.407461,
-        "topic": "Thera Volcanic Eruption"
-    },
-    {
         "timestamp": 1773979913.0775867,
         "topic": "Battle of Waterloo"
     },
@@ -2958,5 +2954,9 @@
     {
         "timestamp": 1781738447.0240633,
         "topic": "Great Fire London"
+    },
+    {
+        "timestamp": 1781753473.1917634,
+        "topic": "Panama Canal Completion"
     }
 ]
