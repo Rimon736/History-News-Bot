@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1773979913.0775867,
-        "topic": "Battle of Waterloo"
-    },
-    {
-        "timestamp": 1773989422.8171766,
-        "topic": "Archduke Franz Ferdinand Assassinated"
-    },
-    {
-        "timestamp": 1773995810.6040523,
-        "topic": "Battle of Gettysburg"
-    },
-    {
         "timestamp": 1774002908.9892921,
         "topic": "Rosetta Stone Discovered"
     },
@@ -2958,5 +2946,9 @@
     {
         "timestamp": 1781753473.1917634,
         "topic": "Panama Canal Completion"
+    },
+    {
+        "timestamp": 1781772094.8341913,
+        "topic": "Battle of Hastings"
     }
 ]
