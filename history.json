@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774131647.176046,
-        "topic": "X-Ray Discovery"
-    },
-    {
         "timestamp": 1774144488.294372,
         "topic": "Cuban Missile Crisis Escalates"
     },
@@ -2918,5 +2914,9 @@
     {
         "timestamp": 1781903190.7927127,
         "topic": "Tutankhamun's Tomb Discovered"
+    },
+    {
+        "timestamp": 1781909569.2916744,
+        "topic": "Thera Volcano Eruption"
     }
 ]
