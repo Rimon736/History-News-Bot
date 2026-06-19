@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774124532.274983,
-        "topic": "Meiji Restoration Begins"
-    },
-    {
         "timestamp": 1774131647.176046,
         "topic": "X-Ray Discovery"
     },
@@ -2918,5 +2914,9 @@
     {
         "timestamp": 1781898235.7463,
         "topic": "Krakatoa Volcano Erupts"
+    },
+    {
+        "timestamp": 1781903190.7927127,
+        "topic": "Tutankhamun's Tomb Discovered"
     }
 ]
