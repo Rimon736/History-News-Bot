@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774117878.6915112,
-        "topic": "Edict of Milan"
-    },
-    {
         "timestamp": 1774124532.274983,
         "topic": "Meiji Restoration Begins"
     },
@@ -2918,5 +2914,9 @@
     {
         "timestamp": 1781886631.005385,
         "topic": "Archduke Franz Ferdinand Assassinated"
+    },
+    {
+        "timestamp": 1781898235.7463,
+        "topic": "Krakatoa Volcano Erupts"
     }
 ]
