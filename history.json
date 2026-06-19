@@ -1,25 +1,5 @@
 [
     {
-        "timestamp": 1774065780.2088463,
-        "topic": "DNA Double Helix Discovered"
-    },
-    {
-        "timestamp": 1774075091.5717442,
-        "topic": "Battle of Thermopylae"
-    },
-    {
-        "timestamp": 1774081726.2409885,
-        "topic": "Edison's Light Bulb"
-    },
-    {
-        "timestamp": 1774088579.8152337,
-        "topic": "Sinking of RMS Titanic"
-    },
-    {
-        "timestamp": 1774096810.4113178,
-        "topic": "Declaration of Independence Signed"
-    },
-    {
         "timestamp": 1774103023.6708646,
         "topic": "Universal Gravitation Discovery"
     },
@@ -2938,5 +2918,9 @@
     {
         "timestamp": 1781841209.2315807,
         "topic": "First Moon Landing"
+    },
+    {
+        "timestamp": 1781875983.4084058,
+        "topic": "Thermopylae Pass Breached"
     }
 ]
