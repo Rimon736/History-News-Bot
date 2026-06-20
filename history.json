@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774196748.3778284,
-        "topic": "German Empire Proclaimed"
-    },
-    {
         "timestamp": 1774204327.5853071,
         "topic": "Fall of Baghdad"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1781970238.7278051,
         "topic": "Fall of Jericho"
+    },
+    {
+        "timestamp": 1781976163.9486291,
+        "topic": "Columbus Reaches Americas"
     }
 ]
