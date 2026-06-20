@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774204327.5853071,
-        "topic": "Fall of Baghdad"
-    },
-    {
         "timestamp": 1774210979.7989554,
         "topic": "Luther's 95 Theses"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1781976163.9486291,
         "topic": "Columbus Reaches Americas"
+    },
+    {
+        "timestamp": 1781983172.8663385,
+        "topic": "Battle of Waterloo"
     }
 ]
