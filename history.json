@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774183342.383328,
-        "topic": "Spanish Armada Defeated"
-    },
-    {
         "timestamp": 1774189466.6408408,
         "topic": "Code of Hammurabi Enacted"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1781951434.861311,
         "topic": "Siberian Cosmic Airburst"
+    },
+    {
+        "timestamp": 1781963577.5894985,
+        "topic": "Great Pyramid Completion"
     }
 ]
