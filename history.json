@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774210979.7989554,
-        "topic": "Luther's 95 Theses"
-    },
-    {
         "timestamp": 1774218123.9621322,
         "topic": "Gandhi Assassinated"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1781983172.8663385,
         "topic": "Battle of Waterloo"
+    },
+    {
+        "timestamp": 1781990001.074602,
+        "topic": "Hammurabi's Code Promulgated"
     }
 ]
