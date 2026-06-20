@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774153064.5481408,
-        "topic": "Wall Street Crash"
-    },
-    {
-        "timestamp": 1774161946.0614505,
-        "topic": "Library of Alexandria Burns"
-    },
-    {
         "timestamp": 1774168218.9987752,
         "topic": "Modern Olympics Inaugurated"
     },
@@ -2918,5 +2910,9 @@
     {
         "timestamp": 1781924125.5426488,
         "topic": "Sinking of Titanic"
+    },
+    {
+        "timestamp": 1781941628.4193738,
+        "topic": "Edison's Light Bulb"
     }
 ]
