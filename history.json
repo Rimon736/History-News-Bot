@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774304904.7974708,
-        "topic": "Normandy Landings Begin"
-    },
-    {
         "timestamp": 1774316874.192055,
         "topic": "Hindenburg Airship Disaster"
     },
@@ -2894,5 +2890,9 @@
     {
         "timestamp": 1782076287.0993772,
         "topic": "X-ray Discovery"
+    },
+    {
+        "timestamp": 1782083369.7322838,
+        "topic": "Mongol Empire Founding"
     }
 ]
