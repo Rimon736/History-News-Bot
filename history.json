@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774270755.5195212,
-        "topic": "Radium & Polonium Discovered"
-    },
-    {
-        "timestamp": 1774277544.15205,
-        "topic": "Founding of Rome"
-    },
-    {
         "timestamp": 1774284873.8797543,
         "topic": "Lincoln Assassination"
     },
@@ -2902,5 +2894,9 @@
     {
         "timestamp": 1782043753.2794065,
         "topic": "Battle of Actium"
+    },
+    {
+        "timestamp": 1782056955.417805,
+        "topic": "Edict of Milan"
     }
 ]
