@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774298086.4440162,
-        "topic": "Mount Pel\u00e9e Eruption"
-    },
-    {
         "timestamp": 1774304904.7974708,
         "topic": "Normandy Landings Begin"
     },
@@ -2894,5 +2890,9 @@
     {
         "timestamp": 1782069899.4632857,
         "topic": "Roman Empire Founded"
+    },
+    {
+        "timestamp": 1782076287.0993772,
+        "topic": "X-ray Discovery"
     }
 ]
