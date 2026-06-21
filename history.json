@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774284873.8797543,
-        "topic": "Lincoln Assassination"
-    },
-    {
-        "timestamp": 1774291758.3474982,
-        "topic": "Unification of Mongol Tribes"
-    },
-    {
         "timestamp": 1774298086.4440162,
         "topic": "Mount Pel\u00e9e Eruption"
     },
@@ -2898,5 +2890,9 @@
     {
         "timestamp": 1782056955.417805,
         "topic": "Edict of Milan"
+    },
+    {
+        "timestamp": 1782069899.4632857,
+        "topic": "Roman Empire Founded"
     }
 ]
