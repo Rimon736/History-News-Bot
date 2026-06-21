@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774230965.282941,
-        "topic": "Naval Battle of Actium"
-    },
-    {
         "timestamp": 1774240065.9576182,
         "topic": "Erie Canal Opening"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1781996624.9118552,
         "topic": "DNA Double Helix"
+    },
+    {
+        "timestamp": 1782013310.125368,
+        "topic": "Akhenaten's Damnatio Memoriae"
     }
 ]
