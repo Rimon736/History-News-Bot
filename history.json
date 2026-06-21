@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774255883.3906162,
-        "topic": "Roman Empire Inaugurated"
-    },
-    {
-        "timestamp": 1774263054.8819304,
-        "topic": "CMBR Discovery"
-    },
-    {
         "timestamp": 1774270755.5195212,
         "topic": "Radium & Polonium Discovered"
     },
@@ -2906,5 +2898,9 @@
     {
         "timestamp": 1782030427.7731209,
         "topic": "Luther's Ninety-five Theses"
+    },
+    {
+        "timestamp": 1782043753.2794065,
+        "topic": "Battle of Actium"
     }
 ]
