@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774384671.5668974,
-        "topic": "Battle of Tours"
-    },
-    {
         "timestamp": 1774391216.1268585,
         "topic": "Alexander Victorious at Issus"
     },
@@ -2874,5 +2870,9 @@
     {
         "timestamp": 1782156136.4030612,
         "topic": "Fall of Western Roman Empire"
+    },
+    {
+        "timestamp": 1782165613.6049736,
+        "topic": "Battle of Cannae"
     }
 ]
