@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1774349339.7431884,
-        "topic": "Telephone Patented"
-    },
-    {
-        "timestamp": 1774357431.6525626,
-        "topic": "Battle of Cannae"
-    },
-    {
-        "timestamp": 1774364090.1922762,
-        "topic": "First Manned Spaceflight"
-    },
-    {
         "timestamp": 1774371465.9683135,
         "topic": "First Smallpox Vaccine"
     },
@@ -2886,5 +2874,9 @@
     {
         "timestamp": 1782121549.352893,
         "topic": "Stock Market Crash"
+    },
+    {
+        "timestamp": 1782141709.6772516,
+        "topic": "Rome Sacked by Visigoths"
     }
 ]
