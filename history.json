@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774391216.1268585,
-        "topic": "Alexander Victorious at Issus"
-    },
-    {
         "timestamp": 1774403609.8285427,
         "topic": "Origin of Species Publication"
     },
@@ -2874,5 +2870,9 @@
     {
         "timestamp": 1782165613.6049736,
         "topic": "Battle of Cannae"
+    },
+    {
+        "timestamp": 1782170770.589324,
+        "topic": "Kidney Transplant Breakthrough"
     }
 ]
