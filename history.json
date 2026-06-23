@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774450572.7773914,
-        "topic": "Movable Type Invented"
-    },
-    {
-        "timestamp": 1774457955.8417392,
-        "topic": "Pearl Harbor Attack"
-    },
-    {
         "timestamp": 1774464744.3568017,
         "topic": "Pantheon's Dedication"
     },
@@ -2862,5 +2854,9 @@
     {
         "timestamp": 1782225601.029748,
         "topic": "Viking America Landing"
+    },
+    {
+        "timestamp": 1782236977.9242108,
+        "topic": "Darwin's Beagle Voyage"
     }
 ]
