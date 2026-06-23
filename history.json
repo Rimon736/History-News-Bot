@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774464744.3568017,
-        "topic": "Pantheon's Dedication"
-    },
-    {
         "timestamp": 1774470930.619135,
         "topic": "Eiffel Tower Completion"
     },
@@ -2858,5 +2854,9 @@
     {
         "timestamp": 1782236977.9242108,
         "topic": "Darwin's Beagle Voyage"
+    },
+    {
+        "timestamp": 1782244533.2909307,
+        "topic": "Battle of Tours"
     }
 ]
