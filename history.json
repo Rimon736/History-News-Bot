@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774443667.8778343,
-        "topic": "Battle of Marathon"
-    },
-    {
         "timestamp": 1774450572.7773914,
         "topic": "Movable Type Invented"
     },
@@ -2862,5 +2858,9 @@
     {
         "timestamp": 1782212334.9595392,
         "topic": "Telephone Invented"
+    },
+    {
+        "timestamp": 1782225601.029748,
+        "topic": "Viking America Landing"
     }
 ]
