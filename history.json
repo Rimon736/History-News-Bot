@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1774412319.7333288,
-        "topic": "First Manned Balloon Flight"
-    },
-    {
-        "timestamp": 1774421908.2785738,
-        "topic": "Transcontinental Railroad Completed"
-    },
-    {
-        "timestamp": 1774428291.7035882,
-        "topic": "Battle of Agincourt"
-    },
-    {
-        "timestamp": 1774435473.8710713,
-        "topic": "Discovery of Antarctica"
-    },
-    {
         "timestamp": 1774443667.8778343,
         "topic": "Battle of Marathon"
     },
@@ -2874,5 +2858,9 @@
     {
         "timestamp": 1782183013.218616,
         "topic": "Founding of Rome"
+    },
+    {
+        "timestamp": 1782212334.9595392,
+        "topic": "Telephone Invented"
     }
 ]
