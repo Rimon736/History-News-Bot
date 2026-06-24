@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774557197.8256793,
-        "topic": "Copernicus's Heliocentric Model"
-    },
-    {
         "timestamp": 1774563956.8883047,
         "topic": "Tsar Nicholas Abdicates"
     },
@@ -2846,5 +2842,9 @@
     {
         "timestamp": 1782330091.2157018,
         "topic": "Qin Dynasty Great Wall"
+    },
+    {
+        "timestamp": 1782336009.9046297,
+        "topic": "Cosmic Background Discovery"
     }
 ]
