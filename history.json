@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774490407.7104254,
-        "topic": "Founding Persian Empire"
-    },
-    {
         "timestamp": 1774499947.3523445,
         "topic": "Ancient Olympic Games"
     },
@@ -2858,5 +2854,9 @@
     {
         "timestamp": 1782255942.7150044,
         "topic": "Battle of Marathon"
+    },
+    {
+        "timestamp": 1782269430.3580658,
+        "topic": "Rosetta Stone Discovery"
     }
 ]
