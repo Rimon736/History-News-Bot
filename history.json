@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774637510.7364354,
-        "topic": "Galileo's Moon Discovery"
-    },
-    {
-        "timestamp": 1774643705.458282,
-        "topic": "Sack of Troy"
-    },
-    {
         "timestamp": 1774650529.9083824,
         "topic": "San Francisco Earthquake"
     },
@@ -2834,5 +2826,9 @@
     {
         "timestamp": 1782410823.3872433,
         "topic": "Historic Everest Ascent"
+    },
+    {
+        "timestamp": 1782422910.536559,
+        "topic": "Alhambra Decree Issued"
     }
 ]
