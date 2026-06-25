@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774622817.6042786,
-        "topic": "Watt's Steam Engine"
-    },
-    {
-        "timestamp": 1774630289.8032358,
-        "topic": "Treaty of Westphalia"
-    },
-    {
         "timestamp": 1774637510.7364354,
         "topic": "Galileo's Moon Discovery"
     },
@@ -2838,5 +2830,9 @@
     {
         "timestamp": 1782397367.434201,
         "topic": "Goryeo Jikji Printing"
+    },
+    {
+        "timestamp": 1782410823.3872433,
+        "topic": "Historic Everest Ascent"
     }
 ]
