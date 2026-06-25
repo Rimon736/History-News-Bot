@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774608245.6860895,
-        "topic": "Vienna Siege Lifted"
-    },
-    {
-        "timestamp": 1774616285.90535,
-        "topic": "Commodore Perry's Arrival"
-    },
-    {
         "timestamp": 1774622817.6042786,
         "topic": "Watt's Steam Engine"
     },
@@ -2842,5 +2834,9 @@
     {
         "timestamp": 1782383950.389389,
         "topic": "Roman Pantheon Completion"
+    },
+    {
+        "timestamp": 1782397367.434201,
+        "topic": "Goryeo Jikji Printing"
     }
 ]
