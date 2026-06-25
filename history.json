@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774586422.8327813,
-        "topic": "Everest Conquered"
-    },
-    {
-        "timestamp": 1774594959.1968236,
-        "topic": "First Council of Nicaea"
-    },
-    {
         "timestamp": 1774601112.9243698,
         "topic": "Electron Discovered"
     },
@@ -2846,5 +2838,9 @@
     {
         "timestamp": 1782355797.905396,
         "topic": "Discovery of Machu Picchu"
+    },
+    {
+        "timestamp": 1782373165.9023476,
+        "topic": "Gettysburg Battle Concludes"
     }
 ]
