@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774662735.3311973,
-        "topic": "First Blood Transfusion"
-    },
-    {
         "timestamp": 1774671483.8732073,
         "topic": "Joan of Arc Executed"
     },
@@ -2830,5 +2826,9 @@
     {
         "timestamp": 1782429263.932914,
         "topic": "First Roman Triumvirate"
+    },
+    {
+        "timestamp": 1782442527.5273268,
+        "topic": "Copernican Heliocentric Theory"
     }
 ]
