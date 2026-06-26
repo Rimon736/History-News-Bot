@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774686888.0092828,
-        "topic": "Golden Gate Bridge Opening"
-    },
-    {
-        "timestamp": 1774693732.2881372,
-        "topic": "Voyager 1 Launch"
-    },
-    {
         "timestamp": 1774701971.3041475,
         "topic": "Hagia Sophia Consecration"
     },
@@ -2826,5 +2818,9 @@
     {
         "timestamp": 1782460036.768149,
         "topic": "Higgs Boson Confirmed"
+    },
+    {
+        "timestamp": 1782470838.2599018,
+        "topic": "Insulin Discovery Announced"
     }
 ]
