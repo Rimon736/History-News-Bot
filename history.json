@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774729576.3539088,
-        "topic": "Prague Defenestration Sparks War"
-    },
-    {
         "timestamp": 1774736726.6342616,
         "topic": "Siddhartha Gautama's Enlightenment"
     },
@@ -2818,5 +2814,9 @@
     {
         "timestamp": 1782502916.975638,
         "topic": "Mount Tambora Eruption"
+    },
+    {
+        "timestamp": 1782508531.5665429,
+        "topic": "Golden Gate Bridge"
     }
 ]
