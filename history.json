@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774722933.5262284,
-        "topic": "Battle of Kadesh"
-    },
-    {
         "timestamp": 1774729576.3539088,
         "topic": "Prague Defenestration Sparks War"
     },
@@ -2818,5 +2814,9 @@
     {
         "timestamp": 1782495833.101138,
         "topic": "Great Wall of Gorgan"
+    },
+    {
+        "timestamp": 1782502916.975638,
+        "topic": "Mount Tambora Eruption"
     }
 ]
