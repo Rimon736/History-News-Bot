@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774823303.152989,
-        "topic": "Pont du Gard Completion"
-    },
-    {
         "timestamp": 1774836364.7646592,
         "topic": "Daguerreotype Process Unveiled"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1782593876.5337858,
         "topic": "D-Day Landings"
+    },
+    {
+        "timestamp": 1782601162.0045998,
+        "topic": "Meiji Restoration Begins"
     }
 ]
