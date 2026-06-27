@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774767545.1192098,
-        "topic": "Jerusalem Temple Destruction"
-    },
-    {
-        "timestamp": 1774773382.7389905,
-        "topic": "Paper Invented China"
-    },
-    {
         "timestamp": 1774780188.6247208,
         "topic": "Jamestown Settlement Established"
     },
@@ -2818,5 +2810,9 @@
     {
         "timestamp": 1782543018.189359,
         "topic": "German Empire Proclaimed"
+    },
+    {
+        "timestamp": 1782554564.3030756,
+        "topic": "Sack of Baghdad"
     }
 ]
