@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774868356.6601584,
-        "topic": "Mona Lisa Completion"
-    },
-    {
-        "timestamp": 1774876263.1728737,
-        "topic": "Hiroshima Atomic Bombing"
-    },
-    {
         "timestamp": 1774882896.995688,
         "topic": "Alexander's Demise"
     },
@@ -2806,5 +2798,9 @@
     {
         "timestamp": 1782642269.0593662,
         "topic": "Chinese Movable Type"
+    },
+    {
+        "timestamp": 1782653288.7690122,
+        "topic": "Cincinnatus Appointed Dictator"
     }
 ]
