@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774896935.5131478,
-        "topic": "Great Chicago Fire"
-    },
-    {
         "timestamp": 1774903314.3435795,
         "topic": "Emu War Begins"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1782666299.0320456,
         "topic": "First Blood Transfusion"
+    },
+    {
+        "timestamp": 1782674023.7965624,
+        "topic": "Joan of Arc Executed"
     }
 ]
