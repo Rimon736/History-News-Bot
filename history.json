@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774850241.9125729,
-        "topic": "Coronation of Empress Wu"
-    },
-    {
-        "timestamp": 1774855728.5449524,
-        "topic": "Lighthouse of Alexandria Completed"
-    },
-    {
         "timestamp": 1774861686.0543427,
         "topic": "World Wide Web Unveiled"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1782617069.4510605,
         "topic": "Transcontinental Railroad Complete"
+    },
+    {
+        "timestamp": 1782632855.2866313,
+        "topic": "Peace of Westphalia Signed"
     }
 ]
