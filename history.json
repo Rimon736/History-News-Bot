@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774903314.3435795,
-        "topic": "Emu War Begins"
-    },
-    {
         "timestamp": 1774909924.564419,
         "topic": "East India Company Founded"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1782674023.7965624,
         "topic": "Joan of Arc Executed"
+    },
+    {
+        "timestamp": 1782680271.5585976,
+        "topic": "First Manned Balloon Flight"
     }
 ]
