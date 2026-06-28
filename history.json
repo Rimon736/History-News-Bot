@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774836364.7646592,
-        "topic": "Daguerreotype Process Unveiled"
-    },
-    {
         "timestamp": 1774850241.9125729,
         "topic": "Coronation of Empress Wu"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1782601162.0045998,
         "topic": "Meiji Restoration Begins"
+    },
+    {
+        "timestamp": 1782617069.4510605,
+        "topic": "Transcontinental Railroad Complete"
     }
 ]
