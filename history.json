@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774909924.564419,
-        "topic": "East India Company Founded"
-    },
-    {
         "timestamp": 1774922536.01142,
         "topic": "War of Worlds Broadcast"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1782680271.5585976,
         "topic": "First Manned Balloon Flight"
+    },
+    {
+        "timestamp": 1782687544.649595,
+        "topic": "Sputnik 1 Launched"
     }
 ]
