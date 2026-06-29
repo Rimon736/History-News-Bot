@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774983490.0408094,
-        "topic": "Great Enclosure Completion"
-    },
-    {
-        "timestamp": 1774989609.5646365,
-        "topic": "Cuneiform Writing Emerges"
-    },
-    {
         "timestamp": 1774996288.0379977,
         "topic": "Hadrian's Wall Completed"
     },
@@ -2782,5 +2774,9 @@
     {
         "timestamp": 1782756388.1256702,
         "topic": "Roman Aqueduct Completion"
+    },
+    {
+        "timestamp": 1782768156.264809,
+        "topic": "Battle of Kadesh"
     }
 ]
