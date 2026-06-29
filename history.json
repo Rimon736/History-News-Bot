@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1774935786.2047336,
-        "topic": "Founding Roman Republic"
-    },
-    {
-        "timestamp": 1774940921.228919,
-        "topic": "Louisiana Purchase Agreed"
-    },
-    {
         "timestamp": 1774947297.6658947,
         "topic": "Assyrian Siege Jerusalem"
     },
@@ -2802,5 +2794,9 @@
     {
         "timestamp": 1782703750.2560253,
         "topic": "Napoleon's Imperial Coronation"
+    },
+    {
+        "timestamp": 1782723308.038209,
+        "topic": "Oxford English Dictionary"
     }
 ]
