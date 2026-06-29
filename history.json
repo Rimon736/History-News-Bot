@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1774922536.01142,
-        "topic": "War of Worlds Broadcast"
-    },
-    {
         "timestamp": 1774935786.2047336,
         "topic": "Founding Roman Republic"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1782687544.649595,
         "topic": "Sputnik 1 Launched"
+    },
+    {
+        "timestamp": 1782703750.2560253,
+        "topic": "Napoleon's Imperial Coronation"
     }
 ]
