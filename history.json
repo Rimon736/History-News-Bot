@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775076043.952904,
-        "topic": "Fall of Carthage"
-    },
-    {
         "timestamp": 1775082846.2528026,
         "topic": "Relativity Theory Published"
     },
@@ -2766,5 +2762,9 @@
     {
         "timestamp": 1782848962.5150065,
         "topic": "First Manned Spaceflight"
+    },
+    {
+        "timestamp": 1782854710.2003741,
+        "topic": "Hyksos Invasion Egypt"
     }
 ]
