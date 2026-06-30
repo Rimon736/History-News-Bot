@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775022812.6186304,
-        "topic": "Magnetic Compass Invented"
-    },
-    {
-        "timestamp": 1775027769.9233932,
-        "topic": "Plato's Academy Founded"
-    },
-    {
         "timestamp": 1775034031.4930356,
         "topic": "Prophet Muhammad's Hegira"
     },
@@ -2778,5 +2770,9 @@
     {
         "timestamp": 1782788073.9462976,
         "topic": "Moai Statues Completed"
+    },
+    {
+        "timestamp": 1782805849.4624014,
+        "topic": "Chernobyl Reactor Explosion"
     }
 ]
