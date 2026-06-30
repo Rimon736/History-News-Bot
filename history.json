@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775009420.0497327,
-        "topic": "Paper Money Introduced China"
-    },
-    {
         "timestamp": 1775022812.6186304,
         "topic": "Magnetic Compass Invented"
     },
@@ -2778,5 +2774,9 @@
     {
         "timestamp": 1782773569.6525674,
         "topic": "Battle of Salamis"
+    },
+    {
+        "timestamp": 1782788073.9462976,
+        "topic": "Moai Statues Completed"
     }
 ]
