@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775034031.4930356,
-        "topic": "Prophet Muhammad's Hegira"
-    },
-    {
-        "timestamp": 1775040744.4007623,
-        "topic": "Founding Ming Dynasty"
-    },
-    {
         "timestamp": 1775049231.431552,
         "topic": "Stonehenge Completion Announced"
     },
@@ -2774,5 +2766,9 @@
     {
         "timestamp": 1782805849.4624014,
         "topic": "Chernobyl Reactor Explosion"
+    },
+    {
+        "timestamp": 1782816834.0258768,
+        "topic": "Roman Republic Founded"
     }
 ]
