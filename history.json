@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775049231.431552,
-        "topic": "Stonehenge Completion Announced"
-    },
-    {
         "timestamp": 1775055729.789653,
         "topic": "Earth's Circumference Measured"
     },
@@ -2770,5 +2766,9 @@
     {
         "timestamp": 1782816834.0258768,
         "topic": "Roman Republic Founded"
+    },
+    {
+        "timestamp": 1782828616.4579813,
+        "topic": "Smallpox Vaccine Breakthrough"
     }
 ]
