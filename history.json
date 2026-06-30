@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775055729.789653,
-        "topic": "Earth's Circumference Measured"
-    },
-    {
-        "timestamp": 1775062235.3786075,
-        "topic": "Angkor Wat Completed"
-    },
-    {
         "timestamp": 1775069826.9707222,
         "topic": "Smallpox Eradication Declared"
     },
@@ -2770,5 +2762,9 @@
     {
         "timestamp": 1782828616.4579813,
         "topic": "Smallpox Vaccine Breakthrough"
+    },
+    {
+        "timestamp": 1782841764.2591298,
+        "topic": "Plato Founds Academy"
     }
 ]
