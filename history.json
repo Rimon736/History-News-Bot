@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775135098.4950073,
-        "topic": "Ur-Nammu's Code Promulgated"
-    },
-    {
-        "timestamp": 1775141590.835413,
-        "topic": "Nelson Mandela's Release"
-    },
-    {
         "timestamp": 1775148840.6823997,
         "topic": "Encyclop\u00e9die First Volume Published"
     },
@@ -2758,5 +2750,9 @@
     {
         "timestamp": 1782909089.9417915,
         "topic": "Angkor Wat Completion"
+    },
+    {
+        "timestamp": 1782922988.8207772,
+        "topic": "Founding of Alexandria"
     }
 ]
