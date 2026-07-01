@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775168941.83211,
-        "topic": "Da Gama Reaches India"
-    },
-    {
         "timestamp": 1775181609.8788903,
         "topic": "Germ Theory Postulated"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1782941031.5245328,
         "topic": "Paper Invented in China"
+    },
+    {
+        "timestamp": 1782947422.2958236,
+        "topic": "Song Dynasty Gunpowder Warfare"
     }
 ]
