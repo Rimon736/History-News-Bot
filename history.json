@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775148840.6823997,
-        "topic": "Encyclop\u00e9die First Volume Published"
-    },
-    {
-        "timestamp": 1775155972.5603883,
-        "topic": "Amundsen Reaches South Pole"
-    },
-    {
         "timestamp": 1775161936.655718,
         "topic": "Neptune Discovered"
     },
@@ -2754,5 +2746,9 @@
     {
         "timestamp": 1782922988.8207772,
         "topic": "Founding of Alexandria"
+    },
+    {
+        "timestamp": 1782935280.3639495,
+        "topic": "Great Serpent Mound"
     }
 ]
