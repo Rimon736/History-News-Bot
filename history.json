@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775119972.4178638,
-        "topic": "Hieroglyph Decipherment"
-    },
-    {
-        "timestamp": 1775126949.3550398,
-        "topic": "Russian October Revolution"
-    },
-    {
         "timestamp": 1775135098.4950073,
         "topic": "Ur-Nammu's Code Promulgated"
     },
@@ -2762,5 +2754,9 @@
     {
         "timestamp": 1782893249.1894033,
         "topic": "Qin Dynasty Unifies China"
+    },
+    {
+        "timestamp": 1782909089.9417915,
+        "topic": "Angkor Wat Completion"
     }
 ]
