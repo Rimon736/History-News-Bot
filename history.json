@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775227237.0443377,
-        "topic": "King Louis XVI Executed"
-    },
-    {
         "timestamp": 1775234203.8135104,
         "topic": "Mount Fuji Erupts"
     },
@@ -2742,5 +2738,9 @@
     {
         "timestamp": 1783000212.8276076,
         "topic": "Da Gama Reaches India"
+    },
+    {
+        "timestamp": 1783008205.1374102,
+        "topic": "Pharos Lighthouse Completion"
     }
 ]
