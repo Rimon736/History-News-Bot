@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775212845.2711856,
-        "topic": "Justinian Code Enacted"
-    },
-    {
-        "timestamp": 1775220993.6742425,
-        "topic": "Outlawing War Treaty"
-    },
-    {
         "timestamp": 1775227237.0443377,
         "topic": "King Louis XVI Executed"
     },
@@ -2746,5 +2738,9 @@
     {
         "timestamp": 1782988415.4695053,
         "topic": "Great Emu War"
+    },
+    {
+        "timestamp": 1783000212.8276076,
+        "topic": "Da Gama Reaches India"
     }
 ]
