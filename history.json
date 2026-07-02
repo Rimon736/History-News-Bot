@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775190928.5100126,
-        "topic": "Brooklyn Bridge Opening"
-    },
-    {
-        "timestamp": 1775199829.9365785,
-        "topic": "Transatlantic Cable Inauguration"
-    },
-    {
         "timestamp": 1775206124.2752774,
         "topic": "Alexandria Library Inaugurated"
     },
@@ -2750,5 +2742,9 @@
     {
         "timestamp": 1782960654.643473,
         "topic": "Discovery of Radium"
+    },
+    {
+        "timestamp": 1782977260.5362046,
+        "topic": "Spanish Inquisition Established"
     }
 ]
