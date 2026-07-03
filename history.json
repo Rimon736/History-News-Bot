@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775313075.9971282,
-        "topic": "Great Sphinx Construction"
-    },
-    {
         "timestamp": 1775320314.8886945,
         "topic": "Bologna University Founded"
     },
@@ -2726,5 +2722,9 @@
     {
         "timestamp": 1783086825.3973472,
         "topic": "Pearl Harbor Attack"
+    },
+    {
+        "timestamp": 1783093885.760933,
+        "topic": "Great Sphinx Completed"
     }
 ]
