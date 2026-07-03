@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775334426.1848307,
-        "topic": "Oxygen Gas Isolated"
-    },
-    {
         "timestamp": 1775341599.386734,
         "topic": "Periodic Table Unveiled"
     },
@@ -2726,5 +2722,9 @@
     {
         "timestamp": 1783106227.827551,
         "topic": "Theory of Relativity"
+    },
+    {
+        "timestamp": 1783112442.504557,
+        "topic": "Lincoln Assassinated"
     }
 ]
