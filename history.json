@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775255395.9723544,
-        "topic": "Franklin's Kite Experiment"
-    },
-    {
-        "timestamp": 1775267566.181804,
-        "topic": "Lewis and Clark Return"
-    },
-    {
         "timestamp": 1775276104.4681058,
         "topic": "Socrates' Execution"
     },
@@ -2738,5 +2730,9 @@
     {
         "timestamp": 1783026082.942211,
         "topic": "Great Fire of Rome"
+    },
+    {
+        "timestamp": 1783046011.5906534,
+        "topic": "Cuneiform Script Unveiled"
     }
 ]
