@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775354721.8469791,
-        "topic": "Peasant's Revolt Erupts"
-    },
-    {
         "timestamp": 1775367826.984925,
         "topic": "Glorious Revolution Begins"
     },
@@ -2726,5 +2722,9 @@
     {
         "timestamp": 1783119512.6448994,
         "topic": "Stonehenge Completion"
+    },
+    {
+        "timestamp": 1783132281.1682901,
+        "topic": "Alexander the Great Dies"
     }
 ]
