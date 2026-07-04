@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775399574.406773,
-        "topic": "London Underground Opens"
-    },
-    {
         "timestamp": 1775406784.3553984,
         "topic": "David Statue Unveiled"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783170937.1816387,
         "topic": "Prophet Muhammad's Hegira"
+    },
+    {
+        "timestamp": 1783177364.8461227,
+        "topic": "Burning of Alexandria's Library"
     }
 ]
