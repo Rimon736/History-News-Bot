@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775406784.3553984,
-        "topic": "David Statue Unveiled"
-    },
-    {
         "timestamp": 1775414320.8926115,
         "topic": "Babylonian World Map"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783177364.8461227,
         "topic": "Burning of Alexandria's Library"
+    },
+    {
+        "timestamp": 1783184424.6263387,
+        "topic": "Che Guevara Executed"
     }
 ]
