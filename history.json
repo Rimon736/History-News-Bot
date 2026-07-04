@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775385010.818424,
-        "topic": "Galileo's Heresy Trial"
-    },
-    {
-        "timestamp": 1775393433.9329858,
-        "topic": "Emancipation Proclamation"
-    },
-    {
         "timestamp": 1775399574.406773,
         "topic": "London Underground Opens"
     },
@@ -2722,5 +2714,9 @@
     {
         "timestamp": 1783159496.296263,
         "topic": "Discovery of Neptune"
+    },
+    {
+        "timestamp": 1783170937.1816387,
+        "topic": "Prophet Muhammad's Hegira"
     }
 ]
