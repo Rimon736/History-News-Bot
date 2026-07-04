@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775428057.790208,
-        "topic": "Invasion of Poland"
-    },
-    {
         "timestamp": 1775441182.7399015,
         "topic": "G\u00f6bekli Tepe Discovery"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783198316.9675384,
         "topic": "Brooklyn Bridge Inauguration"
+    },
+    {
+        "timestamp": 1783205739.4756148,
+        "topic": "Gao-Guenie Meteorite Fall"
     }
 ]
