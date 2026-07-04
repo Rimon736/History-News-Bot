@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775414320.8926115,
-        "topic": "Babylonian World Map"
-    },
-    {
         "timestamp": 1775420945.1473148,
         "topic": "Dreyfus Convicted Treason"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783184424.6263387,
         "topic": "Che Guevara Executed"
+    },
+    {
+        "timestamp": 1783191863.3091505,
+        "topic": "Galileo Convicted Heresy"
     }
 ]
