@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775367826.984925,
-        "topic": "Glorious Revolution Begins"
-    },
-    {
         "timestamp": 1775372464.2966712,
         "topic": "Unification Ancient Egypt"
     },
@@ -2726,5 +2722,9 @@
     {
         "timestamp": 1783132281.1682901,
         "topic": "Alexander the Great Dies"
+    },
+    {
+        "timestamp": 1783147466.710369,
+        "topic": "Council of Nicaea"
     }
 ]
