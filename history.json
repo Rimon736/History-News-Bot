@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775372464.2966712,
-        "topic": "Unification Ancient Egypt"
-    },
-    {
-        "timestamp": 1775378319.7059777,
-        "topic": "Blood Circulation Discovery"
-    },
-    {
         "timestamp": 1775385010.818424,
         "topic": "Galileo's Heresy Trial"
     },
@@ -2726,5 +2718,9 @@
     {
         "timestamp": 1783147466.710369,
         "topic": "Council of Nicaea"
+    },
+    {
+        "timestamp": 1783159496.296263,
+        "topic": "Discovery of Neptune"
     }
 ]
