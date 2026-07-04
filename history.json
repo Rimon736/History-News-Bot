@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775420945.1473148,
-        "topic": "Dreyfus Convicted Treason"
-    },
-    {
         "timestamp": 1775428057.790208,
         "topic": "Invasion of Poland"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783191863.3091505,
         "topic": "Galileo Convicted Heresy"
+    },
+    {
+        "timestamp": 1783198316.9675384,
+        "topic": "Brooklyn Bridge Inauguration"
     }
 ]
