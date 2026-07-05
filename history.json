@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775461583.6431322,
-        "topic": "League of Nations Established"
-    },
-    {
-        "timestamp": 1775466303.9446485,
-        "topic": "Hieroglyphs Deciphered"
-    },
-    {
         "timestamp": 1775472786.1590571,
         "topic": "Uranus Discovered"
     },
@@ -2718,5 +2710,9 @@
     {
         "timestamp": 1783236097.068687,
         "topic": "Kite Experiment Electrifies"
+    },
+    {
+        "timestamp": 1783246110.035573,
+        "topic": "World Wide Web Public Release"
     }
 ]
