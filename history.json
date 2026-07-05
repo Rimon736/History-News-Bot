@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775472786.1590571,
-        "topic": "Uranus Discovered"
-    },
-    {
-        "timestamp": 1775480518.7313726,
-        "topic": "Tennis Court Oath"
-    },
-    {
         "timestamp": 1775486584.4517164,
         "topic": "Spectacles Invented"
     },
@@ -2714,5 +2706,9 @@
     {
         "timestamp": 1783246110.035573,
         "topic": "World Wide Web Public Release"
+    },
+    {
+        "timestamp": 1783257752.6395807,
+        "topic": "Fall of Troy"
     }
 ]
