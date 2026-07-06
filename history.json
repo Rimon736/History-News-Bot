@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775540750.0980062,
-        "topic": "Universal Human Rights Declaration"
-    },
-    {
-        "timestamp": 1775545875.1871364,
-        "topic": "Discovery of Ancient Troy"
-    },
-    {
         "timestamp": 1775552305.912068,
         "topic": "Statue of Liberty Unveiling"
     },
@@ -2710,5 +2702,9 @@
     {
         "timestamp": 1783305954.1476266,
         "topic": "Terracotta Army Discovery"
+    },
+    {
+        "timestamp": 1783325772.8168619,
+        "topic": "Great Chicago Fire"
     }
 ]
