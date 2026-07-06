@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775527363.3122733,
-        "topic": "Sinking of Lusitania"
-    },
-    {
         "timestamp": 1775540750.0980062,
         "topic": "Universal Human Rights Declaration"
     },
@@ -2710,5 +2706,9 @@
     {
         "timestamp": 1783292330.5018036,
         "topic": "Helen of Troy Abduction"
+    },
+    {
+        "timestamp": 1783305954.1476266,
+        "topic": "Terracotta Army Discovery"
     }
 ]
