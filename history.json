@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775675489.8128738,
-        "topic": "Edict of Nantes"
-    },
-    {
         "timestamp": 1775687765.3405252,
         "topic": "Ottoman Empire Founded"
     },
@@ -2698,5 +2694,9 @@
     {
         "timestamp": 1783446949.5346973,
         "topic": "East India Company Chartered"
+    },
+    {
+        "timestamp": 1783453753.560186,
+        "topic": "Statue of Liberty Unveiling"
     }
 ]
