@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775645677.2549815,
-        "topic": "Women's Suffrage Ratified"
-    },
-    {
-        "timestamp": 1775654082.5632243,
-        "topic": "Harvard College Founded"
-    },
-    {
         "timestamp": 1775675489.8128738,
         "topic": "Edict of Nantes"
     },
@@ -2698,5 +2690,9 @@
     {
         "timestamp": 1783421495.8333094,
         "topic": "Eyeglasses Invented"
+    },
+    {
+        "timestamp": 1783434134.529176,
+        "topic": "Transatlantic Cable Completed"
     }
 ]
