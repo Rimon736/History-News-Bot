@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775740773.2040732,
-        "topic": "Slavery Abolished British Empire"
-    },
-    {
         "timestamp": 1775774280.498801,
         "topic": "Papacy Relocates Avignon"
     },
@@ -2702,5 +2698,9 @@
     {
         "timestamp": 1783505569.3269491,
         "topic": "Oxygen Discovery Announced"
+    },
+    {
+        "timestamp": 1783518791.078485,
+        "topic": "Assyrian Siege Lachish"
     }
 ]
