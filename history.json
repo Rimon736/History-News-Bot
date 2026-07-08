@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775709137.3580103,
-        "topic": "Lascaux Cave Discovery"
-    },
-    {
         "timestamp": 1775719037.2830133,
         "topic": "Lindisfarne Monastery Raid"
     },
@@ -2702,5 +2698,9 @@
     {
         "timestamp": 1783476907.3601525,
         "topic": "Cleopatra's Tragic Demise"
+    },
+    {
+        "timestamp": 1783491864.2988133,
+        "topic": "Spanish Armada Defeated"
     }
 ]
