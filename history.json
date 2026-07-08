@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775699736.6375237,
-        "topic": "Trans-Siberian Railway"
-    },
-    {
         "timestamp": 1775709137.3580103,
         "topic": "Lascaux Cave Discovery"
     },
@@ -2702,5 +2698,9 @@
     {
         "timestamp": 1783465019.741989,
         "topic": "Sagrada Familia Construction Begins"
+    },
+    {
+        "timestamp": 1783476907.3601525,
+        "topic": "Cleopatra's Tragic Demise"
     }
 ]
