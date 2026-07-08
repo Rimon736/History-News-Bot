@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775774280.498801,
-        "topic": "Papacy Relocates Avignon"
-    },
-    {
         "timestamp": 1775805798.8402038,
         "topic": "Antikythera Mechanism Discovery"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783544606.3623843,
         "topic": "Caligula Assassination"
+    },
+    {
+        "timestamp": 1783551692.6043823,
+        "topic": "Magnetic Compass Invented"
     }
 ]
