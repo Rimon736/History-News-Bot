@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775805798.8402038,
-        "topic": "Antikythera Mechanism Discovery"
-    },
-    {
         "timestamp": 1775832285.7754378,
         "topic": "Victory in Europe Declared"
     },
@@ -2722,5 +2718,9 @@
     {
         "timestamp": 1783564426.2751918,
         "topic": "Viking Iceland Settlement"
+    },
+    {
+        "timestamp": 1783582420.7896156,
+        "topic": "Founding Ottoman Empire"
     }
 ]
