@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775832285.7754378,
-        "topic": "Victory in Europe Declared"
-    },
-    {
-        "timestamp": 1775839573.741466,
-        "topic": "California Gold Discovered"
-    },
-    {
         "timestamp": 1775872583.7409446,
         "topic": "Marco Polo Departs"
     },
@@ -2726,5 +2718,9 @@
     {
         "timestamp": 1783594225.7520902,
         "topic": "Charlemagne's Coronation"
+    },
+    {
+        "timestamp": 1783619528.8540683,
+        "topic": "American Independence Recognized"
     }
 ]
