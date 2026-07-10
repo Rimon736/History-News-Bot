@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775939336.4637086,
-        "topic": "Greenland Norse Settlement"
-    },
-    {
         "timestamp": 1775946515.3903692,
         "topic": "Silk Road Inauguration"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783711312.5774488,
         "topic": "Erie Canal Completion"
+    },
+    {
+        "timestamp": 1783717379.9293404,
+        "topic": "Roman Teutoburg Defeat"
     }
 ]
