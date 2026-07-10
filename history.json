@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775896708.002458,
-        "topic": "Battle of Alesia"
-    },
-    {
-        "timestamp": 1775903478.9868462,
-        "topic": "Founding of Carthage"
-    },
-    {
         "timestamp": 1775911799.0239246,
         "topic": "Diamond Sutra Printing"
     },
@@ -2726,5 +2718,9 @@
     {
         "timestamp": 1783668701.9238899,
         "topic": "Dante's Inferno Completion"
+    },
+    {
+        "timestamp": 1783680553.9579983,
+        "topic": "Lusitania Sinks"
     }
 ]
