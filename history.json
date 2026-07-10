@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775918043.0343926,
-        "topic": "Treaty of Tordesillas"
-    },
-    {
-        "timestamp": 1775925165.740593,
-        "topic": "Brunelleschi's Dome Completed"
-    },
-    {
         "timestamp": 1775932778.903951,
         "topic": "Compound Microscope Invented"
     },
@@ -2722,5 +2714,9 @@
     {
         "timestamp": 1783692758.3474195,
         "topic": "Louvre Museum Opens"
+    },
+    {
+        "timestamp": 1783705503.4819458,
+        "topic": "Schliemann's Troy Discovery"
     }
 ]
