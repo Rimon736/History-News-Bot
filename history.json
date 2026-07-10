@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1775881319.5077991,
-        "topic": "Phoenician Africa Circumnavigation"
-    },
-    {
-        "timestamp": 1775890630.698896,
-        "topic": "Queen Elizabeth Coronation"
-    },
-    {
         "timestamp": 1775896708.002458,
         "topic": "Battle of Alesia"
     },
@@ -2730,5 +2722,9 @@
     {
         "timestamp": 1783650948.974365,
         "topic": "Geneva Convention Signed"
+    },
+    {
+        "timestamp": 1783668701.9238899,
+        "topic": "Dante's Inferno Completion"
     }
 ]
