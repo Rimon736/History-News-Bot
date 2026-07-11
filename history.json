@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775959791.2196746,
-        "topic": "Discovery Mohenjo-Daro"
-    },
-    {
         "timestamp": 1775973151.875347,
         "topic": "Telescope Invented"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783724234.6290803,
         "topic": "Louisiana Purchase Signed"
+    },
+    {
+        "timestamp": 1783735904.4264596,
+        "topic": "Pendulum Clock Invented"
     }
 ]
