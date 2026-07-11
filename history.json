@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775998500.6366596,
-        "topic": "Capture of Jerusalem"
-    },
-    {
         "timestamp": 1776004694.500593,
         "topic": "Petra Treasury Completion"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783767650.8806198,
         "topic": "Suez Canal Construction"
+    },
+    {
+        "timestamp": 1783775351.0205054,
+        "topic": "President Kennedy Assassinated"
     }
 ]
