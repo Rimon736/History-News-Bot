@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1775973151.875347,
-        "topic": "Telescope Invented"
-    },
-    {
         "timestamp": 1775977781.0504954,
         "topic": "Iran Monarchy Overthrown"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783735904.4264596,
         "topic": "Pendulum Clock Invented"
+    },
+    {
+        "timestamp": 1783750194.2902017,
+        "topic": "Carthage Founded"
     }
 ]
