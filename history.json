@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776011669.5052416,
-        "topic": "Pluto Discovered"
-    },
-    {
         "timestamp": 1776019314.0228355,
         "topic": "Dome of Rock Completion"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783781367.9434595,
         "topic": "Mutiny on the Bounty"
+    },
+    {
+        "timestamp": 1783788739.597087,
+        "topic": "Lascaux Caves Discovered"
     }
 ]
