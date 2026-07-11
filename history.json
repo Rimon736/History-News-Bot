@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776025924.4708495,
-        "topic": "Ur Ziggurat Completion"
-    },
-    {
         "timestamp": 1776032970.9480894,
         "topic": "Founding St. Petersburg"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783796163.5169683,
         "topic": "Giza Pyramid Construction"
+    },
+    {
+        "timestamp": 1783802566.7593434,
+        "topic": "Ancient Temple Construction"
     }
 ]
