@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776032970.9480894,
-        "topic": "Founding St. Petersburg"
-    },
-    {
         "timestamp": 1776046473.7557626,
         "topic": "Queen Elizabeth Coronation"
     },
@@ -2718,5 +2714,9 @@
     {
         "timestamp": 1783802566.7593434,
         "topic": "Ancient Temple Construction"
+    },
+    {
+        "timestamp": 1783809778.8722715,
+        "topic": "Ancient Hieroglyphic Development"
     }
 ]
