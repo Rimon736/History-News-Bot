@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776093242.5816572,
-        "topic": "Lydian Coinage Unveiled"
-    },
-    {
         "timestamp": 1776107412.9568863,
         "topic": "Cherokee Nation Exodus"
     },
@@ -2734,5 +2730,9 @@
     {
         "timestamp": 1783867978.2126715,
         "topic": "Zheng He's First Voyage"
+    },
+    {
+        "timestamp": 1783875335.988135,
+        "topic": "First Paper Money"
     }
 ]
