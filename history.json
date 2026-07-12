@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776107412.9568863,
-        "topic": "Cherokee Nation Exodus"
-    },
-    {
         "timestamp": 1776153332.3991807,
         "topic": "First Public Railway Opens"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1783882788.3295076,
         "topic": "Galileo's Starry Messenger"
+    },
+    {
+        "timestamp": 1783888798.7753818,
+        "topic": "Battle of Kalinga"
     }
 ]
