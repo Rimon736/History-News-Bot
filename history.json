@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776206546.436032,
-        "topic": "Cyrus Conquers Babylon"
-    },
-    {
         "timestamp": 1776218782.1915066,
         "topic": "Yuan Dynasty Founded"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1783976066.0382807,
         "topic": "Amundsen Reaches South Pole"
+    },
+    {
+        "timestamp": 1783983168.68065,
+        "topic": "East-West Schism"
     }
 ]
