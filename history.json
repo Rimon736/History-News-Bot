@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776199841.7028098,
-        "topic": "Battle of Somme Begins"
-    },
-    {
         "timestamp": 1776206546.436032,
         "topic": "Cyrus Conquers Babylon"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1783970341.7112865,
         "topic": "Diocletian Abdicates Power"
+    },
+    {
+        "timestamp": 1783976066.0382807,
+        "topic": "Amundsen Reaches South Pole"
     }
 ]
