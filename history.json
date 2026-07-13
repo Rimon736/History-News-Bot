@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776164405.3084693,
-        "topic": "Treaty of Karlowitz"
-    },
-    {
-        "timestamp": 1776172725.763896,
-        "topic": "Roman Defeat at Carrhae"
-    },
-    {
         "timestamp": 1776179479.9974473,
         "topic": "US 13th Amendment Ratified"
     },
@@ -2746,5 +2738,9 @@
     {
         "timestamp": 1783940207.885309,
         "topic": "Toba Catastrophe Eruption"
+    },
+    {
+        "timestamp": 1783952773.8378124,
+        "topic": "Battle of Issus"
     }
 ]
