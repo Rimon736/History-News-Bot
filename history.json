@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776153332.3991807,
-        "topic": "First Public Railway Opens"
-    },
-    {
-        "timestamp": 1776158110.7420707,
-        "topic": "Founding Nalanda University"
-    },
-    {
         "timestamp": 1776164405.3084693,
         "topic": "Treaty of Karlowitz"
     },
@@ -2750,5 +2742,9 @@
     {
         "timestamp": 1783925383.0509033,
         "topic": "Gallic Sack of Rome"
+    },
+    {
+        "timestamp": 1783940207.885309,
+        "topic": "Toba Catastrophe Eruption"
     }
 ]
