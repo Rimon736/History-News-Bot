@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776179479.9974473,
-        "topic": "US 13th Amendment Ratified"
-    },
-    {
-        "timestamp": 1776186197.956844,
-        "topic": "Women's Rights Convention"
-    },
-    {
         "timestamp": 1776193755.5870974,
         "topic": "Amsterdam Stock Exchange Founded"
     },
@@ -2742,5 +2734,9 @@
     {
         "timestamp": 1783952773.8378124,
         "topic": "Battle of Issus"
+    },
+    {
+        "timestamp": 1783965113.7180674,
+        "topic": "Martin Luther King Jr. Assassinated"
     }
 ]
