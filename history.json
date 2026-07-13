@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776193755.5870974,
-        "topic": "Amsterdam Stock Exchange Founded"
-    },
-    {
         "timestamp": 1776199841.7028098,
         "topic": "Battle of Somme Begins"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1783965113.7180674,
         "topic": "Martin Luther King Jr. Assassinated"
+    },
+    {
+        "timestamp": 1783970341.7112865,
+        "topic": "Diocletian Abdicates Power"
     }
 ]
