@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776280285.346499,
-        "topic": "Great Lisbon Earthquake"
-    },
-    {
         "timestamp": 1776285804.5737922,
         "topic": "Janszoon's Australia Landing"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1784049021.4981427,
         "topic": "Africa Circumnavigated"
+    },
+    {
+        "timestamp": 1784056349.5190692,
+        "topic": "Siege of Carthage Concludes"
     }
 ]
