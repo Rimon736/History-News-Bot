@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776239621.8258057,
-        "topic": "Founding of Baghdad"
-    },
-    {
-        "timestamp": 1776244553.222543,
-        "topic": "Artemis Temple Destruction"
-    },
-    {
         "timestamp": 1776250618.812857,
         "topic": "Hatshepsut's Punt Expedition"
     },
@@ -2742,5 +2734,9 @@
     {
         "timestamp": 1784009266.2042584,
         "topic": "Battle of Leuctra"
+    },
+    {
+        "timestamp": 1784022870.2013829,
+        "topic": "The Great Stink"
     }
 ]
