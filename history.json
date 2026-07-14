@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776285804.5737922,
-        "topic": "Janszoon's Australia Landing"
-    },
-    {
         "timestamp": 1776292727.425002,
         "topic": "Rosetta Stone Deciphered"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1784056349.5190692,
         "topic": "Siege of Carthage Concludes"
+    },
+    {
+        "timestamp": 1784062579.6256819,
+        "topic": "Lydian Coinage Unveiled"
     }
 ]
