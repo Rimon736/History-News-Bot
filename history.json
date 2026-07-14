@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776292727.425002,
-        "topic": "Rosetta Stone Deciphered"
-    },
-    {
         "timestamp": 1776305621.2341309,
         "topic": "Pompeii Rediscovery Begins"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1784062579.6256819,
         "topic": "Lydian Coinage Unveiled"
+    },
+    {
+        "timestamp": 1784069665.1197596,
+        "topic": "Plate Tectonics Confirmed"
     }
 ]
