@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776265628.800061,
-        "topic": "Great Exhibition Opening"
-    },
-    {
         "timestamp": 1776272378.9096026,
         "topic": "Peloponnesian War Erupts"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1784035464.4880424,
         "topic": "Suez Canal Construction Begins"
+    },
+    {
+        "timestamp": 1784042500.349728,
+        "topic": "Electron Discovered"
     }
 ]
