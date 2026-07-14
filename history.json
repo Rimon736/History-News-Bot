@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776250618.812857,
-        "topic": "Hatshepsut's Punt Expedition"
-    },
-    {
         "timestamp": 1776259070.755422,
         "topic": "Voltaic Pile Invented"
     },
@@ -2738,5 +2734,9 @@
     {
         "timestamp": 1784022870.2013829,
         "topic": "The Great Stink"
+    },
+    {
+        "timestamp": 1784028221.1894841,
+        "topic": "Revocation Edict Nantes"
     }
 ]
