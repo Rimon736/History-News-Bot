@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776379014.4304006,
-        "topic": "Greenwich Meridian Established"
-    },
-    {
         "timestamp": 1776391814.767059,
         "topic": "Founding Delian League"
     },
@@ -2742,5 +2738,9 @@
     {
         "timestamp": 1784148964.564772,
         "topic": "Constantine's Milvian Bridge"
+    },
+    {
+        "timestamp": 1784156144.1843984,
+        "topic": "Hatshepsut's Punt Expedition"
     }
 ]
