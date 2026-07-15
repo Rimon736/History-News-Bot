@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776345784.442942,
-        "topic": "Dynamite Invented"
-    },
-    {
         "timestamp": 1776359455.2742188,
         "topic": "Society of Jesus Chartered"
     },
@@ -2734,5 +2730,9 @@
     {
         "timestamp": 1784110254.285097,
         "topic": "Encyclop\u00e9die Volume One"
+    },
+    {
+        "timestamp": 1784122051.5652447,
+        "topic": "Unification of Egypt"
     }
 ]
