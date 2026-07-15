@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776305621.2341309,
-        "topic": "Pompeii Rediscovery Begins"
-    },
-    {
         "timestamp": 1776319219.9245267,
         "topic": "Woodstock Festival Opens"
     },
@@ -2742,5 +2738,9 @@
     {
         "timestamp": 1784080834.0947506,
         "topic": "King Richard III Remains"
+    },
+    {
+        "timestamp": 1784092126.3530827,
+        "topic": "Pompeii's Rediscovery Begins"
     }
 ]
