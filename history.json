@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776444768.4382312,
-        "topic": "Taj Mahal Completion"
-    },
-    {
         "timestamp": 1776452124.9628484,
         "topic": "Notre Dame Construction"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1784215810.9214897,
         "topic": "Fall of Aztec Empire"
+    },
+    {
+        "timestamp": 1784221898.3658853,
+        "topic": "Delian League Formed"
     }
 ]
