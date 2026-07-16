@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776452124.9628484,
-        "topic": "Notre Dame Construction"
-    },
-    {
         "timestamp": 1776458465.5714495,
         "topic": "Salem Witch Trials"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1784221898.3658853,
         "topic": "Delian League Formed"
+    },
+    {
+        "timestamp": 1784228626.1584017,
+        "topic": "Catalaunian Plains Battle"
     }
 ]
