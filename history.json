@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776516919.7196074,
-        "topic": "Salk Polio Vaccine"
-    },
-    {
         "timestamp": 1776530166.1260295,
         "topic": "Forbidden City Inaugurated"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784287135.6553733,
         "topic": "Boston Massacre"
+    },
+    {
+        "timestamp": 1784294359.4873545,
+        "topic": "Foundational Algebra Treatise"
     }
 ]
