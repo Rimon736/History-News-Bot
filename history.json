@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776537754.3521278,
-        "topic": "William the Conqueror Crowned"
-    },
-    {
         "timestamp": 1776544334.5446963,
         "topic": "Lee's Surrender"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1784308083.5989792,
         "topic": "Lisbon Earthquake 1755"
+    },
+    {
+        "timestamp": 1784314877.5251873,
+        "topic": "Alexandria Lighthouse Completed"
     }
 ]
