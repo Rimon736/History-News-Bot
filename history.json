@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776530166.1260295,
-        "topic": "Forbidden City Inaugurated"
-    },
-    {
         "timestamp": 1776537754.3521278,
         "topic": "William the Conqueror Crowned"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1784301022.030509,
         "topic": "Victory in Europe"
+    },
+    {
+        "timestamp": 1784308083.5989792,
+        "topic": "Lisbon Earthquake 1755"
     }
 ]
