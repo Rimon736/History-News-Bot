@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776551432.2266097,
-        "topic": "State of Israel Founded"
-    },
-    {
         "timestamp": 1776564869.0935616,
         "topic": "Congress of Vienna Concludes"
     },
@@ -2750,5 +2746,9 @@
     {
         "timestamp": 1784321450.738833,
         "topic": "British Slavery Abolished"
+    },
+    {
+        "timestamp": 1784328274.946014,
+        "topic": "Harvard College Founded"
     }
 ]
