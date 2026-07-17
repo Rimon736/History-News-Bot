@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776495752.63083,
-        "topic": "Battle of Midway"
-    },
-    {
-        "timestamp": 1776501787.1733077,
-        "topic": "Sistine Chapel Unveiled"
-    },
-    {
         "timestamp": 1776508658.7391772,
         "topic": "Olmec Heads Unveiled"
     },
@@ -2750,5 +2742,9 @@
     {
         "timestamp": 1784268746.5422244,
         "topic": "Zero Concept Emerges"
+    },
+    {
+        "timestamp": 1784281993.5412574,
+        "topic": "Theodosian Walls Completed"
     }
 ]
