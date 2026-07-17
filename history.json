@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776508658.7391772,
-        "topic": "Olmec Heads Unveiled"
-    },
-    {
         "timestamp": 1776516919.7196074,
         "topic": "Salk Polio Vaccine"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784281993.5412574,
         "topic": "Theodosian Walls Completed"
+    },
+    {
+        "timestamp": 1784287135.6553733,
+        "topic": "Boston Massacre"
     }
 ]
