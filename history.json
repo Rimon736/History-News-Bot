@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776595014.9734185,
-        "topic": "Council of Trent Concludes"
-    },
-    {
         "timestamp": 1776603296.4740617,
         "topic": "Mercator Map Projection"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784366426.936756,
         "topic": "Founding of Baghdad"
+    },
+    {
+        "timestamp": 1784372339.0184813,
+        "topic": "Gandhi Assassination"
     }
 ]
