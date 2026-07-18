@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776616577.3110213,
-        "topic": "Athenian Democratic Reforms"
-    },
-    {
         "timestamp": 1776624175.7982426,
         "topic": "Discovery of Lucy Skeleton"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784386090.7382514,
         "topic": "ARPANET Goes Live"
+    },
+    {
+        "timestamp": 1784393567.5603945,
+        "topic": "United Nations Founding"
     }
 ]
