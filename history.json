@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776624175.7982426,
-        "topic": "Discovery of Lucy Skeleton"
-    },
-    {
         "timestamp": 1776630838.1162336,
         "topic": "Gregorian Calendar Introduced"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784393567.5603945,
         "topic": "United Nations Founding"
+    },
+    {
+        "timestamp": 1784401032.4527686,
+        "topic": "English Monasteries Dissolved"
     }
 ]
