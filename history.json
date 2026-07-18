@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776609496.631842,
-        "topic": "Fulton's Steamboat Triumph"
-    },
-    {
         "timestamp": 1776616577.3110213,
         "topic": "Athenian Democratic Reforms"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784379922.7390444,
         "topic": "Ur Ziggurat Construction"
+    },
+    {
+        "timestamp": 1784386090.7382514,
+        "topic": "ARPANET Goes Live"
     }
 ]
