@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776603296.4740617,
-        "topic": "Mercator Map Projection"
-    },
-    {
         "timestamp": 1776609496.631842,
         "topic": "Fulton's Steamboat Triumph"
     },
@@ -2746,5 +2742,9 @@
     {
         "timestamp": 1784372339.0184813,
         "topic": "Gandhi Assassination"
+    },
+    {
+        "timestamp": 1784379922.7390444,
+        "topic": "Ur Ziggurat Construction"
     }
 ]
