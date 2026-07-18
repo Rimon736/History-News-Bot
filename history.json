@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776564869.0935616,
-        "topic": "Congress of Vienna Concludes"
-    },
-    {
-        "timestamp": 1776578217.664084,
-        "topic": "First Modern Atlas"
-    },
-    {
         "timestamp": 1776583062.9464386,
         "topic": "Battle of Philippi Concludes"
     },
@@ -2754,5 +2746,9 @@
     {
         "timestamp": 1784340154.4716854,
         "topic": "Viking Greenland Settlement"
+    },
+    {
+        "timestamp": 1784354510.722058,
+        "topic": "Roman Sewer Completion"
     }
 ]
