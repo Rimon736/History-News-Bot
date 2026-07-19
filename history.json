@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1776651266.1812925,
-        "topic": "Boxer Rebellion Erupts"
-    },
-    {
-        "timestamp": 1776665562.1900227,
-        "topic": "Minoan Palace Discovery"
-    },
-    {
         "timestamp": 1776683866.8144617,
         "topic": "Mausoleum at Halicarnassus"
     },
@@ -2750,5 +2742,9 @@
     {
         "timestamp": 1784427246.0098312,
         "topic": "Fall of Babylon"
+    },
+    {
+        "timestamp": 1784442414.579135,
+        "topic": "Florence Cathedral Dome"
     }
 ]
