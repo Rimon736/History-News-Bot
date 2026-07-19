@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776691361.6565552,
-        "topic": "Battle of Karbala"
-    },
-    {
         "timestamp": 1776711596.628876,
         "topic": "Roman Victory Pydna"
     },
@@ -2754,5 +2750,9 @@
     {
         "timestamp": 1784466461.934494,
         "topic": "Capture of Jerusalem"
+    },
+    {
+        "timestamp": 1784472681.2680943,
+        "topic": "Mount Pel\u00e9e Eruption"
     }
 ]
