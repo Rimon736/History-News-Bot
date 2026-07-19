@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776683866.8144617,
-        "topic": "Mausoleum at Halicarnassus"
-    },
-    {
         "timestamp": 1776691361.6565552,
         "topic": "Battle of Karbala"
     },
@@ -2754,5 +2750,9 @@
     {
         "timestamp": 1784459249.149835,
         "topic": "Emancipation Proclamation Issued"
+    },
+    {
+        "timestamp": 1784466461.934494,
+        "topic": "Capture of Jerusalem"
     }
 ]
