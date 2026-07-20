@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776810918.7826478,
-        "topic": "London Smog Emergency"
-    },
-    {
         "timestamp": 1776823750.1828601,
         "topic": "Machiavelli's The Prince Published"
     },
@@ -2778,5 +2774,9 @@
     {
         "timestamp": 1784581683.6918855,
         "topic": "Croatian-Ottoman Conflict"
+    },
+    {
+        "timestamp": 1784588154.3368955,
+        "topic": "Founding US Mint"
     }
 ]
