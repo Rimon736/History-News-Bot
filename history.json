@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776855717.8482995,
-        "topic": "Silent Spring Publication"
-    },
-    {
         "timestamp": 1776884913.6446788,
         "topic": "S\u00fcleymaniye Mosque Consecrated"
     },
@@ -2778,5 +2774,9 @@
     {
         "timestamp": 1784629324.1802156,
         "topic": "First Dated Printed Book"
+    },
+    {
+        "timestamp": 1784648416.1942563,
+        "topic": "Plague of Athens Outbreak"
     }
 ]
