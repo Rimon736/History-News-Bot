@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776884913.6446788,
-        "topic": "S\u00fcleymaniye Mosque Consecrated"
-    },
-    {
         "timestamp": 1776891108.3758087,
         "topic": "Borobudur Temple Dedication"
     },
@@ -2782,5 +2778,9 @@
     {
         "timestamp": 1784653977.532364,
         "topic": "Hiroshima Atomic Bombing"
+    },
+    {
+        "timestamp": 1784661259.8257408,
+        "topic": "Reign of Terror Begins"
     }
 ]
