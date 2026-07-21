@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776823750.1828601,
-        "topic": "Machiavelli's The Prince Published"
-    },
-    {
         "timestamp": 1776837547.153608,
         "topic": "Peking Man Discovery"
     },
@@ -2778,5 +2774,9 @@
     {
         "timestamp": 1784588154.3368955,
         "topic": "Founding US Mint"
+    },
+    {
+        "timestamp": 1784599973.3348002,
+        "topic": "Antwerp Bourse Established"
     }
 ]
