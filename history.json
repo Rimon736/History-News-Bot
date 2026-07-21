@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776897841.0206385,
-        "topic": "Cook Arrives Hawaii"
-    },
-    {
         "timestamp": 1776910367.7383106,
         "topic": "Victoria Falls Discovered"
     },
@@ -2782,5 +2778,9 @@
     {
         "timestamp": 1784667810.1875322,
         "topic": "First Parachute Jump"
+    },
+    {
+        "timestamp": 1784674307.9300299,
+        "topic": "Borobudur Temple Completed"
     }
 ]
