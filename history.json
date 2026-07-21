@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776844385.4302735,
-        "topic": "First Telegraph Message"
-    },
-    {
         "timestamp": 1776855717.8482995,
         "topic": "Silent Spring Publication"
     },
@@ -2778,5 +2774,9 @@
     {
         "timestamp": 1784615102.692796,
         "topic": "Chariot Warfare Introduced"
+    },
+    {
+        "timestamp": 1784629324.1802156,
+        "topic": "First Dated Printed Book"
     }
 ]
