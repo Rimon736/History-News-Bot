@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1776910367.7383106,
-        "topic": "Victoria Falls Discovered"
-    },
-    {
         "timestamp": 1776950394.5529304,
         "topic": "Celsus Library Completion"
     },
@@ -2786,5 +2782,9 @@
     {
         "timestamp": 1784686275.9354002,
         "topic": "Emperor Henry IV's Penance"
+    },
+    {
+        "timestamp": 1784701496.755913,
+        "topic": "Voynich Manuscript Acquired"
     }
 ]
