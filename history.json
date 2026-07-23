@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777036550.7373395,
-        "topic": "Alhambra's Court of Lions"
-    },
-    {
         "timestamp": 1777043132.1702757,
         "topic": "WHO Established Globally"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1784801820.0830858,
         "topic": "Electromagnetism Discovery"
+    },
+    {
+        "timestamp": 1784814467.0853846,
+        "topic": "Dome of the Rock Completed"
     }
 ]
