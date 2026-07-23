@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777056238.877232,
-        "topic": "Colossus of Rhodes Erected"
-    },
-    {
         "timestamp": 1777070226.415933,
         "topic": "Edict of Toleration"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1784827014.1200912,
         "topic": "Treaty of Nanking Signed"
+    },
+    {
+        "timestamp": 1784833729.5931585,
+        "topic": "Great Smog London"
     }
 ]
