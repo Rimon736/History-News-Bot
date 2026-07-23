@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777070226.415933,
-        "topic": "Edict of Toleration"
-    },
-    {
         "timestamp": 1777082581.0616024,
         "topic": "Saudi Arabia Unification"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1784840312.440641,
         "topic": "First Hamlet Performance"
+    },
+    {
+        "timestamp": 1784847161.1390553,
+        "topic": "Founding Jesuit Order"
     }
 ]
