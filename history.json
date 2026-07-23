@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777043132.1702757,
-        "topic": "WHO Established Globally"
-    },
-    {
         "timestamp": 1777049543.2132654,
         "topic": "Founding of Venice"
     },
@@ -2802,5 +2798,9 @@
     {
         "timestamp": 1784814467.0853846,
         "topic": "Dome of the Rock Completed"
+    },
+    {
+        "timestamp": 1784821999.0051646,
+        "topic": "King James Bible Published"
     }
 ]
