@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777113591.0149097,
-        "topic": "Bronze Age Cataclysm"
-    },
-    {
-        "timestamp": 1777121809.9861813,
-        "topic": "Gupta Empire Founded"
-    },
-    {
         "timestamp": 1777128006.4603992,
         "topic": "Pharaoh's Religious Edict"
     },
@@ -2802,5 +2794,9 @@
     {
         "timestamp": 1784887971.8433309,
         "topic": "World's First Zoo Opens"
+    },
+    {
+        "timestamp": 1784899639.108634,
+        "topic": "Trans-Siberian Railway Completion"
     }
 ]
