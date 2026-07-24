@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777149292.1183193,
-        "topic": "Battle of Megiddo"
-    },
-    {
         "timestamp": 1777156418.9771223,
         "topic": "Battle of Lepanto"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1784920730.671312,
         "topic": "Halicarnassus Mausoleum Completed"
+    },
+    {
+        "timestamp": 1784926725.0167172,
+        "topic": "Magellan Strait Discovery"
     }
 ]
