@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777156418.9771223,
-        "topic": "Battle of Lepanto"
-    },
-    {
         "timestamp": 1777170300.8252757,
         "topic": "Don Quixote Published"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1784926725.0167172,
         "topic": "Magellan Strait Discovery"
+    },
+    {
+        "timestamp": 1784933890.8969042,
+        "topic": "Bronze Age Begins"
     }
 ]
