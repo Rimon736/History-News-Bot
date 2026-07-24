@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777135031.170982,
-        "topic": "Johnson's Dictionary Published"
-    },
-    {
         "timestamp": 1777142651.1352968,
         "topic": "Peary Reaches North Pole"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1784906575.0372262,
         "topic": "Queen Elizabeth II Crowned"
+    },
+    {
+        "timestamp": 1784913954.006182,
+        "topic": "Battle of Philippi"
     }
 ]
