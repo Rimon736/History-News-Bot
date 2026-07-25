@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777242873.8017488,
-        "topic": "Akkadian Empire Founded"
-    },
-    {
         "timestamp": 1777256862.7260175,
         "topic": "Cleopatra VII Ascends Throne"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1785012268.4332135,
         "topic": "Morse Telegraph Debut"
+    },
+    {
+        "timestamp": 1785019864.931419,
+        "topic": "Knossos Palace Construction"
     }
 ]
