@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777235711.030446,
-        "topic": "Stalingrad Battle Concludes"
-    },
-    {
         "timestamp": 1777242873.8017488,
         "topic": "Akkadian Empire Founded"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1785006244.8839586,
         "topic": "Chauvet Cave Discovery"
+    },
+    {
+        "timestamp": 1785012268.4332135,
+        "topic": "Morse Telegraph Debut"
     }
 ]
