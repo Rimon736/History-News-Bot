@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777229127.6553535,
-        "topic": "Kon-Tiki Expedition Concludes"
-    },
-    {
         "timestamp": 1777235711.030446,
         "topic": "Stalingrad Battle Concludes"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1784998368.4902523,
         "topic": "Voyager 1 Heliopause Crossing"
+    },
+    {
+        "timestamp": 1785006244.8839586,
+        "topic": "Chauvet Cave Discovery"
     }
 ]
