@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777208344.429085,
-        "topic": "Capture of Atahualpa"
-    },
-    {
         "timestamp": 1777214428.4926498,
         "topic": "Marco Polo's Return"
     },
@@ -2798,5 +2794,9 @@
     {
         "timestamp": 1784977576.1653953,
         "topic": "California Gold Rush"
+    },
+    {
+        "timestamp": 1784985339.396466,
+        "topic": "Founding St. Petersburg"
     }
 ]
