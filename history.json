@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777323514.5859528,
-        "topic": "Balboa Sights Pacific"
-    },
-    {
-        "timestamp": 1777330084.2210338,
-        "topic": "Soviet Great Purge"
-    },
-    {
         "timestamp": 1777343753.3211215,
         "topic": "Tangshan Earthquake Devastates"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1785099202.6023655,
         "topic": "Diocletian's Price Edict"
+    },
+    {
+        "timestamp": 1785106594.7141044,
+        "topic": "Controversial Jerusalem Execution"
     }
 ]
