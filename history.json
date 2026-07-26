@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777310400.3222215,
-        "topic": "Irish Potato Famine"
-    },
-    {
         "timestamp": 1777317250.4898965,
         "topic": "St. Peter's Basilica Dedication"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785084851.874066,
         "topic": "Kamikaze Typhoon Strikes"
+    },
+    {
+        "timestamp": 1785092717.4833975,
+        "topic": "Chinese Supernova Observation"
     }
 ]
