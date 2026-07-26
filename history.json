@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777317250.4898965,
-        "topic": "St. Peter's Basilica Dedication"
-    },
-    {
         "timestamp": 1777323514.5859528,
         "topic": "Balboa Sights Pacific"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785092717.4833975,
         "topic": "Chinese Supernova Observation"
+    },
+    {
+        "timestamp": 1785099202.6023655,
+        "topic": "Diocletian's Price Edict"
     }
 ]
