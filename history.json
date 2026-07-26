@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777256862.7260175,
-        "topic": "Cleopatra VII Ascends Throne"
-    },
-    {
-        "timestamp": 1777271148.4591618,
-        "topic": "Foucault Pendulum Unveiled"
-    },
-    {
         "timestamp": 1777284716.8184655,
         "topic": "Treaty of Rome Signed"
     },
@@ -2802,5 +2794,9 @@
     {
         "timestamp": 1785032661.6028168,
         "topic": "Royal Academy Founding"
+    },
+    {
+        "timestamp": 1785047555.0272143,
+        "topic": "Papyrus Production Revolutionizes"
     }
 ]
