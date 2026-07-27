@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777343753.3211215,
-        "topic": "Tangshan Earthquake Devastates"
-    },
-    {
-        "timestamp": 1777357637.0103953,
-        "topic": "Lingqu Canal Completion"
-    },
-    {
         "timestamp": 1777371053.5434742,
         "topic": "Great Plague London"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1785119546.4082055,
         "topic": "First Atomic Test"
+    },
+    {
+        "timestamp": 1785135517.290406,
+        "topic": "Telescope Invention Unveiled"
     }
 ]
