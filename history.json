@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777404525.3763208,
-        "topic": "Fall of Masada"
-    },
-    {
-        "timestamp": 1777410306.6271236,
-        "topic": "Rubicon Crossing"
-    },
-    {
         "timestamp": 1777416870.9841454,
         "topic": "Yellowstone Park Established"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1785180044.208208,
         "topic": "Challenger Disaster"
+    },
+    {
+        "timestamp": 1785186391.2488325,
+        "topic": "Confucius Analects Completed"
     }
 ]
