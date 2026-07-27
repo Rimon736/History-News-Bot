@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777384546.0074565,
-        "topic": "Battle of Plataea"
-    },
-    {
         "timestamp": 1777392418.623963,
         "topic": "Edict of Worms"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1785150999.134564,
         "topic": "Great Bath Completed"
+    },
+    {
+        "timestamp": 1785162186.218511,
+        "topic": "Pericles' Funeral Oration"
     }
 ]
