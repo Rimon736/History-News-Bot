@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777392418.623963,
-        "topic": "Edict of Worms"
-    },
-    {
         "timestamp": 1777404525.3763208,
         "topic": "Fall of Masada"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1785162186.218511,
         "topic": "Pericles' Funeral Oration"
+    },
+    {
+        "timestamp": 1785173956.5788925,
+        "topic": "Galileo Discovers Moons"
     }
 ]
