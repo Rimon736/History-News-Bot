@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777478084.4545352,
-        "topic": "Hangul Alphabet Creation"
-    },
-    {
         "timestamp": 1777483517.5599465,
         "topic": "Buddha's First Sermon"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785246912.5860298,
         "topic": "Peloponnesian War Begins"
+    },
+    {
+        "timestamp": 1785254634.8143578,
+        "topic": "Athenian Democratic Reforms"
     }
 ]
