@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777430126.6690335,
-        "topic": "Atomic Nucleus Discovered"
-    },
-    {
-        "timestamp": 1777443676.7434523,
-        "topic": "Aristotle Founds Lyceum"
-    },
-    {
         "timestamp": 1777470480.2104914,
         "topic": "Teotihuacan Pyramid Dedication"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1785204398.4530742,
         "topic": "Domesday Book Completed"
+    },
+    {
+        "timestamp": 1785219763.1326807,
+        "topic": "Akkadian Empire Established"
     }
 ]
