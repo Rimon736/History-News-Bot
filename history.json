@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777470480.2104914,
-        "topic": "Teotihuacan Pyramid Dedication"
-    },
-    {
         "timestamp": 1777478084.4545352,
         "topic": "Hangul Alphabet Creation"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785234637.043028,
         "topic": "Battle of Naseby"
+    },
+    {
+        "timestamp": 1785246912.5860298,
+        "topic": "Peloponnesian War Begins"
     }
 ]
