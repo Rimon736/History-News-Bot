@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777576494.697051,
-        "topic": "Radar Invention Breakthrough"
-    },
-    {
         "timestamp": 1777582627.9826217,
         "topic": "Founding Mali Empire"
     },
@@ -2814,5 +2810,9 @@
     {
         "timestamp": 1785352069.4613404,
         "topic": "Edict of Worms"
+    },
+    {
+        "timestamp": 1785358283.5039659,
+        "topic": "Karnak Hypostyle Hall"
     }
 ]
