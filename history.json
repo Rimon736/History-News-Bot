@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777582627.9826217,
-        "topic": "Founding Mali Empire"
-    },
-    {
-        "timestamp": 1777589468.9446952,
-        "topic": "Rabies Vaccine Breakthrough"
-    },
-    {
         "timestamp": 1777603300.9737387,
         "topic": "World War I Armistice"
     },
@@ -2814,5 +2806,9 @@
     {
         "timestamp": 1785358283.5039659,
         "topic": "Karnak Hypostyle Hall"
+    },
+    {
+        "timestamp": 1785365839.7594917,
+        "topic": "Becket Assassination"
     }
 ]
