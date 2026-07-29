@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777543460.9760902,
-        "topic": "Djoser Step Pyramid Completed"
-    },
-    {
         "timestamp": 1777556830.8391144,
         "topic": "Karnak Temple Construction"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785306661.1219606,
         "topic": "The Black Death"
+    },
+    {
+        "timestamp": 1785321303.5525608,
+        "topic": "Marco Polo's Return"
     }
 ]
