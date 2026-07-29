@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777569410.601556,
-        "topic": "Timbuktu City Founded"
-    },
-    {
         "timestamp": 1777576494.697051,
         "topic": "Radar Invention Breakthrough"
     },
@@ -2814,5 +2810,9 @@
     {
         "timestamp": 1785345101.991126,
         "topic": "Destruction Bamiyan Buddhas"
+    },
+    {
+        "timestamp": 1785352069.4613404,
+        "topic": "Edict of Worms"
     }
 ]
