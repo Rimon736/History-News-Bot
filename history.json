@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777516554.2766707,
-        "topic": "Fall of Saigon"
-    },
-    {
-        "timestamp": 1777530331.9778485,
-        "topic": "Mauryan Empire Established"
-    },
-    {
         "timestamp": 1777543460.9760902,
         "topic": "Djoser Step Pyramid Completed"
     },
@@ -2814,5 +2806,9 @@
     {
         "timestamp": 1785291050.0026708,
         "topic": "Salem Witch Trials Begin"
+    },
+    {
+        "timestamp": 1785306661.1219606,
+        "topic": "The Black Death"
     }
 ]
