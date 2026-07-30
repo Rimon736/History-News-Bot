@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777617281.1679974,
-        "topic": "Communist Manifesto Published"
-    },
-    {
         "timestamp": 1777627855.5283139,
         "topic": "Nuremberg Trials Begin"
     },
@@ -2814,5 +2810,9 @@
     {
         "timestamp": 1785388395.0708933,
         "topic": "Aristotle Founds Lyceum"
+    },
+    {
+        "timestamp": 1785399434.6843002,
+        "topic": "Hanging Gardens Completed"
     }
 ]
