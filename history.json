@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777654478.1858807,
-        "topic": "Themistocles' Ostracism"
-    },
-    {
         "timestamp": 1777662437.6270804,
         "topic": "First Public Television Broadcast"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785419364.4264534,
         "topic": "Machiavelli's The Prince"
+    },
+    {
+        "timestamp": 1785432160.7620392,
+        "topic": "Kepler's New Astronomy"
     }
 ]
