@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777627855.5283139,
-        "topic": "Nuremberg Trials Begin"
-    },
-    {
-        "timestamp": 1777633485.0545518,
-        "topic": "Great Mosque Damascus Begins"
-    },
-    {
         "timestamp": 1777641116.2536223,
         "topic": "Battle of Yarmouk"
     },
@@ -2814,5 +2806,9 @@
     {
         "timestamp": 1785399434.6843002,
         "topic": "Hanging Gardens Completed"
+    },
+    {
+        "timestamp": 1785412143.5368855,
+        "topic": "Lavoisier's Mass Conservation"
     }
 ]
