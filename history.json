@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777688732.2493324,
-        "topic": "Byzantine Nika Riots"
-    },
-    {
-        "timestamp": 1777701928.0891361,
-        "topic": "London Bridge Completed"
-    },
-    {
         "timestamp": 1777712557.7289677,
         "topic": "Bayeux Tapestry Completion"
     },
@@ -2814,5 +2806,9 @@
     {
         "timestamp": 1785464676.6494546,
         "topic": "Battle of Granicus"
+    },
+    {
+        "timestamp": 1785480039.2690496,
+        "topic": "Caesar's Rubicon Crossing"
     }
 ]
