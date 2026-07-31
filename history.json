@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777732992.8860638,
-        "topic": "Ponce de Le\u00f3n Lands"
-    },
-    {
         "timestamp": 1777740117.1573024,
         "topic": "Ibn Battuta's Return"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1785506025.4677167,
         "topic": "New Zealand Suffrage Granted"
+    },
+    {
+        "timestamp": 1785513601.0829275,
+        "topic": "Potala Palace Completion"
     }
 ]
