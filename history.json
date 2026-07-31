@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777712557.7289677,
-        "topic": "Bayeux Tapestry Completion"
-    },
-    {
         "timestamp": 1777718845.3073287,
         "topic": "Kamakura Daibutsu Completed"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785480039.2690496,
         "topic": "Caesar's Rubicon Crossing"
+    },
+    {
+        "timestamp": 1785494098.5940697,
+        "topic": "Death of Genghis Khan"
     }
 ]
