@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777740117.1573024,
-        "topic": "Ibn Battuta's Return"
-    },
-    {
         "timestamp": 1777748047.244114,
         "topic": "Endurance Ship Sinks"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1785513601.0829275,
         "topic": "Potala Palace Completion"
+    },
+    {
+        "timestamp": 1785519988.4449806,
+        "topic": "Globe Theatre Opening"
     }
 ]
