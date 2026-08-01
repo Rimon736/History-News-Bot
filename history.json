@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777819504.1980298,
-        "topic": "Scramble for Africa"
-    },
-    {
         "timestamp": 1777826682.7577133,
         "topic": "Leaning Tower Construction"
     },
@@ -2806,5 +2802,9 @@
     {
         "timestamp": 1785589761.383041,
         "topic": "Salk Polio Vaccine Announced"
+    },
+    {
+        "timestamp": 1785596253.275365,
+        "topic": "First Light Speed Measurement"
     }
 ]
