@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777775623.8704345,
-        "topic": "Battle of Manzikert"
-    },
-    {
         "timestamp": 1777789506.3136528,
         "topic": "Treaty of Kadesh Signed"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785551108.1903903,
         "topic": "Magellan's Final Battle"
+    },
+    {
+        "timestamp": 1785565498.2241805,
+        "topic": "Stoicism School Founded"
     }
 ]
