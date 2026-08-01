@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777789506.3136528,
-        "topic": "Treaty of Kadesh Signed"
-    },
-    {
-        "timestamp": 1777800010.5329697,
-        "topic": "Light Speed Measured"
-    },
-    {
         "timestamp": 1777805523.0266647,
         "topic": "Royal Society Founding"
     },
@@ -2810,5 +2802,9 @@
     {
         "timestamp": 1785565498.2241805,
         "topic": "Stoicism School Founded"
+    },
+    {
+        "timestamp": 1785578116.725914,
+        "topic": "Wycliffe Bible Translation"
     }
 ]
