@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777902598.3174834,
-        "topic": "Fall of Granada"
-    },
-    {
         "timestamp": 1777910366.19911,
         "topic": "Xuanzang's Return China"
     },
@@ -2814,5 +2810,9 @@
     {
         "timestamp": 1785676287.2979102,
         "topic": "Invention of the Wheel"
+    },
+    {
+        "timestamp": 1785682717.1188734,
+        "topic": "Battle of Lepanto"
     }
 ]
