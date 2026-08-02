@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1777889426.8439531,
-        "topic": "Phoenician Alphabet Emerges"
-    },
-    {
         "timestamp": 1777902598.3174834,
         "topic": "Fall of Granada"
     },
@@ -2810,5 +2806,9 @@
     {
         "timestamp": 1785664352.7715454,
         "topic": "Athens Public Library"
+    },
+    {
+        "timestamp": 1785669264.1981122,
+        "topic": "Djoser's Step Pyramid"
     }
 ]
