@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777979988.4955745,
-        "topic": "Dolly the Sheep Cloned"
-    },
-    {
-        "timestamp": 1777987786.9560683,
-        "topic": "Euclid's Elements Published"
-    },
-    {
         "timestamp": 1777996406.4518645,
         "topic": "Battle of Britain Concludes"
     },
@@ -2826,5 +2818,9 @@
     {
         "timestamp": 1785755935.091376,
         "topic": "Qin Emperor's Mausoleum"
+    },
+    {
+        "timestamp": 1785767369.7349827,
+        "topic": "Great Zimbabwe Construction"
     }
 ]
