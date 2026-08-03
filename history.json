@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1777948017.3865707,
-        "topic": "Emergence of Mayan Script"
-    },
-    {
-        "timestamp": 1777961604.1773095,
-        "topic": "Terracotta Army Completion"
-    },
-    {
         "timestamp": 1777979988.4955745,
         "topic": "Dolly the Sheep Cloned"
     },
@@ -2826,5 +2818,9 @@
     {
         "timestamp": 1785723922.6619964,
         "topic": "Mansa Musa's Historic Hajj"
+    },
+    {
+        "timestamp": 1785740178.140014,
+        "topic": "Scottish Church Disruption"
     }
 ]
