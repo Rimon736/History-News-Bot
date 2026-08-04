@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778096562.9780774,
-        "topic": "Neolithic Revolution Begins"
-    },
-    {
         "timestamp": 1778107653.1591573,
         "topic": "Chinese Porcelain Innovation"
     },
@@ -2838,5 +2834,9 @@
     {
         "timestamp": 1785871601.2887957,
         "topic": "First Opium War"
+    },
+    {
+        "timestamp": 1785877682.4840949,
+        "topic": "Teotihuacan Pyramid Consecrated"
     }
 ]
