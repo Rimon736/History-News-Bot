@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778076065.589696,
-        "topic": "Council of Clermont"
-    },
-    {
         "timestamp": 1778096562.9780774,
         "topic": "Neolithic Revolution Begins"
     },
@@ -2834,5 +2830,9 @@
     {
         "timestamp": 1785852015.0817616,
         "topic": "Bayeux Tapestry Unveiled"
+    },
+    {
+        "timestamp": 1785860180.452527,
+        "topic": "Bronze Age Collapse"
     }
 ]
