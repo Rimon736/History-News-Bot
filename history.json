@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778034660.4086525,
-        "topic": "Colossus of Rhodes Collapse"
-    },
-    {
         "timestamp": 1778076065.589696,
         "topic": "Council of Clermont"
     },
@@ -2826,5 +2822,9 @@
     {
         "timestamp": 1785809103.6978207,
         "topic": "Battle of Thermopylae"
+    },
+    {
+        "timestamp": 1785824637.7276037,
+        "topic": "Battle of Pharsalus"
     }
 ]
