@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778162267.176598,
-        "topic": "Coffee Discovered Ethiopia"
-    },
-    {
         "timestamp": 1778170034.576154,
         "topic": "Transistor Invented"
     },
@@ -2842,5 +2838,9 @@
     {
         "timestamp": 1785938291.5810273,
         "topic": "Mishneh Torah Publication"
+    },
+    {
+        "timestamp": 1785945726.6343405,
+        "topic": "Pharaohs' Canal Completed"
     }
 ]
