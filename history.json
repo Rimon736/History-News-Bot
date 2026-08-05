@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778121217.8998563,
-        "topic": "Founding Inca Empire"
-    },
-    {
         "timestamp": 1778135573.1441329,
         "topic": "First Roman Gladiatorial Games"
     },
@@ -2842,5 +2838,9 @@
     {
         "timestamp": 1785895461.590977,
         "topic": "Timbuktu Founded"
+    },
+    {
+        "timestamp": 1785911053.2917092,
+        "topic": "Michelangelo's David Unveiled"
     }
 ]
