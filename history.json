@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1778135573.1441329,
-        "topic": "First Roman Gladiatorial Games"
-    },
-    {
-        "timestamp": 1778149303.6746976,
-        "topic": "Chichen Itza Pyramid Dedicated"
-    },
-    {
         "timestamp": 1778162267.176598,
         "topic": "Coffee Discovered Ethiopia"
     },
@@ -2842,5 +2834,9 @@
     {
         "timestamp": 1785911053.2917092,
         "topic": "Michelangelo's David Unveiled"
+    },
+    {
+        "timestamp": 1785925837.5289652,
+        "topic": "Ptolemy's Canopus Decree"
     }
 ]
