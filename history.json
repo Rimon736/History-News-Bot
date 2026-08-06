@@ -1,25 +1,5 @@
 [
     {
-        "timestamp": 1778253556.9399486,
-        "topic": "Halley's Comet Sighted"
-    },
-    {
-        "timestamp": 1778260350.3180087,
-        "topic": "Broad Street Cholera"
-    },
-    {
-        "timestamp": 1778267513.7027445,
-        "topic": "Blood Groups Discovered"
-    },
-    {
-        "timestamp": 1778273745.302185,
-        "topic": "Lindbergh's Atlantic Flight"
-    },
-    {
-        "timestamp": 1778280817.7727222,
-        "topic": "Newton's Principia Published"
-    },
-    {
         "timestamp": 1778293974.6165977,
         "topic": "Surgical Anesthesia Public Debut"
     },
@@ -2830,5 +2810,9 @@
     {
         "timestamp": 1786024515.9869368,
         "topic": "Execution of King Louis XVI"
+    },
+    {
+        "timestamp": 1786060469.5441315,
+        "topic": "Principia Mathematica Published"
     }
 ]
