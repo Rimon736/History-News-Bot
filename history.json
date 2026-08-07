@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1778332132.6460416,
-        "topic": "Mount Mazama Eruption"
-    },
-    {
-        "timestamp": 1778338042.7732642,
-        "topic": "Spanish Flu Pandemic"
-    },
-    {
         "timestamp": 1778345454.1339848,
         "topic": "Bras\u00edlia Inauguration"
     },
@@ -2822,5 +2814,9 @@
     {
         "timestamp": 1786107219.0533462,
         "topic": "Tsar Alexander II Assassinated"
+    },
+    {
+        "timestamp": 1786114171.3263211,
+        "topic": "Berlin Wall Construction"
     }
 ]
