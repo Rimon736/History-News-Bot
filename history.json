@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778318204.0761743,
-        "topic": "Viking Siege of Paris"
-    },
-    {
         "timestamp": 1778324097.906964,
         "topic": "Battle of Cynoscephalae"
     },
@@ -2822,5 +2818,9 @@
     {
         "timestamp": 1786092839.2964544,
         "topic": "Roanoke Colony Vanishes"
+    },
+    {
+        "timestamp": 1786099722.8815353,
+        "topic": "Mount Fuji Eruption"
     }
 ]
