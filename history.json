@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778352977.578993,
-        "topic": "US Constitution Drafted"
-    },
-    {
         "timestamp": 1778359238.5368648,
         "topic": "Byzantine Greek Fire"
     },
@@ -2822,5 +2818,9 @@
     {
         "timestamp": 1786128582.973017,
         "topic": "Fall of Granada"
+    },
+    {
+        "timestamp": 1786134944.3168652,
+        "topic": "Scottish Independence Declaration"
     }
 ]
