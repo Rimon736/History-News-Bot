@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778439407.3065615,
-        "topic": "Han Dynasty Established"
-    },
-    {
         "timestamp": 1778445808.1114228,
         "topic": "Ptolemy's Almagest Published"
     },
@@ -2834,5 +2830,9 @@
     {
         "timestamp": 1786213814.752862,
         "topic": "Newton's Principia Published"
+    },
+    {
+        "timestamp": 1786220606.9775908,
+        "topic": "Mandela's Historic Release"
     }
 ]
