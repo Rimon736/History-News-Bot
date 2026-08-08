@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778418597.0411687,
-        "topic": "Alexander Invades Persia"
-    },
-    {
         "timestamp": 1778431867.6642408,
         "topic": "Venus de Milo Discovery"
     },
@@ -2830,5 +2826,9 @@
     {
         "timestamp": 1786192700.257205,
         "topic": "Euclid's Elements Publication"
+    },
+    {
+        "timestamp": 1786199284.9697952,
+        "topic": "Mona Lisa Theft"
     }
 ]
