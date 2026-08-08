@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778445808.1114228,
-        "topic": "Ptolemy's Almagest Published"
-    },
-    {
         "timestamp": 1778453001.4562254,
         "topic": "Appian Way Construction"
     },
@@ -2834,5 +2830,9 @@
     {
         "timestamp": 1786220606.9775908,
         "topic": "Mandela's Historic Release"
+    },
+    {
+        "timestamp": 1786227882.4413362,
+        "topic": "Socratic Method Emerges"
     }
 ]
