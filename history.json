@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778380587.5008473,
-        "topic": "University of Paris Founding"
-    },
-    {
         "timestamp": 1778394663.2597072,
         "topic": "First Oil Well Drilled"
     },
@@ -2822,5 +2818,9 @@
     {
         "timestamp": 1786151660.0231283,
         "topic": "Lindbergh Transatlantic Flight"
+    },
+    {
+        "timestamp": 1786159265.780515,
+        "topic": "First Buddhist Sermon"
     }
 ]
