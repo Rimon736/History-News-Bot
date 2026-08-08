@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778366366.9779782,
-        "topic": "Su Song's Clock Tower"
-    },
-    {
         "timestamp": 1778380587.5008473,
         "topic": "University of Paris Founding"
     },
@@ -2822,5 +2818,9 @@
     {
         "timestamp": 1786141808.7629488,
         "topic": "Temple of Artemis Destroyed"
+    },
+    {
+        "timestamp": 1786151660.0231283,
+        "topic": "Lindbergh Transatlantic Flight"
     }
 ]
