@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778410729.7400703,
-        "topic": "Roman Twelve Tables Enacted"
-    },
-    {
         "timestamp": 1778418597.0411687,
         "topic": "Alexander Invades Persia"
     },
@@ -2830,5 +2826,9 @@
     {
         "timestamp": 1786184875.575573,
         "topic": "Song Dynasty Founded"
+    },
+    {
+        "timestamp": 1786192700.257205,
+        "topic": "Euclid's Elements Publication"
     }
 ]
