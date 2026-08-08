@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778431867.6642408,
-        "topic": "Venus de Milo Discovery"
-    },
-    {
         "timestamp": 1778439407.3065615,
         "topic": "Han Dynasty Established"
     },
@@ -2834,5 +2830,9 @@
     {
         "timestamp": 1786206477.6009324,
         "topic": "Themistocles' Ostracism"
+    },
+    {
+        "timestamp": 1786213814.752862,
+        "topic": "Newton's Principia Published"
     }
 ]
