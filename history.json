@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778467570.1757271,
-        "topic": "Al-Karaouine University Founded"
-    },
-    {
         "timestamp": 1778485082.1077113,
         "topic": "Sack of Constantinople"
     },
@@ -2834,5 +2830,9 @@
     {
         "timestamp": 1786238379.14608,
         "topic": "First Ether Anesthesia"
+    },
+    {
+        "timestamp": 1786246247.1900108,
+        "topic": "Emperor Nero's Suicide"
     }
 ]
