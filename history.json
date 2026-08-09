@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778497093.7540026,
-        "topic": "First Variolation Practiced"
-    },
-    {
         "timestamp": 1778510534.9953475,
         "topic": "Cairo City Founded"
     },
@@ -2846,5 +2842,9 @@
     {
         "timestamp": 1786271349.8275833,
         "topic": "Voltaic Pile Unveiled"
+    },
+    {
+        "timestamp": 1786279257.5140073,
+        "topic": "Edict of Torda Proclaimed"
     }
 ]
