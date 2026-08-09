@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778510534.9953475,
-        "topic": "Cairo City Founded"
-    },
-    {
         "timestamp": 1778521945.1575482,
         "topic": "Battle of Ain Jalut"
     },
@@ -2850,5 +2846,9 @@
     {
         "timestamp": 1786285826.2116666,
         "topic": "Kamakura Great Buddha Cast"
+    },
+    {
+        "timestamp": 1786292957.1009576,
+        "topic": "Celsus Library Completion"
     }
 ]
