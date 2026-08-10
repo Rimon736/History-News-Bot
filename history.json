@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778553543.1508064,
-        "topic": "Linear B Deciphered"
-    },
-    {
         "timestamp": 1778567708.8038151,
         "topic": "Persepolis Inaugurated"
     },
@@ -2850,5 +2846,9 @@
     {
         "timestamp": 1786324883.9817834,
         "topic": "Pont du Gard Construction"
+    },
+    {
+        "timestamp": 1786333795.3565366,
+        "topic": "Terracotta Army Completed"
     }
 ]
