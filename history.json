@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778620581.7005615,
-        "topic": "Marconi's Transatlantic Signal"
-    },
-    {
         "timestamp": 1778626647.7143383,
         "topic": "Source of Nile Discovered"
     },
@@ -2866,5 +2862,9 @@
     {
         "timestamp": 1786394246.1192126,
         "topic": "Solomon's Temple Dedication"
+    },
+    {
+        "timestamp": 1786401190.3961477,
+        "topic": "First Roman Public Library"
     }
 ]
