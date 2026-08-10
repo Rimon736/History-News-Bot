@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778608627.564997,
-        "topic": "Pythagorean Theorem Verified"
-    },
-    {
         "timestamp": 1778615299.420707,
         "topic": "Peace of Augsburg"
     },
@@ -2866,5 +2862,9 @@
     {
         "timestamp": 1786380631.079147,
         "topic": "Gettysburg Address Delivered"
+    },
+    {
+        "timestamp": 1786387881.284525,
+        "topic": "Phoenician Alphabet Creation"
     }
 ]
