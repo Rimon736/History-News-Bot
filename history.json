@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778615299.420707,
-        "topic": "Peace of Augsburg"
-    },
-    {
         "timestamp": 1778620581.7005615,
         "topic": "Marconi's Transatlantic Signal"
     },
@@ -2866,5 +2862,9 @@
     {
         "timestamp": 1786387881.284525,
         "topic": "Phoenician Alphabet Creation"
+    },
+    {
+        "timestamp": 1786394246.1192126,
+        "topic": "Solomon's Temple Dedication"
     }
 ]
