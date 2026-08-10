@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778595226.940314,
-        "topic": "First Heart Bypass"
-    },
-    {
         "timestamp": 1778608627.564997,
         "topic": "Pythagorean Theorem Verified"
     },
@@ -2862,5 +2858,9 @@
     {
         "timestamp": 1786366685.7120197,
         "topic": "Cairo City Founded"
+    },
+    {
+        "timestamp": 1786373640.7516313,
+        "topic": "Rome Recaptured"
     }
 ]
