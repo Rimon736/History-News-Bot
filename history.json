@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778654734.7079024,
-        "topic": "Hagia Sophia Dedication"
-    },
-    {
         "timestamp": 1778667741.8066118,
         "topic": "Trajan's Column Inauguration"
     },
@@ -2870,5 +2866,9 @@
     {
         "timestamp": 1786424586.61476,
         "topic": "Founding of Constantinople"
+    },
+    {
+        "timestamp": 1786431560.1356587,
+        "topic": "Hagia Sophia Consecration"
     }
 ]
