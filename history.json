@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778713416.8697186,
-        "topic": "Great Mosque Samarra Completion"
-    },
-    {
         "timestamp": 1778726761.9156306,
         "topic": "\u00d6tzi the Iceman Discovery"
     },
@@ -2882,5 +2878,9 @@
     {
         "timestamp": 1786487835.3921707,
         "topic": "Behistun Inscription Deciphered"
+    },
+    {
+        "timestamp": 1786498074.6684453,
+        "topic": "Kepler's Third Law"
     }
 ]
