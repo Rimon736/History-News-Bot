@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778792866.4320028,
-        "topic": "Great Mosque Djenn\u00e9 Completed"
-    },
-    {
         "timestamp": 1778799249.9042957,
         "topic": "Founding of Heian-ky\u014d"
     },
@@ -2898,5 +2894,9 @@
     {
         "timestamp": 1786567100.0441177,
         "topic": "Great Emu War Begins"
+    },
+    {
+        "timestamp": 1786574168.4524722,
+        "topic": "Persepolis Construction Begins"
     }
 ]
