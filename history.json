@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778741073.8347387,
-        "topic": "Fall of Sumerian Ur"
-    },
-    {
         "timestamp": 1778753534.0932384,
         "topic": "Siege of Orl\u00e9ans Lifted"
     },
@@ -2882,5 +2878,9 @@
     {
         "timestamp": 1786507353.4146664,
         "topic": "\u00c7atalh\u00f6y\u00fck Discovery"
+    },
+    {
+        "timestamp": 1786519077.2613246,
+        "topic": "Rosetta Stone Deciphered"
     }
 ]
