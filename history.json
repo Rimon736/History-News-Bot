@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778799249.9042957,
-        "topic": "Founding of Heian-ky\u014d"
-    },
-    {
         "timestamp": 1778813174.3109741,
         "topic": "Vatican City Founded"
     },
@@ -2898,5 +2894,9 @@
     {
         "timestamp": 1786574168.4524722,
         "topic": "Persepolis Construction Begins"
+    },
+    {
+        "timestamp": 1786584556.2614949,
+        "topic": "Cholula Pyramid Dedication"
     }
 ]
