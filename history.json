@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778964114.0789857,
-        "topic": "Metropolitan Museum Opening"
-    },
-    {
         "timestamp": 1778971291.0044882,
         "topic": "Ajanta Cave Unveiling"
     },
@@ -2914,5 +2910,9 @@
     {
         "timestamp": 1786739178.5727575,
         "topic": "Polish Constitution Enacted"
+    },
+    {
+        "timestamp": 1786745867.4320467,
+        "topic": "Akhenaten's Religious Revolution"
     }
 ]
