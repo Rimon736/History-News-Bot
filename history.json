@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778898908.484518,
-        "topic": "Great Siege of Malta"
-    },
-    {
         "timestamp": 1778912407.546505,
         "topic": "First Photograph Taken"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1786670978.0330496,
         "topic": "San Francisco Earthquake"
+    },
+    {
+        "timestamp": 1786680218.0802486,
+        "topic": "Founding Sikh Empire"
     }
 ]
