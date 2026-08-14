@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1778937286.9939675,
-        "topic": "People's Republic Proclaimed"
-    },
-    {
         "timestamp": 1778943195.5182445,
         "topic": "Battle of Chaeronea"
     },
@@ -2914,5 +2910,9 @@
     {
         "timestamp": 1786712215.3020866,
         "topic": "Celsus Library Inauguration"
+    },
+    {
+        "timestamp": 1786718849.5011687,
+        "topic": "Dissolution of USSR"
     }
 ]
