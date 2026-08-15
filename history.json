@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779029637.9258928,
-        "topic": "Battle of Talas"
-    },
-    {
         "timestamp": 1779036861.7439916,
         "topic": "Taiping Rebellion Erupts"
     },
@@ -2922,5 +2918,9 @@
     {
         "timestamp": 1786803440.0496936,
         "topic": "First Permanent Photograph"
+    },
+    {
+        "timestamp": 1786810761.578381,
+        "topic": "Battle of Pydna"
     }
 ]
