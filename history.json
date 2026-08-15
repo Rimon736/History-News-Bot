@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779050666.0983994,
-        "topic": "Palenque Temple Dedication"
-    },
-    {
         "timestamp": 1779058295.29352,
         "topic": "Battle of Verdun"
     },
@@ -2922,5 +2918,9 @@
     {
         "timestamp": 1786825075.7324543,
         "topic": "Battle of the Nile"
+    },
+    {
+        "timestamp": 1786832224.7579417,
+        "topic": "Bras\u00edlia Capital Inaugurated"
     }
 ]
