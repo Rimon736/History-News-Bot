@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779023513.3985426,
-        "topic": "Archimedes' Buoyancy Principle"
-    },
-    {
         "timestamp": 1779029637.9258928,
         "topic": "Battle of Talas"
     },
@@ -2922,5 +2918,9 @@
     {
         "timestamp": 1786796931.3290668,
         "topic": "Chichen Itza Pyramid Dedicated"
+    },
+    {
+        "timestamp": 1786803440.0496936,
+        "topic": "First Permanent Photograph"
     }
 ]
