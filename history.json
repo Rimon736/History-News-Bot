@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779127363.7856624,
-        "topic": "Cuban Revolution Triumph"
-    },
-    {
         "timestamp": 1779133488.1470015,
         "topic": "Nazca Lines Unveiled"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1786897153.3258233,
         "topic": "Maya Civilization Collapse"
+    },
+    {
+        "timestamp": 1786904508.07819,
+        "topic": "First Battle Manassas"
     }
 ]
