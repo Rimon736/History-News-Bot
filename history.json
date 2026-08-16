@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779058295.29352,
-        "topic": "Battle of Verdun"
-    },
-    {
         "timestamp": 1779072838.3357046,
         "topic": "Jerusalem Temple Expansion"
     },
@@ -2922,5 +2918,9 @@
     {
         "timestamp": 1786832224.7579417,
         "topic": "Bras\u00edlia Capital Inaugurated"
+    },
+    {
+        "timestamp": 1786842108.3361468,
+        "topic": "Johnstown Flood Disaster"
     }
 ]
