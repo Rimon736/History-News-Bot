@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779091139.433244,
-        "topic": "Hippocrates Founds Medical School"
-    },
-    {
         "timestamp": 1779104892.1417153,
         "topic": "Chang'an Inauguration"
     },
@@ -2930,5 +2926,9 @@
     {
         "timestamp": 1786861956.6217468,
         "topic": "First Punic War Erupts"
+    },
+    {
+        "timestamp": 1786868601.1068425,
+        "topic": "Atomic Nucleus Discovery"
     }
 ]
