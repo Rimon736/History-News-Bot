@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779213793.7173507,
-        "topic": "Treaty of Ghent"
-    },
-    {
         "timestamp": 1779225407.905331,
         "topic": "Vasa Warship Sinks"
     },
@@ -2958,5 +2954,9 @@
     {
         "timestamp": 1786983701.8470676,
         "topic": "Charlemagne's Palace School"
+    },
+    {
+        "timestamp": 1786991595.1509116,
+        "topic": "Statue of Zeus Completed"
     }
 ]
