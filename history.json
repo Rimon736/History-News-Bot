@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779145067.0989187,
-        "topic": "Vandal Sack of Rome"
-    },
-    {
         "timestamp": 1779176565.958913,
         "topic": "Halley's Diving Bell Unveiled"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1786918553.4939113,
         "topic": "Gutenberg Bible Printing"
+    },
+    {
+        "timestamp": 1786928393.1014392,
+        "topic": "Stirrup Invention Transforms Cavalry"
     }
 ]
