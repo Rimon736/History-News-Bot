@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1779225407.905331,
-        "topic": "Vasa Warship Sinks"
-    },
-    {
-        "timestamp": 1779231654.1311176,
-        "topic": "Founding of Petra"
-    },
-    {
         "timestamp": 1779245485.2226915,
         "topic": "Founding of Cahokia"
     },
@@ -2962,5 +2954,9 @@
     {
         "timestamp": 1786998051.9426544,
         "topic": "Cleopatra Arrives Rome"
+    },
+    {
+        "timestamp": 1787014670.9545949,
+        "topic": "Sicilian Vespers Uprising"
     }
 ]
