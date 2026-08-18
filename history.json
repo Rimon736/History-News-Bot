@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779245485.2226915,
-        "topic": "Founding of Cahokia"
-    },
-    {
         "timestamp": 1779262842.489435,
         "topic": "First Roman Census"
     },
@@ -2962,5 +2958,9 @@
     {
         "timestamp": 1787021511.4831548,
         "topic": "Pilgrims Land Plymouth"
+    },
+    {
+        "timestamp": 1787027486.855836,
+        "topic": "Pharos Lighthouse Completion"
     }
 ]
