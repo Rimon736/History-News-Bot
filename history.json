@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779313730.7799287,
-        "topic": "Archimedes' Tragic Demise"
-    },
-    {
         "timestamp": 1779318589.7503543,
         "topic": "Vesalius Publishes Anatomy"
     },
@@ -2978,5 +2974,9 @@
     {
         "timestamp": 1787084290.7758384,
         "topic": "Galerius' Edict of Toleration"
+    },
+    {
+        "timestamp": 1787091472.2906725,
+        "topic": "Watergate Scandal Unfolds"
     }
 ]
