@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779274046.850076,
-        "topic": "Battle of Cr\u00e9cy"
-    },
-    {
         "timestamp": 1779288841.8881938,
         "topic": "First Exoplanet Discovery"
     },
@@ -2970,5 +2966,9 @@
     {
         "timestamp": 1787048603.177271,
         "topic": "Bauhaus School Inaugurated"
+    },
+    {
+        "timestamp": 1787056551.7515562,
+        "topic": "Colossus of Rhodes Falls"
     }
 ]
