@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779386079.1227398,
-        "topic": "Draco's Code Enacted"
-    },
-    {
         "timestamp": 1779398702.7059422,
         "topic": "Great Famine Begins"
     },
@@ -2990,5 +2986,9 @@
     {
         "timestamp": 1787156837.6931243,
         "topic": "War of Roses Erupts"
+    },
+    {
+        "timestamp": 1787164088.5107343,
+        "topic": "Herculaneum Rediscovery Begins"
     }
 ]
