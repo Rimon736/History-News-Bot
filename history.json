@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779375457.529394,
-        "topic": "Spartacus Slave Revolt"
-    },
-    {
         "timestamp": 1779386079.1227398,
         "topic": "Draco's Code Enacted"
     },
@@ -2990,5 +2986,9 @@
     {
         "timestamp": 1787149709.7294595,
         "topic": "Fall of Saigon"
+    },
+    {
+        "timestamp": 1787156837.6931243,
+        "topic": "War of Roses Erupts"
     }
 ]
