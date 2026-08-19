@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779349511.3288448,
-        "topic": "Christ Redeemer Unveiled"
-    },
-    {
         "timestamp": 1779362307.5348697,
         "topic": "Hanseatic League Founding"
     },
@@ -2982,5 +2978,9 @@
     {
         "timestamp": 1787113979.0070114,
         "topic": "Helium Element Discovery"
+    },
+    {
+        "timestamp": 1787128292.1082702,
+        "topic": "Red Cliffs Battle Concludes"
     }
 ]
