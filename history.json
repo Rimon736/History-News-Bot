@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779362307.5348697,
-        "topic": "Hanseatic League Founding"
-    },
-    {
         "timestamp": 1779375457.529394,
         "topic": "Spartacus Slave Revolt"
     },
@@ -2986,5 +2982,9 @@
     {
         "timestamp": 1787135012.999511,
         "topic": "Treaty of Verdun Signed"
+    },
+    {
+        "timestamp": 1787143029.5302656,
+        "topic": "Great Fire Rome"
     }
 ]
