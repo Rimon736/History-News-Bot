@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779478171.2270916,
-        "topic": "Persian Royal Road Activated"
-    },
-    {
         "timestamp": 1779484028.3251686,
         "topic": "Carthaginian African Voyage"
     },
@@ -3018,5 +3014,9 @@
     {
         "timestamp": 1787250749.1401236,
         "topic": "Battle of Megiddo"
+    },
+    {
+        "timestamp": 1787257388.8604069,
+        "topic": "Aristotle Tutors Alexander"
     }
 ]
