@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779435736.5575516,
-        "topic": "Tacoma Narrows Collapse"
-    },
-    {
         "timestamp": 1779446859.1087613,
         "topic": "Hague Peace Conference"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1787207887.8910596,
         "topic": "Byzantine Nika Riots"
+    },
+    {
+        "timestamp": 1787214725.806497,
+        "topic": "Ulugh Beg Observatory Opens"
     }
 ]
