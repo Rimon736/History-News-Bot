@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779404486.0814455,
-        "topic": "King John Loses Jewels"
-    },
-    {
         "timestamp": 1779418492.8624363,
         "topic": "First World Map Unveiled"
     },
@@ -2994,5 +2990,9 @@
     {
         "timestamp": 1787178280.807758,
         "topic": "Michelson-Morley Experiment"
+    },
+    {
+        "timestamp": 1787187542.8049116,
+        "topic": "Byzantine Greek Fire"
     }
 ]
