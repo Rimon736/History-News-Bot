@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779484028.3251686,
-        "topic": "Carthaginian African Voyage"
-    },
-    {
         "timestamp": 1779490495.3606899,
         "topic": "Khmer Empire Founded"
     },
@@ -3018,5 +3014,9 @@
     {
         "timestamp": 1787257388.8604069,
         "topic": "Aristotle Tutors Alexander"
+    },
+    {
+        "timestamp": 1787264523.075223,
+        "topic": "Battle of Yarmouk"
     }
 ]
