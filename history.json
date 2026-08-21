@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779503966.2462382,
-        "topic": "Alexander Visits Oracle"
-    },
-    {
         "timestamp": 1779517937.003979,
         "topic": "Thales Predicts Solar Eclipse"
     },
@@ -3018,5 +3014,9 @@
     {
         "timestamp": 1787274126.4971433,
         "topic": "Cyrus's Edict"
+    },
+    {
+        "timestamp": 1787281096.509257,
+        "topic": "Lalibela Churches Completed"
     }
 ]
