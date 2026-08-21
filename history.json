@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779517937.003979,
-        "topic": "Thales Predicts Solar Eclipse"
-    },
-    {
         "timestamp": 1779529714.4219847,
         "topic": "Ishtar Gate Completion"
     },
@@ -3022,5 +3018,9 @@
     {
         "timestamp": 1787286799.3731616,
         "topic": "First World Map Unveiled"
+    },
+    {
+        "timestamp": 1787294295.6612754,
+        "topic": "Hagia Sophia Construction"
     }
 ]
