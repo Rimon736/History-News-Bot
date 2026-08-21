@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779534494.7478786,
-        "topic": "Faraday's Induction Discovery"
-    },
-    {
         "timestamp": 1779542185.3381405,
         "topic": "Battle of Blenheim"
     },
@@ -3026,5 +3022,9 @@
     {
         "timestamp": 1787307913.7916965,
         "topic": "Transistor Invention Unveiled"
+    },
+    {
+        "timestamp": 1787315854.1301172,
+        "topic": "Common Sense Published"
     }
 ]
