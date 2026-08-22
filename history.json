@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1779628661.173459,
-        "topic": "Gilgamesh Epic Unveiled"
-    },
-    {
-        "timestamp": 1779634829.2839398,
-        "topic": "Founding Kingdom of Aksum"
-    },
-    {
         "timestamp": 1779641830.1950116,
         "topic": "Hundred Years' War Begins"
     },
@@ -3034,5 +3026,9 @@
     {
         "timestamp": 1787401773.2936401,
         "topic": "Sistine Chapel Unveiling"
+    },
+    {
+        "timestamp": 1787415560.6829696,
+        "topic": "First Exoplanet Discovery"
     }
 ]
