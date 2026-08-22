@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779655888.9386177,
-        "topic": "Battle of Poltava"
-    },
-    {
         "timestamp": 1779663329.6508698,
         "topic": "Knights Templar Founded"
     },
@@ -3030,5 +3026,9 @@
     {
         "timestamp": 1787429872.6678405,
         "topic": "Capitoline Temple Dedication"
+    },
+    {
+        "timestamp": 1787437045.7055488,
+        "topic": "Hebrew Bible Canon Finalized"
     }
 ]
