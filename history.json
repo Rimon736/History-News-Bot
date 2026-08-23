@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779663329.6508698,
-        "topic": "Knights Templar Founded"
-    },
-    {
         "timestamp": 1779678001.2106802,
         "topic": "Roman State Christianity"
     },
@@ -3030,5 +3026,9 @@
     {
         "timestamp": 1787437045.7055488,
         "topic": "Hebrew Bible Canon Finalized"
+    },
+    {
+        "timestamp": 1787446991.39915,
+        "topic": "Gortyn Law Code"
     }
 ]
