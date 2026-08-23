@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779697050.5262704,
-        "topic": "Polynesian Hawaii Arrival"
-    },
-    {
         "timestamp": 1779713963.046723,
         "topic": "Cook's Venus Transit"
     },
@@ -3038,5 +3034,9 @@
     {
         "timestamp": 1787466797.210232,
         "topic": "Alexander Crosses Hellespont"
+    },
+    {
+        "timestamp": 1787473469.5809755,
+        "topic": "Suez Canal Nationalized"
     }
 ]
