@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779678001.2106802,
-        "topic": "Roman State Christianity"
-    },
-    {
         "timestamp": 1779697050.5262704,
         "topic": "Polynesian Hawaii Arrival"
     },
@@ -3034,5 +3030,9 @@
     {
         "timestamp": 1787453883.4335675,
         "topic": "Mongol Postal System"
+    },
+    {
+        "timestamp": 1787459528.575509,
+        "topic": "Oxford University Founding"
     }
 ]
