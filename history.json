@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779742953.5607457,
-        "topic": "Roman Forum Established"
-    },
-    {
         "timestamp": 1779749827.675747,
         "topic": "Egyptian Museum Opens"
     },
@@ -3050,5 +3046,9 @@
     {
         "timestamp": 1787516219.2242079,
         "topic": "Benzene Structure Discovered"
+    },
+    {
+        "timestamp": 1787523408.6579463,
+        "topic": "Early Human Remains"
     }
 ]
