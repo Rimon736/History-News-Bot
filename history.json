@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779726075.6660266,
-        "topic": "Ancient Ur Founded"
-    },
-    {
         "timestamp": 1779737029.4639103,
         "topic": "Gunpowder Plot Foiled"
     },
@@ -3050,5 +3046,9 @@
     {
         "timestamp": 1787501992.2424817,
         "topic": "First Athenian Tragedy"
+    },
+    {
+        "timestamp": 1787509357.8227818,
+        "topic": "First Nuclear Chain Reaction"
     }
 ]
