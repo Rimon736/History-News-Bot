@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779763664.8149037,
-        "topic": "Zipper Patent Granted"
-    },
-    {
         "timestamp": 1779781312.5713239,
         "topic": "Konark Sun Temple Completed"
     },
@@ -3050,5 +3046,9 @@
     {
         "timestamp": 1787533246.0770562,
         "topic": "Vandal Sack of Rome"
+    },
+    {
+        "timestamp": 1787540334.7454965,
+        "topic": "Kingdom of Goguryeo Founded"
     }
 ]
