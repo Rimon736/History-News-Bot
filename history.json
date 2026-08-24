@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779807570.031884,
-        "topic": "Imperial Book Burning"
-    },
-    {
         "timestamp": 1779819822.2593424,
         "topic": "Battle of Pylos"
     },
@@ -3070,5 +3066,9 @@
     {
         "timestamp": 1787582222.439852,
         "topic": "Hippocrates Medical School"
+    },
+    {
+        "timestamp": 1787589103.7101557,
+        "topic": "Aksum Embraces Christianity"
     }
 ]
