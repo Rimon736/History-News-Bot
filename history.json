@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779895763.483125,
-        "topic": "Battle of Saratoga"
-    },
-    {
         "timestamp": 1779906246.419143,
         "topic": "Western Church Schism"
     },
@@ -3090,5 +3086,9 @@
     {
         "timestamp": 1787668834.3617566,
         "topic": "9/11 Terrorist Attacks"
+    },
+    {
+        "timestamp": 1787675544.3295956,
+        "topic": "Edict of Thessalonica"
     }
 ]
