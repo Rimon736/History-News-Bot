@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779906246.419143,
-        "topic": "Western Church Schism"
-    },
-    {
         "timestamp": 1779918679.0532832,
         "topic": "First Steam Locomotive"
     },
@@ -3090,5 +3086,9 @@
     {
         "timestamp": 1787675544.3295956,
         "topic": "Edict of Thessalonica"
+    },
+    {
+        "timestamp": 1787682830.52138,
+        "topic": "Fahrenheit Thermometer Invented"
     }
 ]
