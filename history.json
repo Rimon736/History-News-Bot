@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779918679.0532832,
-        "topic": "First Steam Locomotive"
-    },
-    {
         "timestamp": 1779923652.2160673,
         "topic": "Gravitational Waves Detected"
     },
@@ -3094,5 +3090,9 @@
     {
         "timestamp": 1787689432.4281862,
         "topic": "Aeolipile Demonstration"
+    },
+    {
+        "timestamp": 1787696517.1970346,
+        "topic": "First Papal Election"
     }
 ]
