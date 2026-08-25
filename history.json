@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779868763.7594962,
-        "topic": "Delphi Temple Dedication"
-    },
-    {
         "timestamp": 1779895763.483125,
         "topic": "Battle of Saratoga"
     },
@@ -3078,5 +3074,9 @@
     {
         "timestamp": 1787639914.5197372,
         "topic": "Lateran Treaty Signed"
+    },
+    {
+        "timestamp": 1787647006.5015545,
+        "topic": "Parchment Development Pergamum"
     }
 ]
