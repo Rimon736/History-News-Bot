@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780005218.1671517,
-        "topic": "Nag Hammadi Discovery"
-    },
-    {
         "timestamp": 1780009973.1968138,
         "topic": "Rasputin Assassinated"
     },
@@ -3110,5 +3106,9 @@
     {
         "timestamp": 1787773313.8177366,
         "topic": "Blackbeard's Final Stand"
+    },
+    {
+        "timestamp": 1787784037.104012,
+        "topic": "Battle of Chaeronea"
     }
 ]
