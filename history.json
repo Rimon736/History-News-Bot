@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779982947.9686325,
-        "topic": "Battle of Hattin"
-    },
-    {
         "timestamp": 1779993273.2421074,
         "topic": "Kublai Khan, Yuan Capital"
     },
@@ -3110,5 +3106,9 @@
     {
         "timestamp": 1787755223.4690173,
         "topic": "Hypatia's Assassination"
+    },
+    {
+        "timestamp": 1787762697.1102087,
+        "topic": "Great Irish Famine"
     }
 ]
