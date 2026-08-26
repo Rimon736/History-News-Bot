@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1779968152.9304776,
-        "topic": "Civil Rights Act Signed"
-    },
-    {
         "timestamp": 1779982947.9686325,
         "topic": "Battle of Hattin"
     },
@@ -3106,5 +3102,9 @@
     {
         "timestamp": 1787740248.642286,
         "topic": "Mount Pinatubo Eruption"
+    },
+    {
+        "timestamp": 1787748176.4683645,
+        "topic": "Neolithic Revolution Begins"
     }
 ]
