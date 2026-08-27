@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1780041146.494392,
-        "topic": "Bank of England Chartered"
-    },
-    {
-        "timestamp": 1780053898.9815211,
-        "topic": "Formation of Great Britain"
-    },
-    {
-        "timestamp": 1780066539.1864357,
-        "topic": "First Novel Published"
-    },
-    {
-        "timestamp": 1780079410.5108693,
-        "topic": "Celestial Event Observed"
-    },
-    {
         "timestamp": 1780091448.9728746,
         "topic": "Monroe Doctrine Proclaimed"
     },
@@ -3106,5 +3090,9 @@
     {
         "timestamp": 1787813896.5020196,
         "topic": "Buddha's Birth"
+    },
+    {
+        "timestamp": 1787856420.8953876,
+        "topic": "Custer's Last Stand"
     }
 ]
