@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1780091448.9728746,
-        "topic": "Monroe Doctrine Proclaimed"
-    },
-    {
-        "timestamp": 1780096198.6165376,
-        "topic": "Battle of the Bulge"
-    },
-    {
-        "timestamp": 1780109017.665156,
-        "topic": "Fall of Lydia"
-    },
-    {
         "timestamp": 1780123445.6812358,
         "topic": "Xerxes' Hellespont Crossing"
     },
@@ -3094,5 +3082,9 @@
     {
         "timestamp": 1787856420.8953876,
         "topic": "Custer's Last Stand"
+    },
+    {
+        "timestamp": 1787889660.0684347,
+        "topic": "Mesa Verde Abandonment"
     }
 ]
