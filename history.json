@@ -1,25 +1,5 @@
 [
     {
-        "timestamp": 1780123445.6812358,
-        "topic": "Xerxes' Hellespont Crossing"
-    },
-    {
-        "timestamp": 1780134983.602279,
-        "topic": "Battle of Pelusium"
-    },
-    {
-        "timestamp": 1780139907.4091606,
-        "topic": "Ceres Asteroid Discovered"
-    },
-    {
-        "timestamp": 1780147266.1058266,
-        "topic": "Ancient Samarkand Founded"
-    },
-    {
-        "timestamp": 1780153484.087208,
-        "topic": "Permian Extinction Event"
-    },
-    {
         "timestamp": 1780160395.991584,
         "topic": "Great Plague Marseille"
     },
@@ -3086,5 +3066,9 @@
     {
         "timestamp": 1787889660.0684347,
         "topic": "Mesa Verde Abandonment"
+    },
+    {
+        "timestamp": 1787934665.9855394,
+        "topic": "Dutch Republic Founded"
     }
 ]
