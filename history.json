@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780254661.3080673,
-        "topic": "Mount Etna Eruption"
-    },
-    {
-        "timestamp": 1780260925.8721907,
-        "topic": "Deepest Ocean Descent"
-    },
-    {
         "timestamp": 1780268269.6996531,
         "topic": "Founding of Circus Maximus"
     },
@@ -3046,5 +3038,9 @@
     {
         "timestamp": 1788030463.1774435,
         "topic": "First Oil Well"
+    },
+    {
+        "timestamp": 1788041741.1448956,
+        "topic": "Uluburun Shipwreck Discovery"
     }
 ]
