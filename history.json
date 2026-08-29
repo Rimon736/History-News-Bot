@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780196395.7599928,
-        "topic": "Four-Minute Mile Broken"
-    },
-    {
-        "timestamp": 1780213387.9803553,
-        "topic": "Colosseum Construction Complete"
-    },
-    {
         "timestamp": 1780222338.6972811,
         "topic": "Hatshepsut's Coronation"
     },
@@ -3058,5 +3050,9 @@
     {
         "timestamp": 1787966687.0450127,
         "topic": "Royal Tombs of Ur Discovery"
+    },
+    {
+        "timestamp": 1787992527.5473347,
+        "topic": "King's \"I Have a Dream\""
     }
 ]
