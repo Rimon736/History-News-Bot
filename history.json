@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1780160395.991584,
-        "topic": "Great Plague Marseille"
-    },
-    {
-        "timestamp": 1780168038.3880055,
-        "topic": "Battle of Poitiers"
-    },
-    {
-        "timestamp": 1780174386.2198358,
-        "topic": "Swan Lake Premiere"
-    },
-    {
-        "timestamp": 1780181763.0709672,
-        "topic": "Founding Tang Dynasty"
-    },
-    {
         "timestamp": 1780196395.7599928,
         "topic": "Four-Minute Mile Broken"
     },
@@ -3070,5 +3054,9 @@
     {
         "timestamp": 1787934665.9855394,
         "topic": "Dutch Republic Founded"
+    },
+    {
+        "timestamp": 1787966687.0450127,
+        "topic": "Royal Tombs of Ur Discovery"
     }
 ]
