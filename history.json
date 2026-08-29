@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780222338.6972811,
-        "topic": "Hatshepsut's Coronation"
-    },
-    {
-        "timestamp": 1780234138.989662,
-        "topic": "Alexander Cuts Knot"
-    },
-    {
         "timestamp": 1780240617.390111,
         "topic": "Battle of Karansebes Fiasco"
     },
@@ -3054,5 +3046,9 @@
     {
         "timestamp": 1787992527.5473347,
         "topic": "King's \"I Have a Dream\""
+    },
+    {
+        "timestamp": 1788015307.1570058,
+        "topic": "Boston Molasses Flood"
     }
 ]
