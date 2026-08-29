@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780240617.390111,
-        "topic": "Battle of Karansebes Fiasco"
-    },
-    {
-        "timestamp": 1780246936.433356,
-        "topic": "England's Act of Supremacy"
-    },
-    {
         "timestamp": 1780254661.3080673,
         "topic": "Mount Etna Eruption"
     },
@@ -3050,5 +3042,9 @@
     {
         "timestamp": 1788015307.1570058,
         "topic": "Boston Molasses Flood"
+    },
+    {
+        "timestamp": 1788030463.1774435,
+        "topic": "First Oil Well"
     }
 ]
