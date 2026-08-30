@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780268269.6996531,
-        "topic": "Founding of Circus Maximus"
-    },
-    {
         "timestamp": 1780285067.8890047,
         "topic": "Galileo Observes Venus"
     },
@@ -3042,5 +3038,9 @@
     {
         "timestamp": 1788041741.1448956,
         "topic": "Uluburun Shipwreck Discovery"
+    },
+    {
+        "timestamp": 1788059920.331307,
+        "topic": "First Open-Heart Surgery"
     }
 ]
