@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780344848.842402,
-        "topic": "Battle of Stalingrad"
-    },
-    {
         "timestamp": 1780356311.4920905,
         "topic": "Alexandria Library Inaugurated"
     },
@@ -3042,5 +3038,9 @@
     {
         "timestamp": 1788116478.021178,
         "topic": "Founding of Yale College"
+    },
+    {
+        "timestamp": 1788128433.4838815,
+        "topic": "Eads Bridge Inauguration"
     }
 ]
