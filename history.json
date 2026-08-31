@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780408734.1379466,
-        "topic": "Beethoven's Ninth Premiere"
-    },
-    {
-        "timestamp": 1780423628.6797755,
-        "topic": "Julian Calendar Reform"
-    },
-    {
         "timestamp": 1780438902.810242,
         "topic": "Sack of Rome (1527)"
     },
@@ -3038,5 +3030,9 @@
     {
         "timestamp": 1788171976.2127712,
         "topic": "Oldest American City Confirmed"
+    },
+    {
+        "timestamp": 1788201636.441607,
+        "topic": "Ottoman Moh\u00e1cs Victory"
     }
 ]
