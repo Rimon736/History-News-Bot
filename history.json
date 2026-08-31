@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780356311.4920905,
-        "topic": "Alexandria Library Inaugurated"
-    },
-    {
         "timestamp": 1780371272.3438072,
         "topic": "Mishnah Codification Completed"
     },
@@ -3042,5 +3038,9 @@
     {
         "timestamp": 1788128433.4838815,
         "topic": "Eads Bridge Inauguration"
+    },
+    {
+        "timestamp": 1788145984.9600055,
+        "topic": "Alexandria Library Founding"
     }
 ]
