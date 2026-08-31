@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780371272.3438072,
-        "topic": "Mishnah Codification Completed"
-    },
-    {
-        "timestamp": 1780388731.140993,
-        "topic": "Cuban Missile Crisis Resolution"
-    },
-    {
         "timestamp": 1780408734.1379466,
         "topic": "Beethoven's Ninth Premiere"
     },
@@ -3042,5 +3034,9 @@
     {
         "timestamp": 1788145984.9600055,
         "topic": "Alexandria Library Founding"
+    },
+    {
+        "timestamp": 1788171976.2127712,
+        "topic": "Oldest American City Confirmed"
     }
 ]
