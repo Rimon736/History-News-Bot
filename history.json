@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780458100.1879208,
-        "topic": "Battle of Aegospotami"
-    },
-    {
-        "timestamp": 1780476733.2083187,
-        "topic": "Tale of Genji Completed"
-    },
-    {
         "timestamp": 1780496802.503046,
         "topic": "Battle of Badr"
     },
@@ -3038,5 +3030,9 @@
     {
         "timestamp": 1788232687.174119,
         "topic": "Lipit-Ishtar Law Code"
+    },
+    {
+        "timestamp": 1788253655.7193427,
+        "topic": "Aksumite Kingdom Founded"
     }
 ]
