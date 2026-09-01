@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780496802.503046,
-        "topic": "Battle of Badr"
-    },
-    {
         "timestamp": 1780515921.9173377,
         "topic": "Kursk Offensive Begins"
     },
@@ -3034,5 +3030,9 @@
     {
         "timestamp": 1788253655.7193427,
         "topic": "Aksumite Kingdom Founded"
+    },
+    {
+        "timestamp": 1788273006.9431882,
+        "topic": "Ashoka's Edicts Issued"
     }
 ]
