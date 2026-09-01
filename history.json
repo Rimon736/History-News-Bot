@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780515921.9173377,
-        "topic": "Kursk Offensive Begins"
-    },
-    {
         "timestamp": 1780525653.916781,
         "topic": "Ancient Glassblowing Invention"
     },
@@ -3038,5 +3034,9 @@
     {
         "timestamp": 1788289835.8297324,
         "topic": "World War I Armistice"
+    },
+    {
+        "timestamp": 1788301260.284977,
+        "topic": "First Sunspot Observation"
     }
 ]
