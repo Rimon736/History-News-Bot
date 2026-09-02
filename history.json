@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780544246.5223668,
-        "topic": "Hatshepsut's Mortuary Temple Unveiled"
-    },
-    {
         "timestamp": 1780561258.6400084,
         "topic": "Stalingrad Urban Battle"
     },
@@ -3038,5 +3034,9 @@
     {
         "timestamp": 1788316523.9121203,
         "topic": "Proton Identified"
+    },
+    {
+        "timestamp": 1788337224.5456836,
+        "topic": "Epic of Gilgamesh Unearthed"
     }
 ]
