@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780561258.6400084,
-        "topic": "Stalingrad Urban Battle"
-    },
-    {
-        "timestamp": 1780576957.688043,
-        "topic": "Siege of Tyre"
-    },
-    {
         "timestamp": 1780591913.3127513,
         "topic": "Chartres Cathedral Consecrated"
     },
@@ -3038,5 +3030,9 @@
     {
         "timestamp": 1788337224.5456836,
         "topic": "Epic of Gilgamesh Unearthed"
+    },
+    {
+        "timestamp": 1788357790.1418128,
+        "topic": "Vatican Obelisk Relocated"
     }
 ]
