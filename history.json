@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780603234.7752092,
-        "topic": "Battle of Antietam"
-    },
-    {
-        "timestamp": 1780609735.0253325,
-        "topic": "Battle of Hydaspes"
-    },
-    {
         "timestamp": 1780614405.9841974,
         "topic": "Founding of Athens"
     },
@@ -3034,5 +3026,9 @@
     {
         "timestamp": 1788376260.5734544,
         "topic": "St. Bartholomew's Day Massacre"
+    },
+    {
+        "timestamp": 1788387513.1160245,
+        "topic": "Cuban Missile Crisis"
     }
 ]
