@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780591913.3127513,
-        "topic": "Chartres Cathedral Consecrated"
-    },
-    {
         "timestamp": 1780603234.7752092,
         "topic": "Battle of Antietam"
     },
@@ -3034,5 +3030,9 @@
     {
         "timestamp": 1788357790.1418128,
         "topic": "Vatican Obelisk Relocated"
+    },
+    {
+        "timestamp": 1788376260.5734544,
+        "topic": "St. Bartholomew's Day Massacre"
     }
 ]
