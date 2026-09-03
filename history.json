@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780662897.1345212,
-        "topic": "Descartes' Method Published"
-    },
-    {
         "timestamp": 1780676918.67863,
         "topic": "Rise of Meroitic Kingdom"
     },
@@ -3026,5 +3022,9 @@
     {
         "timestamp": 1788424201.341208,
         "topic": "Modern Olympic Games"
+    },
+    {
+        "timestamp": 1788444287.955882,
+        "topic": "First Dinosaur Fossil"
     }
 ]
