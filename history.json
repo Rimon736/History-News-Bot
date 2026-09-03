@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780688960.0658793,
-        "topic": "An Lushan Rebellion"
-    },
-    {
-        "timestamp": 1780694594.0295453,
-        "topic": "First Rocket Warfare"
-    },
-    {
         "timestamp": 1780700655.3149009,
         "topic": "Angkor Wat Rediscovered"
     },
@@ -3026,5 +3018,9 @@
     {
         "timestamp": 1788462219.9767168,
         "topic": "Library of Ashurbanipal"
+    },
+    {
+        "timestamp": 1788473508.1976352,
+        "topic": "Lewis & Clark Expedition"
     }
 ]
