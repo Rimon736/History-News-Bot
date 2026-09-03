@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780628383.335699,
-        "topic": "Great Chilean Earthquake"
-    },
-    {
-        "timestamp": 1780646657.8930306,
-        "topic": "Burning of Persepolis"
-    },
-    {
         "timestamp": 1780662897.1345212,
         "topic": "Descartes' Method Published"
     },
@@ -3030,5 +3022,9 @@
     {
         "timestamp": 1788403320.8247852,
         "topic": "Sargon Unifies Mesopotamia"
+    },
+    {
+        "timestamp": 1788424201.341208,
+        "topic": "Modern Olympic Games"
     }
 ]
