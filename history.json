@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780614405.9841974,
-        "topic": "Founding of Athens"
-    },
-    {
         "timestamp": 1780628383.335699,
         "topic": "Great Chilean Earthquake"
     },
@@ -3030,5 +3026,9 @@
     {
         "timestamp": 1788387513.1160245,
         "topic": "Cuban Missile Crisis"
+    },
+    {
+        "timestamp": 1788403320.8247852,
+        "topic": "Sargon Unifies Mesopotamia"
     }
 ]
