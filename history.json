@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780779622.0022788,
-        "topic": "Plato's Republic Publication"
-    },
-    {
         "timestamp": 1780818741.0533059,
         "topic": "Battle of Quebec"
     },
@@ -3010,5 +3006,9 @@
     {
         "timestamp": 1788552735.8532255,
         "topic": "Mycale Naval Battle"
+    },
+    {
+        "timestamp": 1788565206.5709147,
+        "topic": "Scopes Trial Verdict"
     }
 ]
