@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780713992.8142247,
-        "topic": "Celsus Library Destroyed by Fire"
-    },
-    {
-        "timestamp": 1780728671.492934,
-        "topic": "Roman Empire: Four Emperors"
-    },
-    {
         "timestamp": 1780740119.9902196,
         "topic": "Buddha's Parinirvana"
     },
@@ -3022,5 +3014,9 @@
     {
         "timestamp": 1788489546.1415415,
         "topic": "Roman Empire Census"
+    },
+    {
+        "timestamp": 1788510345.7291422,
+        "topic": "Archimedes' Tragic Death"
     }
 ]
