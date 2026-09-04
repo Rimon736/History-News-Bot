@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1780740119.9902196,
-        "topic": "Buddha's Parinirvana"
-    },
-    {
-        "timestamp": 1780745995.4416833,
-        "topic": "Battle of Ankara"
-    },
-    {
-        "timestamp": 1780752247.97145,
-        "topic": "Aswan High Dam"
-    },
-    {
         "timestamp": 1780758795.7986555,
         "topic": "Galileo's Sunspot Discovery"
     },
@@ -3018,5 +3006,9 @@
     {
         "timestamp": 1788510345.7291422,
         "topic": "Archimedes' Tragic Death"
+    },
+    {
+        "timestamp": 1788530251.2668192,
+        "topic": "Battle of Bunker Hill"
     }
 ]
