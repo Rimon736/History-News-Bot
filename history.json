@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780818741.0533059,
-        "topic": "Battle of Quebec"
-    },
-    {
-        "timestamp": 1780828081.2030482,
-        "topic": "Napoleon Escapes Elba"
-    },
-    {
         "timestamp": 1780839873.1648934,
         "topic": "Justinian Plague Outbreak"
     },
@@ -3014,5 +3006,9 @@
     {
         "timestamp": 1788576024.395451,
         "topic": "First Buddhist Council"
+    },
+    {
+        "timestamp": 1788608958.5110183,
+        "topic": "First Artificial Heart"
     }
 ]
