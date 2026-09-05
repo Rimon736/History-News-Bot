@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1780845704.2140195,
-        "topic": "Colosseum Construction Begins"
-    },
-    {
-        "timestamp": 1780852345.6198778,
-        "topic": "South Sea Bubble Burst"
-    },
-    {
         "timestamp": 1780859807.6384535,
         "topic": "Battle of Austerlitz"
     },
@@ -3010,5 +3002,9 @@
     {
         "timestamp": 1788618493.8512096,
         "topic": "Tennis Court Oath"
+    },
+    {
+        "timestamp": 1788630782.653128,
+        "topic": "Battle of Stalingrad"
     }
 ]
