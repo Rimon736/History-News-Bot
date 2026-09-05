@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780866483.005554,
-        "topic": "Japan's Seclusion Edict"
-    },
-    {
         "timestamp": 1780873286.901346,
         "topic": "Sydney Opera House Opening"
     },
@@ -3006,5 +3002,9 @@
     {
         "timestamp": 1788637962.7558472,
         "topic": "Halley's Comet Sighting"
+    },
+    {
+        "timestamp": 1788645160.9368842,
+        "topic": "Flavian Amphitheater Inauguration"
     }
 ]
