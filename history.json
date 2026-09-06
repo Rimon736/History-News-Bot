@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780873286.901346,
-        "topic": "Sydney Opera House Opening"
-    },
-    {
         "timestamp": 1780889705.9276433,
         "topic": "Lechfeld Victory Declared"
     },
@@ -3006,5 +3002,9 @@
     {
         "timestamp": 1788645160.9368842,
         "topic": "Flavian Amphitheater Inauguration"
+    },
+    {
+        "timestamp": 1788662257.4455526,
+        "topic": "Roman Forum Dedication"
     }
 ]
