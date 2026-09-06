@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780927472.125049,
-        "topic": "Semmelweis Handwashing Discovery"
-    },
-    {
         "timestamp": 1780943016.0638747,
         "topic": "First Voice Recording"
     },
@@ -3006,5 +3002,9 @@
     {
         "timestamp": 1788700916.385291,
         "topic": "Papacy Relocates Avignon"
+    },
+    {
+        "timestamp": 1788712879.3019552,
+        "topic": "Battle of Hattin"
     }
 ]
