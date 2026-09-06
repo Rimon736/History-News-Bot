@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1780908641.8142052,
-        "topic": "Linnaeus's Systema Naturae"
-    },
-    {
         "timestamp": 1780927472.125049,
         "topic": "Semmelweis Handwashing Discovery"
     },
@@ -3006,5 +3002,9 @@
     {
         "timestamp": 1788682753.4385831,
         "topic": "Battle of Ain Jalut"
+    },
+    {
+        "timestamp": 1788700916.385291,
+        "topic": "Papacy Relocates Avignon"
     }
 ]
