@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781002693.9171212,
-        "topic": "Founding House of Wisdom"
-    },
-    {
-        "timestamp": 1781016068.1559985,
-        "topic": "Battle of Aquae Sextiae"
-    },
-    {
         "timestamp": 1781027933.053074,
         "topic": "Naval Battle Artemisium"
     },
@@ -3014,5 +3006,9 @@
     {
         "timestamp": 1788771156.1153882,
         "topic": "Mughal Empire Founded"
+    },
+    {
+        "timestamp": 1788794899.3798227,
+        "topic": "Hindenburg Disaster"
     }
 ]
