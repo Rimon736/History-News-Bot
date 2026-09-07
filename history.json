@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781027933.053074,
-        "topic": "Naval Battle Artemisium"
-    },
-    {
-        "timestamp": 1781035838.3455458,
-        "topic": "First Laser Demonstration"
-    },
-    {
         "timestamp": 1781046967.2036362,
         "topic": "Rise of Ghana Empire"
     },
@@ -3010,5 +3002,9 @@
     {
         "timestamp": 1788794899.3798227,
         "topic": "Hindenburg Disaster"
+    },
+    {
+        "timestamp": 1788820101.4601333,
+        "topic": "Siege of Tyre"
     }
 ]
