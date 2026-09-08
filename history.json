@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781096018.5786026,
-        "topic": "Mount Rushmore Carving"
-    },
-    {
         "timestamp": 1781110557.4341815,
         "topic": "Naval Battle of Tsushima"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1788856331.2121072,
         "topic": "Thales' Eclipse Prediction"
+    },
+    {
+        "timestamp": 1788876336.9030068,
+        "topic": "Tunguska Event Impact"
     }
 ]
