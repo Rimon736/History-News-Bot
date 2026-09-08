@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781046967.2036362,
-        "topic": "Rise of Ghana Empire"
-    },
-    {
         "timestamp": 1781060302.7650332,
         "topic": "Mechanical Clock Escapement"
     },
@@ -3006,5 +3002,9 @@
     {
         "timestamp": 1788820101.4601333,
         "topic": "Siege of Tyre"
+    },
+    {
+        "timestamp": 1788835707.7115047,
+        "topic": "Linnaean Taxonomy Published"
     }
 ]
