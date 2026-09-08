@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781060302.7650332,
-        "topic": "Mechanical Clock Escapement"
-    },
-    {
-        "timestamp": 1781078663.675817,
-        "topic": "Da Vinci's Last Supper Completed"
-    },
-    {
         "timestamp": 1781096018.5786026,
         "topic": "Mount Rushmore Carving"
     },
@@ -3006,5 +2998,9 @@
     {
         "timestamp": 1788835707.7115047,
         "topic": "Linnaean Taxonomy Published"
+    },
+    {
+        "timestamp": 1788856331.2121072,
+        "topic": "Thales' Eclipse Prediction"
     }
 ]
