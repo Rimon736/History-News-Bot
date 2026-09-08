@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781123093.7628002,
-        "topic": "Parthenon Marbles Removed"
-    },
-    {
         "timestamp": 1781133811.6402018,
         "topic": "Haitian Revolution Begins"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1788894833.0370054,
         "topic": "North Korea Invasion"
+    },
+    {
+        "timestamp": 1788905973.3389707,
+        "topic": "Rasputin Assassination"
     }
 ]
