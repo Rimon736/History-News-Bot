@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781148816.8814387,
-        "topic": "Uranium Element Discovery"
-    },
-    {
         "timestamp": 1781167338.5506985,
         "topic": "Edict of Caracalla"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1788922090.6113274,
         "topic": "Founding of Babylon"
+    },
+    {
+        "timestamp": 1788942873.3341417,
+        "topic": "Battle of Varna"
     }
 ]
