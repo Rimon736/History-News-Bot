@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781133811.6402018,
-        "topic": "Haitian Revolution Begins"
-    },
-    {
         "timestamp": 1781148816.8814387,
         "topic": "Uranium Element Discovery"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1788905973.3389707,
         "topic": "Rasputin Assassination"
+    },
+    {
+        "timestamp": 1788922090.6113274,
+        "topic": "Founding of Babylon"
     }
 ]
