@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781167338.5506985,
-        "topic": "Edict of Caracalla"
-    },
-    {
-        "timestamp": 1781186176.5243273,
-        "topic": "First Battle of Marne"
-    },
-    {
         "timestamp": 1781199345.6901686,
         "topic": "Hoover Dam Opening"
     },
@@ -3002,5 +2994,9 @@
     {
         "timestamp": 1788942873.3341417,
         "topic": "Battle of Varna"
+    },
+    {
+        "timestamp": 1788962838.0444365,
+        "topic": "Naval Battle Navarino"
     }
 ]
