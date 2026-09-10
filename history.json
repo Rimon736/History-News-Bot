@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781219982.2796223,
-        "topic": "Ancient Egyptian Labor Strike"
-    },
-    {
         "timestamp": 1781235185.6186397,
         "topic": "First Mercury Barometer"
     },
@@ -3002,5 +2998,9 @@
     {
         "timestamp": 1788991945.1497142,
         "topic": "Persepolis Burning"
+    },
+    {
+        "timestamp": 1789008579.4075866,
+        "topic": "Balboa Sights Pacific"
     }
 ]
