@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781294664.7713265,
-        "topic": "Lighthouse of Alexandria Collapse"
-    },
-    {
         "timestamp": 1781306043.541346,
         "topic": "Concordat of Worms Signed"
     },
@@ -2994,5 +2990,9 @@
     {
         "timestamp": 1789066522.3615322,
         "topic": "Sepoy Mutiny Erupts"
+    },
+    {
+        "timestamp": 1789078448.1517763,
+        "topic": "Bank of England Founded"
     }
 ]
