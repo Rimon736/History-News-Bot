@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781268757.2416422,
-        "topic": "Archimedes' Screw Unveiled"
-    },
-    {
-        "timestamp": 1781282535.19635,
-        "topic": "Cabral Reaches Brazil"
-    },
-    {
         "timestamp": 1781294664.7713265,
         "topic": "Lighthouse of Alexandria Collapse"
     },
@@ -2998,5 +2990,9 @@
     {
         "timestamp": 1789029402.3770065,
         "topic": "Great European Famine"
+    },
+    {
+        "timestamp": 1789066522.3615322,
+        "topic": "Sepoy Mutiny Erupts"
     }
 ]
