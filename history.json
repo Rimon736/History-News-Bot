@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781346419.8704,
-        "topic": "Luddite Uprisings Begin"
-    },
-    {
-        "timestamp": 1781358711.2476156,
-        "topic": "Imperial Examination System"
-    },
-    {
         "timestamp": 1781365334.143162,
         "topic": "Cultural Revolution Begins"
     },
@@ -2990,5 +2982,9 @@
     {
         "timestamp": 1789115454.6811357,
         "topic": "Founding Knights Templar"
+    },
+    {
+        "timestamp": 1789135263.0962737,
+        "topic": "Battle of Okinawa"
     }
 ]
