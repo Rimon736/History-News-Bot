@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781378395.7554698,
-        "topic": "Dutch East India Company"
-    },
-    {
         "timestamp": 1781385104.6633737,
         "topic": "Mendel's Heredity Laws"
     },
@@ -2982,5 +2978,9 @@
     {
         "timestamp": 1789148625.4186163,
         "topic": "Justinianic Plague Outbreak"
+    },
+    {
+        "timestamp": 1789158185.5038338,
+        "topic": "Battle of Valmy"
     }
 ]
