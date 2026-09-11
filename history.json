@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781365334.143162,
-        "topic": "Cultural Revolution Begins"
-    },
-    {
-        "timestamp": 1781371193.374436,
-        "topic": "Flying Shuttle Invented"
-    },
-    {
         "timestamp": 1781378395.7554698,
         "topic": "Dutch East India Company"
     },
@@ -2986,5 +2978,9 @@
     {
         "timestamp": 1789135263.0962737,
         "topic": "Battle of Okinawa"
+    },
+    {
+        "timestamp": 1789148625.4186163,
+        "topic": "Justinianic Plague Outbreak"
     }
 ]
