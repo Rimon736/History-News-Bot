@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781319473.4114969,
-        "topic": "Abu Simbel Consecration"
-    },
-    {
-        "timestamp": 1781336634.8768878,
-        "topic": "Edict of Serdica Issued"
-    },
-    {
         "timestamp": 1781346419.8704,
         "topic": "Luddite Uprisings Begin"
     },
@@ -2994,5 +2986,9 @@
     {
         "timestamp": 1789094577.9517953,
         "topic": "Leaning Tower Groundbreaking"
+    },
+    {
+        "timestamp": 1789115454.6811357,
+        "topic": "Founding Knights Templar"
     }
 ]
