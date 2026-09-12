@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781408166.1386535,
-        "topic": "K\u014dmy\u014d's Great Edict"
-    },
-    {
-        "timestamp": 1781424711.5451093,
-        "topic": "Pluto's Discovery Confirmed"
-    },
-    {
         "timestamp": 1781438098.1525846,
         "topic": "Vatican Library Founding"
     },
@@ -2982,5 +2974,9 @@
     {
         "timestamp": 1789181517.6656783,
         "topic": "Battle of Aegospotami"
+    },
+    {
+        "timestamp": 1789201182.1227064,
+        "topic": "House of Wisdom Founding"
     }
 ]
