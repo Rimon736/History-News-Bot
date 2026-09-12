@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1781445225.0516574,
-        "topic": "Armenia Adopts Christianity"
-    },
-    {
-        "timestamp": 1781452063.9061775,
-        "topic": "Al-Azhar University Founding"
-    },
-    {
-        "timestamp": 1781457439.3322504,
-        "topic": "Ancient Bantu Migrations"
-    },
-    {
-        "timestamp": 1781464878.0090659,
-        "topic": "Parthenon Construction Begins"
-    },
-    {
         "timestamp": 1781471276.7848656,
         "topic": "European Potato Arrival"
     },
@@ -2978,5 +2962,9 @@
     {
         "timestamp": 1789219173.052082,
         "topic": "Diogenes' Honest Man"
+    },
+    {
+        "timestamp": 1789243613.0948255,
+        "topic": "Babylonian Talmud Completed"
     }
 ]
