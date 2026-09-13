@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781552699.0133855,
-        "topic": "Serapeum Razed Alexandria"
-    },
-    {
         "timestamp": 1781581179.0420675,
         "topic": "Cavendish Experiment Success"
     },
@@ -2966,5 +2962,9 @@
     {
         "timestamp": 1789324226.721288,
         "topic": "Beethoven's Ninth Premiere"
+    },
+    {
+        "timestamp": 1789337055.6045687,
+        "topic": "Alhambra Palace Completion"
     }
 ]
