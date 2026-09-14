@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781622125.4494407,
-        "topic": "Vesuvius Eruption Devastates"
-    },
-    {
         "timestamp": 1781638266.805447,
         "topic": "Black Death Arrives Europe"
     },
@@ -2966,5 +2962,9 @@
     {
         "timestamp": 1789378239.732709,
         "topic": "Edict of Caracalla Issued"
+    },
+    {
+        "timestamp": 1789402085.806693,
+        "topic": "Vesuvius Eruption Devastates Pompeii"
     }
 ]
