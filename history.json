@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781581179.0420675,
-        "topic": "Cavendish Experiment Success"
-    },
-    {
-        "timestamp": 1781601785.6106734,
-        "topic": "Great Dust Bowl Begins"
-    },
-    {
         "timestamp": 1781622125.4494407,
         "topic": "Vesuvius Eruption Devastates"
     },
@@ -2970,5 +2962,9 @@
     {
         "timestamp": 1789355094.6028807,
         "topic": "Death of Emperor Augustus"
+    },
+    {
+        "timestamp": 1789378239.732709,
+        "topic": "Edict of Caracalla Issued"
     }
 ]
