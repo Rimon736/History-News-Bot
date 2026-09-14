@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781638266.805447,
-        "topic": "Black Death Arrives Europe"
-    },
-    {
         "timestamp": 1781647768.3191185,
         "topic": "Fall of Berlin Wall"
     },
@@ -2966,5 +2962,9 @@
     {
         "timestamp": 1789402085.806693,
         "topic": "Vesuvius Eruption Devastates Pompeii"
+    },
+    {
+        "timestamp": 1789420963.3848147,
+        "topic": "Gravitational Wave Detection"
     }
 ]
