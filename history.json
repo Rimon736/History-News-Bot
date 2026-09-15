@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781686737.2051086,
-        "topic": "Penicillin Discovered"
-    },
-    {
         "timestamp": 1781703587.719392,
         "topic": "Caesar's Assassination"
     },
@@ -2966,5 +2962,9 @@
     {
         "timestamp": 1789456041.351075,
         "topic": "Fall of Berlin Wall"
+    },
+    {
+        "timestamp": 1789477572.3484554,
+        "topic": "Penicillin's Discovery Announced"
     }
 ]
