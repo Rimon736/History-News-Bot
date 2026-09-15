@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781703587.719392,
-        "topic": "Caesar's Assassination"
-    },
-    {
-        "timestamp": 1781715228.467388,
-        "topic": "First Global Circumnavigation"
-    },
-    {
         "timestamp": 1781726926.1603312,
         "topic": "Magna Carta Signed"
     },
@@ -2966,5 +2958,9 @@
     {
         "timestamp": 1789477572.3484554,
         "topic": "Penicillin's Discovery Announced"
+    },
+    {
+        "timestamp": 1789495007.822433,
+        "topic": "Qin Dynasty Censorship"
     }
 ]
