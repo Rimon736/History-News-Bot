@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781753473.1917634,
-        "topic": "Panama Canal Completion"
-    },
-    {
-        "timestamp": 1781772094.8341913,
-        "topic": "Battle of Hastings"
-    },
-    {
         "timestamp": 1781786934.0163596,
         "topic": "Enigma Code Broken"
     },
@@ -2966,5 +2958,9 @@
     {
         "timestamp": 1789527860.4409962,
         "topic": "First Powered Flight"
+    },
+    {
+        "timestamp": 1789549333.4323766,
+        "topic": "Alexandria Serapeum Inaugurated"
     }
 ]
