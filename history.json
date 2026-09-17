@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781886631.005385,
-        "topic": "Archduke Franz Ferdinand Assassinated"
-    },
-    {
         "timestamp": 1781898235.7463,
         "topic": "Krakatoa Volcano Erupts"
     },
@@ -2962,5 +2958,9 @@
     {
         "timestamp": 1789655824.9497037,
         "topic": "Suez Canal Inauguration"
+    },
+    {
+        "timestamp": 1789673896.4029968,
+        "topic": "Magellan's Fleet Departs"
     }
 ]
