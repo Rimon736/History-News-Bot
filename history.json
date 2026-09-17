@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781898235.7463,
-        "topic": "Krakatoa Volcano Erupts"
-    },
-    {
-        "timestamp": 1781903190.7927127,
-        "topic": "Tutankhamun's Tomb Discovered"
-    },
-    {
         "timestamp": 1781909569.2916744,
         "topic": "Thera Volcano Eruption"
     },
@@ -2962,5 +2954,9 @@
     {
         "timestamp": 1789673896.4029968,
         "topic": "Magellan's Fleet Departs"
+    },
+    {
+        "timestamp": 1789684659.395269,
+        "topic": "Byzantine Iconoclasm Begins"
     }
 ]
