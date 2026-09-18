@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781909569.2916744,
-        "topic": "Thera Volcano Eruption"
-    },
-    {
         "timestamp": 1781924125.5426488,
         "topic": "Sinking of Titanic"
     },
@@ -2958,5 +2954,9 @@
     {
         "timestamp": 1789684659.395269,
         "topic": "Byzantine Iconoclasm Begins"
+    },
+    {
+        "timestamp": 1789700095.7208965,
+        "topic": "Archimedes' Buoyancy Discovery"
     }
 ]
