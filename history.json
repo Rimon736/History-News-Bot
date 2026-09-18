@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781951434.861311,
-        "topic": "Siberian Cosmic Airburst"
-    },
-    {
-        "timestamp": 1781963577.5894985,
-        "topic": "Great Pyramid Completion"
-    },
-    {
         "timestamp": 1781970238.7278051,
         "topic": "Fall of Jericho"
     },
@@ -2954,5 +2946,9 @@
     {
         "timestamp": 1789720992.125425,
         "topic": "RMS Titanic Sinking"
+    },
+    {
+        "timestamp": 1789740220.8569252,
+        "topic": "Tutankhamun Tomb Discovery"
     }
 ]
