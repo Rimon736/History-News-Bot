@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1781970238.7278051,
-        "topic": "Fall of Jericho"
-    },
-    {
-        "timestamp": 1781976163.9486291,
-        "topic": "Columbus Reaches Americas"
-    },
-    {
         "timestamp": 1781983172.8663385,
         "topic": "Battle of Waterloo"
     },
@@ -2950,5 +2942,9 @@
     {
         "timestamp": 1789740220.8569252,
         "topic": "Tutankhamun Tomb Discovery"
+    },
+    {
+        "timestamp": 1789757419.3034065,
+        "topic": "Krakatoa Cataclysmic Eruption"
     }
 ]
