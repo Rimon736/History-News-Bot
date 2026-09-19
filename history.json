@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782069899.4632857,
-        "topic": "Roman Empire Founded"
-    },
-    {
         "timestamp": 1782076287.0993772,
         "topic": "X-ray Discovery"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789837161.8994567,
         "topic": "DNA Structure Unveiled"
+    },
+    {
+        "timestamp": 1789847875.694981,
+        "topic": "Luther's 95 Theses Posted"
     }
 ]
