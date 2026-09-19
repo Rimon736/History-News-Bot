@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1781996624.9118552,
-        "topic": "DNA Double Helix"
-    },
-    {
         "timestamp": 1782013310.125368,
         "topic": "Akhenaten's Damnatio Memoriae"
     },
@@ -2942,5 +2938,9 @@
     {
         "timestamp": 1789769591.6609073,
         "topic": "Archduke Assassinated Sarajevo"
+    },
+    {
+        "timestamp": 1789786432.3743525,
+        "topic": "Battle of Waterloo"
     }
 ]
