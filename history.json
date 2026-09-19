@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782013310.125368,
-        "topic": "Akhenaten's Damnatio Memoriae"
-    },
-    {
-        "timestamp": 1782030427.7731209,
-        "topic": "Luther's Ninety-five Theses"
-    },
-    {
         "timestamp": 1782043753.2794065,
         "topic": "Battle of Actium"
     },
@@ -2942,5 +2934,9 @@
     {
         "timestamp": 1789786432.3743525,
         "topic": "Battle of Waterloo"
+    },
+    {
+        "timestamp": 1789806568.4422927,
+        "topic": "Columbus Reaches Americas"
     }
 ]
