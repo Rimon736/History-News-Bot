@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782076287.0993772,
-        "topic": "X-ray Discovery"
-    },
-    {
         "timestamp": 1782083369.7322838,
         "topic": "Mongol Empire Founding"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789847875.694981,
         "topic": "Luther's 95 Theses Posted"
+    },
+    {
+        "timestamp": 1789855924.4722385,
+        "topic": "Hammurabi's Code Enacted"
     }
 ]
