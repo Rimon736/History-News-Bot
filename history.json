@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782083369.7322838,
-        "topic": "Mongol Empire Founding"
-    },
-    {
         "timestamp": 1782099892.0298908,
         "topic": "Gaugamela Battle Concludes"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789855924.4722385,
         "topic": "Hammurabi's Code Enacted"
+    },
+    {
+        "timestamp": 1789873522.0718763,
+        "topic": "Minoan Thera Eruption"
     }
 ]
