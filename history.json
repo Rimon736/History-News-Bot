@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782156136.4030612,
-        "topic": "Fall of Western Roman Empire"
-    },
-    {
         "timestamp": 1782165613.6049736,
         "topic": "Battle of Cannae"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789924531.9670248,
         "topic": "Panama Canal Opens"
+    },
+    {
+        "timestamp": 1789935218.6954877,
+        "topic": "Western Roman Empire Falls"
     }
 ]
