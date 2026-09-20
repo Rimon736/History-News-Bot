@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782141709.6772516,
-        "topic": "Rome Sacked by Visigoths"
-    },
-    {
         "timestamp": 1782156136.4030612,
         "topic": "Fall of Western Roman Empire"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789912481.4682467,
         "topic": "Laoco\u00f6n Group Rediscovery"
+    },
+    {
+        "timestamp": 1789924531.9670248,
+        "topic": "Panama Canal Opens"
     }
 ]
