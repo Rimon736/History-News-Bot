@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782121549.352893,
-        "topic": "Stock Market Crash"
-    },
-    {
         "timestamp": 1782141709.6772516,
         "topic": "Rome Sacked by Visigoths"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789894841.987685,
         "topic": "Battle of Kawanakajima"
+    },
+    {
+        "timestamp": 1789912481.4682467,
+        "topic": "Laoco\u00f6n Group Rediscovery"
     }
 ]
