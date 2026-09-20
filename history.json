@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782165613.6049736,
-        "topic": "Battle of Cannae"
-    },
-    {
-        "timestamp": 1782170770.589324,
-        "topic": "Kidney Transplant Breakthrough"
-    },
-    {
         "timestamp": 1782183013.218616,
         "topic": "Founding of Rome"
     },
@@ -2938,5 +2930,9 @@
     {
         "timestamp": 1789935218.6954877,
         "topic": "Western Roman Empire Falls"
+    },
+    {
+        "timestamp": 1789948127.5284646,
+        "topic": "Edison Unveils Light Bulb"
     }
 ]
