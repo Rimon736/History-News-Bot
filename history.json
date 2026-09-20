@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782099892.0298908,
-        "topic": "Gaugamela Battle Concludes"
-    },
-    {
         "timestamp": 1782121549.352893,
         "topic": "Stock Market Crash"
     },
@@ -2938,5 +2934,9 @@
     {
         "timestamp": 1789873522.0718763,
         "topic": "Minoan Thera Eruption"
+    },
+    {
+        "timestamp": 1789894841.987685,
+        "topic": "Battle of Kawanakajima"
     }
 ]
