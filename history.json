@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1782236977.9242108,
-        "topic": "Darwin's Beagle Voyage"
-    },
-    {
-        "timestamp": 1782244533.2909307,
-        "topic": "Battle of Tours"
-    },
-    {
-        "timestamp": 1782250146.0778403,
-        "topic": "Storming of the Bastille"
-    },
-    {
         "timestamp": 1782255942.7150044,
         "topic": "Battle of Marathon"
     },
@@ -2934,5 +2922,9 @@
     {
         "timestamp": 1790007016.7843854,
         "topic": "Founding of Rome"
+    },
+    {
+        "timestamp": 1790026687.9898326,
+        "topic": "Telephone Patented"
     }
 ]
