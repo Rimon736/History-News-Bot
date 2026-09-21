@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782212334.9595392,
-        "topic": "Telephone Invented"
-    },
-    {
-        "timestamp": 1782225601.029748,
-        "topic": "Viking America Landing"
-    },
-    {
         "timestamp": 1782236977.9242108,
         "topic": "Darwin's Beagle Voyage"
     },
@@ -2938,5 +2930,9 @@
     {
         "timestamp": 1789983178.925411,
         "topic": "Northwest Passage Conquered"
+    },
+    {
+        "timestamp": 1790007016.7843854,
+        "topic": "Founding of Rome"
     }
 ]
