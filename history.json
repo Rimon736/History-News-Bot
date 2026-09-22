@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782330091.2157018,
-        "topic": "Qin Dynasty Great Wall"
-    },
-    {
         "timestamp": 1782336009.9046297,
         "topic": "Cosmic Background Discovery"
     },
@@ -2918,5 +2914,9 @@
     {
         "timestamp": 1790099649.9133596,
         "topic": "Edict of Milan Proclaimed"
+    },
+    {
+        "timestamp": 1790110202.841515,
+        "topic": "Eiffel Tower Completion"
     }
 ]
