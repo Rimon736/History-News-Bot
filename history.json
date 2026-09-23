@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782355797.905396,
-        "topic": "Discovery of Machu Picchu"
-    },
-    {
         "timestamp": 1782373165.9023476,
         "topic": "Gettysburg Battle Concludes"
     },
@@ -2914,5 +2910,9 @@
     {
         "timestamp": 1790121510.704984,
         "topic": "Founding Yuan Dynasty"
+    },
+    {
+        "timestamp": 1790135397.180497,
+        "topic": "Bastille Stormed"
     }
 ]
