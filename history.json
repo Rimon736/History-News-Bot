@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782383950.389389,
-        "topic": "Roman Pantheon Completion"
-    },
-    {
-        "timestamp": 1782397367.434201,
-        "topic": "Goryeo Jikji Printing"
-    },
-    {
         "timestamp": 1782410823.3872433,
         "topic": "Historic Everest Ascent"
     },
@@ -2914,5 +2906,9 @@
     {
         "timestamp": 1790154109.2838542,
         "topic": "Battle of Agincourt"
+    },
+    {
+        "timestamp": 1790174265.976063,
+        "topic": "Pantheon Completion"
     }
 ]
