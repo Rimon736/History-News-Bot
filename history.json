@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782422910.536559,
-        "topic": "Alhambra Decree Issued"
-    },
-    {
         "timestamp": 1782429263.932914,
         "topic": "First Roman Triumvirate"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1790191539.7699842,
         "topic": "Descartes' Method Published"
+    },
+    {
+        "timestamp": 1790203159.2164848,
+        "topic": "Fibonacci Introduces Numerals"
     }
 ]
