@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782410823.3872433,
-        "topic": "Historic Everest Ascent"
-    },
-    {
         "timestamp": 1782422910.536559,
         "topic": "Alhambra Decree Issued"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1790174265.976063,
         "topic": "Pantheon Completion"
+    },
+    {
+        "timestamp": 1790191539.7699842,
+        "topic": "Descartes' Method Published"
     }
 ]
