@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782495833.101138,
-        "topic": "Great Wall of Gorgan"
-    },
-    {
-        "timestamp": 1782502916.975638,
-        "topic": "Mount Tambora Eruption"
-    },
-    {
         "timestamp": 1782508531.5665429,
         "topic": "Golden Gate Bridge"
     },
@@ -2902,5 +2894,9 @@
     {
         "timestamp": 1790260559.2067254,
         "topic": "Darwin's Origin of Species"
+    },
+    {
+        "timestamp": 1790279152.4013598,
+        "topic": "Everest Conquered Today"
     }
 ]
