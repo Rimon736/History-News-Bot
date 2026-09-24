@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782429263.932914,
-        "topic": "First Roman Triumvirate"
-    },
-    {
         "timestamp": 1782442527.5273268,
         "topic": "Copernican Heliocentric Theory"
     },
@@ -2910,5 +2906,9 @@
     {
         "timestamp": 1790203159.2164848,
         "topic": "Fibonacci Introduces Numerals"
+    },
+    {
+        "timestamp": 1790218388.7193856,
+        "topic": "Visigothic Sack of Rome"
     }
 ]
