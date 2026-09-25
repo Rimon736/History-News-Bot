@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1782573260.4219012,
-        "topic": "Genoese Bank Chartered"
-    },
-    {
-        "timestamp": 1782579907.5232167,
-        "topic": "Empire State Building Completion"
-    },
-    {
-        "timestamp": 1782587678.2657926,
-        "topic": "Hannibal Crosses Alps"
-    },
-    {
         "timestamp": 1782593876.5337858,
         "topic": "D-Day Landings"
     },
@@ -2890,5 +2878,9 @@
     {
         "timestamp": 1790348242.3228297,
         "topic": "Golden Gate Bridge Opens"
+    },
+    {
+        "timestamp": 1790365671.3080604,
+        "topic": "Vesalius Anatomy Landmark"
     }
 ]
