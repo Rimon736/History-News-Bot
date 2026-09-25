@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782554564.3030756,
-        "topic": "Sack of Baghdad"
-    },
-    {
-        "timestamp": 1782566652.526231,
-        "topic": "Watt's Steam Engine Breakthrough"
-    },
-    {
         "timestamp": 1782573260.4219012,
         "topic": "Genoese Bank Chartered"
     },
@@ -2894,5 +2886,9 @@
     {
         "timestamp": 1790328046.195212,
         "topic": "Alexander's Decisive Victory"
+    },
+    {
+        "timestamp": 1790348242.3228297,
+        "topic": "Golden Gate Bridge Opens"
     }
 ]
