@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782593876.5337858,
-        "topic": "D-Day Landings"
-    },
-    {
-        "timestamp": 1782601162.0045998,
-        "topic": "Meiji Restoration Begins"
-    },
-    {
         "timestamp": 1782617069.4510605,
         "topic": "Transcontinental Railroad Complete"
     },
@@ -2882,5 +2874,9 @@
     {
         "timestamp": 1790365671.3080604,
         "topic": "Vesalius Anatomy Landmark"
+    },
+    {
+        "timestamp": 1790377328.6300113,
+        "topic": "White Ship Disaster"
     }
 ]
