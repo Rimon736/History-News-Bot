@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782659730.045786,
-        "topic": "Grand Canal Completion"
-    },
-    {
-        "timestamp": 1782666299.0320456,
-        "topic": "First Blood Transfusion"
-    },
-    {
         "timestamp": 1782674023.7965624,
         "topic": "Joan of Arc Executed"
     },
@@ -2874,5 +2866,9 @@
     {
         "timestamp": 1790431323.4508524,
         "topic": "Battle of Tours Decisive"
+    },
+    {
+        "timestamp": 1790449040.5510786,
+        "topic": "Great Plague London Outbreak"
     }
 ]
