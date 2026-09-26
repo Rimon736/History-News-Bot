@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782642269.0593662,
-        "topic": "Chinese Movable Type"
-    },
-    {
-        "timestamp": 1782653288.7690122,
-        "topic": "Cincinnatus Appointed Dictator"
-    },
-    {
         "timestamp": 1782659730.045786,
         "topic": "Grand Canal Completion"
     },
@@ -2878,5 +2870,9 @@
     {
         "timestamp": 1790413300.0739534,
         "topic": "Treaty of Westphalia"
+    },
+    {
+        "timestamp": 1790431323.4508524,
+        "topic": "Battle of Tours Decisive"
     }
 ]
