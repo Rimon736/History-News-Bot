@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782617069.4510605,
-        "topic": "Transcontinental Railroad Complete"
-    },
-    {
-        "timestamp": 1782632855.2866313,
-        "topic": "Peace of Westphalia Signed"
-    },
-    {
         "timestamp": 1782642269.0593662,
         "topic": "Chinese Movable Type"
     },
@@ -2882,5 +2874,9 @@
     {
         "timestamp": 1790392409.4822788,
         "topic": "Matterhorn First Ascent"
+    },
+    {
+        "timestamp": 1790413300.0739534,
+        "topic": "Treaty of Westphalia"
     }
 ]
