@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1782687544.649595,
-        "topic": "Sputnik 1 Launched"
-    },
-    {
         "timestamp": 1782703750.2560253,
         "topic": "Napoleon's Imperial Coronation"
     },
@@ -2866,5 +2862,9 @@
     {
         "timestamp": 1790461194.106905,
         "topic": "First Heart Transplant"
+    },
+    {
+        "timestamp": 1790479262.414597,
+        "topic": "World War II Concludes"
     }
 ]
