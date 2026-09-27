@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782703750.2560253,
-        "topic": "Napoleon's Imperial Coronation"
-    },
-    {
-        "timestamp": 1782723308.038209,
-        "topic": "Oxford English Dictionary"
-    },
-    {
         "timestamp": 1782756388.1256702,
         "topic": "Roman Aqueduct Completion"
     },
@@ -2866,5 +2858,9 @@
     {
         "timestamp": 1790479262.414597,
         "topic": "World War II Concludes"
+    },
+    {
+        "timestamp": 1790502414.0633178,
+        "topic": "Sputnik 1 Launched"
     }
 ]
