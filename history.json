@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782773569.6525674,
-        "topic": "Battle of Salamis"
-    },
-    {
-        "timestamp": 1782788073.9462976,
-        "topic": "Moai Statues Completed"
-    },
-    {
         "timestamp": 1782805849.4624014,
         "topic": "Chernobyl Reactor Explosion"
     },
@@ -2866,5 +2858,9 @@
     {
         "timestamp": 1790549185.8702126,
         "topic": "Discovery of Insulin"
+    },
+    {
+        "timestamp": 1790565507.2439368,
+        "topic": "Chrysler Building Completion"
     }
 ]
