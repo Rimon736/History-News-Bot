@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1782816834.0258768,
-        "topic": "Roman Republic Founded"
-    },
-    {
-        "timestamp": 1782828616.4579813,
-        "topic": "Smallpox Vaccine Breakthrough"
-    },
-    {
-        "timestamp": 1782841764.2591298,
-        "topic": "Plato Founds Academy"
-    },
-    {
         "timestamp": 1782848962.5150065,
         "topic": "First Manned Spaceflight"
     },
@@ -2862,5 +2850,9 @@
     {
         "timestamp": 1790591267.1039307,
         "topic": "First Blood Transfusion"
+    },
+    {
+        "timestamp": 1790622593.8514824,
+        "topic": "First Roman Gladiatorial Combat"
     }
 ]
