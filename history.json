@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1782848962.5150065,
-        "topic": "First Manned Spaceflight"
-    },
-    {
-        "timestamp": 1782854710.2003741,
-        "topic": "Hyksos Invasion Egypt"
-    },
-    {
-        "timestamp": 1782860844.6746306,
-        "topic": "Ming Dynasty Founding"
-    },
-    {
-        "timestamp": 1782876259.8165276,
-        "topic": "Earth's Circumference Measured"
-    },
-    {
         "timestamp": 1782893249.1894033,
         "topic": "Qin Dynasty Unifies China"
     },
@@ -2854,5 +2838,9 @@
     {
         "timestamp": 1790622593.8514824,
         "topic": "First Roman Gladiatorial Combat"
+    },
+    {
+        "timestamp": 1790668155.0867822,
+        "topic": "Colosseum Construction Begins"
     }
 ]
