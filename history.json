@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782893249.1894033,
-        "topic": "Qin Dynasty Unifies China"
-    },
-    {
-        "timestamp": 1782909089.9417915,
-        "topic": "Angkor Wat Completion"
-    },
-    {
         "timestamp": 1782922988.8207772,
         "topic": "Founding of Alexandria"
     },
@@ -2842,5 +2834,9 @@
     {
         "timestamp": 1790668155.0867822,
         "topic": "Colosseum Construction Begins"
+    },
+    {
+        "timestamp": 1790692437.4083948,
+        "topic": "X-ray Discovery"
     }
 ]
