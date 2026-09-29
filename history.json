@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782922988.8207772,
-        "topic": "Founding of Alexandria"
-    },
-    {
-        "timestamp": 1782935280.3639495,
-        "topic": "Great Serpent Mound"
-    },
-    {
         "timestamp": 1782941031.5245328,
         "topic": "Paper Invented in China"
     },
@@ -2838,5 +2830,9 @@
     {
         "timestamp": 1790692437.4083948,
         "topic": "X-ray Discovery"
+    },
+    {
+        "timestamp": 1790713500.9130008,
+        "topic": "Battle of Poltava"
     }
 ]
