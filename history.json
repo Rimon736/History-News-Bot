@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782960654.643473,
-        "topic": "Discovery of Radium"
-    },
-    {
-        "timestamp": 1782977260.5362046,
-        "topic": "Spanish Inquisition Established"
-    },
-    {
         "timestamp": 1782988415.4695053,
         "topic": "Great Emu War"
     },
@@ -2830,5 +2822,9 @@
     {
         "timestamp": 1790729992.8048406,
         "topic": "Battle of Gettysburg"
+    },
+    {
+        "timestamp": 1790754734.0422177,
+        "topic": "Spanish Inquisition Established"
     }
 ]
