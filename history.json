@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783008205.1374102,
-        "topic": "Pharos Lighthouse Completion"
-    },
-    {
-        "timestamp": 1783019918.8519106,
-        "topic": "Cologne Cathedral Cornerstone"
-    },
-    {
         "timestamp": 1783026082.942211,
         "topic": "Great Fire of Rome"
     },
@@ -2822,5 +2814,9 @@
     {
         "timestamp": 1790778790.60885,
         "topic": "Qin Unifies China"
+    },
+    {
+        "timestamp": 1790800396.4626935,
+        "topic": "Buddha's First Sermon"
     }
 ]
