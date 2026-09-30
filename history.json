@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1782941031.5245328,
-        "topic": "Paper Invented in China"
-    },
-    {
-        "timestamp": 1782947422.2958236,
-        "topic": "Song Dynasty Gunpowder Warfare"
-    },
-    {
         "timestamp": 1782960654.643473,
         "topic": "Discovery of Radium"
     },
@@ -2834,5 +2826,9 @@
     {
         "timestamp": 1790713500.9130008,
         "topic": "Battle of Poltava"
+    },
+    {
+        "timestamp": 1790729992.8048406,
+        "topic": "Battle of Gettysburg"
     }
 ]
