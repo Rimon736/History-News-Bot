@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783046011.5906534,
-        "topic": "Cuneiform Script Unveiled"
-    },
-    {
-        "timestamp": 1783061926.1711378,
-        "topic": "Quebec City Founded"
-    },
-    {
         "timestamp": 1783074704.832352,
         "topic": "Cook Lands Australia"
     },
@@ -2818,5 +2810,9 @@
     {
         "timestamp": 1790816527.843898,
         "topic": "Cambridge University Founded"
+    },
+    {
+        "timestamp": 1790842413.1690366,
+        "topic": "Roman Principate Established"
     }
 ]
