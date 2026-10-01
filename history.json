@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783099265.5269294,
-        "topic": "Socrates' Trial Concludes"
-    },
-    {
-        "timestamp": 1783106227.827551,
-        "topic": "Theory of Relativity"
-    },
-    {
-        "timestamp": 1783112442.504557,
-        "topic": "Lincoln Assassinated"
-    },
-    {
         "timestamp": 1783119512.6448994,
         "topic": "Stonehenge Completion"
     },
@@ -2806,5 +2794,9 @@
     {
         "timestamp": 1790873491.2815366,
         "topic": "Transcontinental Railroad Linked"
+    },
+    {
+        "timestamp": 1790893014.4758527,
+        "topic": "Battleship Bismarck Sinks"
     }
 ]
