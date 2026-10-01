@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783074704.832352,
-        "topic": "Cook Lands Australia"
-    },
-    {
-        "timestamp": 1783086825.3973472,
-        "topic": "Pearl Harbor Attack"
-    },
-    {
-        "timestamp": 1783093885.760933,
-        "topic": "Great Sphinx Completed"
-    },
-    {
         "timestamp": 1783099265.5269294,
         "topic": "Socrates' Trial Concludes"
     },
@@ -2814,5 +2802,9 @@
     {
         "timestamp": 1790842413.1690366,
         "topic": "Roman Principate Established"
+    },
+    {
+        "timestamp": 1790873491.2815366,
+        "topic": "Transcontinental Railroad Linked"
     }
 ]
