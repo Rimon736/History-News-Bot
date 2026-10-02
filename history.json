@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783170937.1816387,
-        "topic": "Prophet Muhammad's Hegira"
-    },
-    {
-        "timestamp": 1783177364.8461227,
-        "topic": "Burning of Alexandria's Library"
-    },
-    {
-        "timestamp": 1783184424.6263387,
-        "topic": "Che Guevara Executed"
-    },
-    {
         "timestamp": 1783191863.3091505,
         "topic": "Galileo Convicted Heresy"
     },
@@ -2790,5 +2778,9 @@
     {
         "timestamp": 1790936585.633269,
         "topic": "Watt's Steam Engine"
+    },
+    {
+        "timestamp": 1790961630.9326696,
+        "topic": "Lincoln Assassination"
     }
 ]
