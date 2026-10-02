@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783191863.3091505,
-        "topic": "Galileo Convicted Heresy"
-    },
-    {
-        "timestamp": 1783198316.9675384,
-        "topic": "Brooklyn Bridge Inauguration"
-    },
-    {
         "timestamp": 1783205739.4756148,
         "topic": "Gao-Guenie Meteorite Fall"
     },
@@ -2782,5 +2774,9 @@
     {
         "timestamp": 1790961630.9326696,
         "topic": "Lincoln Assassination"
+    },
+    {
+        "timestamp": 1790977551.387479,
+        "topic": "Battle of Salamis Concludes"
     }
 ]
