@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783257752.6395807,
-        "topic": "Fall of Troy"
-    },
-    {
-        "timestamp": 1783264282.7689893,
-        "topic": "Mount St. Helens Eruption"
-    },
-    {
-        "timestamp": 1783271084.4531076,
-        "topic": "Jamestown Colony Established"
-    },
-    {
         "timestamp": 1783278634.9773512,
         "topic": "Battle of Stamford Bridge"
     },
@@ -2774,5 +2762,9 @@
     {
         "timestamp": 1791032390.374005,
         "topic": "Elizabeth I's Coronation"
+    },
+    {
+        "timestamp": 1791049445.4885204,
+        "topic": "Gutenberg's Printing Press"
     }
 ]
