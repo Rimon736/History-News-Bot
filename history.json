@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1783305954.1476266,
-        "topic": "Terracotta Army Discovery"
-    },
-    {
         "timestamp": 1783325772.8168619,
         "topic": "Great Chicago Fire"
     },
@@ -2762,5 +2758,9 @@
     {
         "timestamp": 1791073231.5827096,
         "topic": "D-Day Landings"
+    },
+    {
+        "timestamp": 1791099760.733853,
+        "topic": "Alexander's Gaugamela Victory"
     }
 ]
