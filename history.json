@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783345341.7214272,
-        "topic": "Boston Tea Party"
-    },
-    {
-        "timestamp": 1783356603.3121827,
-        "topic": "Benz Patent-Motorwagen Unveiled"
-    },
-    {
         "timestamp": 1783367435.3613365,
         "topic": "Founding of Tenochtitlan"
     },
@@ -2762,5 +2754,9 @@
     {
         "timestamp": 1791121147.6542625,
         "topic": "Stonehenge Construction Initiated"
+    },
+    {
+        "timestamp": 1791136661.1890268,
+        "topic": "Copernicus's Heliocentric Model"
     }
 ]
