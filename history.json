@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1783367435.3613365,
-        "topic": "Founding of Tenochtitlan"
-    },
-    {
         "timestamp": 1783373158.6989324,
         "topic": "Founding of Troy"
     },
@@ -2758,5 +2754,9 @@
     {
         "timestamp": 1791136661.1890268,
         "topic": "Copernicus's Heliocentric Model"
+    },
+    {
+        "timestamp": 1791147450.7619317,
+        "topic": "Founding of Alexandria"
     }
 ]
