@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783373158.6989324,
-        "topic": "Founding of Troy"
-    },
-    {
-        "timestamp": 1783379020.690309,
-        "topic": "British Museum Inaugurated"
-    },
-    {
         "timestamp": 1783392112.1855667,
         "topic": "Russian October Revolution"
     },
@@ -2758,5 +2750,9 @@
     {
         "timestamp": 1791147450.7619317,
         "topic": "Founding of Alexandria"
+    },
+    {
+        "timestamp": 1791159983.3456495,
+        "topic": "Founding Tenochtitlan"
     }
 ]
