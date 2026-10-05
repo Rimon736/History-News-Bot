@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783421495.8333094,
-        "topic": "Eyeglasses Invented"
-    },
-    {
-        "timestamp": 1783434134.529176,
-        "topic": "Transatlantic Cable Completed"
-    },
-    {
-        "timestamp": 1783446949.5346973,
-        "topic": "East India Company Chartered"
-    },
-    {
         "timestamp": 1783453753.560186,
         "topic": "Statue of Liberty Unveiling"
     },
@@ -2750,5 +2738,9 @@
     {
         "timestamp": 1791187908.93536,
         "topic": "Cuneiform Writing Emerges"
+    },
+    {
+        "timestamp": 1791226938.6728191,
+        "topic": "Great Sphinx Completed"
     }
 ]
