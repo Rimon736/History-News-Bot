@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783453753.560186,
-        "topic": "Statue of Liberty Unveiling"
-    },
-    {
-        "timestamp": 1783459200.668138,
-        "topic": "Edict of Nantes Promulgated"
-    },
-    {
-        "timestamp": 1783465019.741989,
-        "topic": "Sagrada Familia Construction Begins"
-    },
-    {
         "timestamp": 1783476907.3601525,
         "topic": "Cleopatra's Tragic Demise"
     },
@@ -2742,5 +2730,9 @@
     {
         "timestamp": 1791226938.6728191,
         "topic": "Great Sphinx Completed"
+    },
+    {
+        "timestamp": 1791248735.6256876,
+        "topic": "Alexandria Library Burning"
     }
 ]
