@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783476907.3601525,
-        "topic": "Cleopatra's Tragic Demise"
-    },
-    {
-        "timestamp": 1783491864.2988133,
-        "topic": "Spanish Armada Defeated"
-    },
-    {
         "timestamp": 1783505569.3269491,
         "topic": "Oxygen Discovery Announced"
     },
@@ -2734,5 +2726,9 @@
     {
         "timestamp": 1791248735.6256876,
         "topic": "Alexandria Library Burning"
+    },
+    {
+        "timestamp": 1791275350.5555336,
+        "topic": "Special Relativity Announced"
     }
 ]
