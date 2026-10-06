@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783532712.1710858,
-        "topic": "Mona Lisa Completion"
-    },
-    {
-        "timestamp": 1783538332.3022501,
-        "topic": "Ur-Namma Law Code"
-    },
-    {
-        "timestamp": 1783544606.3623843,
-        "topic": "Caligula Assassination"
-    },
-    {
         "timestamp": 1783551692.6043823,
         "topic": "Magnetic Compass Invented"
     },
@@ -2722,5 +2710,9 @@
     {
         "timestamp": 1791304073.2375484,
         "topic": "Versailles Treaty Signed"
+    },
+    {
+        "timestamp": 1791324846.3825736,
+        "topic": "Roman Republic Established"
     }
 ]
