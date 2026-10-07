@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783551692.6043823,
-        "topic": "Magnetic Compass Invented"
-    },
-    {
-        "timestamp": 1783564426.2751918,
-        "topic": "Viking Iceland Settlement"
-    },
-    {
         "timestamp": 1783582420.7896156,
         "topic": "Founding Ottoman Empire"
     },
@@ -2714,5 +2706,9 @@
     {
         "timestamp": 1791324846.3825736,
         "topic": "Roman Republic Established"
+    },
+    {
+        "timestamp": 1791345884.744949,
+        "topic": "Cleopatra VII's Death"
     }
 ]
