@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783582420.7896156,
-        "topic": "Founding Ottoman Empire"
-    },
-    {
-        "timestamp": 1783594225.7520902,
-        "topic": "Charlemagne's Coronation"
-    },
-    {
         "timestamp": 1783619528.8540683,
         "topic": "American Independence Recognized"
     },
@@ -2710,5 +2702,9 @@
     {
         "timestamp": 1791345884.744949,
         "topic": "Cleopatra VII's Death"
+    },
+    {
+        "timestamp": 1791370822.9350626,
+        "topic": "Dead Sea Scrolls Discovery"
     }
 ]
