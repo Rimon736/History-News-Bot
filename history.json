@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1783619528.8540683,
-        "topic": "American Independence Recognized"
-    },
-    {
-        "timestamp": 1783631982.6822228,
-        "topic": "Uranus Discovered"
-    },
-    {
-        "timestamp": 1783638503.9764404,
-        "topic": "Ancient Ugaritic Alphabet Discovered"
-    },
-    {
-        "timestamp": 1783650948.974365,
-        "topic": "Geneva Convention Signed"
-    },
-    {
         "timestamp": 1783668701.9238899,
         "topic": "Dante's Inferno Completion"
     },
@@ -2706,5 +2690,9 @@
     {
         "timestamp": 1791370822.9350626,
         "topic": "Dead Sea Scrolls Discovery"
+    },
+    {
+        "timestamp": 1791437972.8715723,
+        "topic": "Smallpox Vaccine Developed"
     }
 ]
