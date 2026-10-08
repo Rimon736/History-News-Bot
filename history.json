@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783668701.9238899,
-        "topic": "Dante's Inferno Completion"
-    },
-    {
-        "timestamp": 1783680553.9579983,
-        "topic": "Lusitania Sinks"
-    },
-    {
         "timestamp": 1783692758.3474195,
         "topic": "Louvre Museum Opens"
     },
@@ -2694,5 +2686,9 @@
     {
         "timestamp": 1791437972.8715723,
         "topic": "Smallpox Vaccine Developed"
+    },
+    {
+        "timestamp": 1791463368.1648903,
+        "topic": "First Human in Space"
     }
 ]
