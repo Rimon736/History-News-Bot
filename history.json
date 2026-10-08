@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783692758.3474195,
-        "topic": "Louvre Museum Opens"
-    },
-    {
-        "timestamp": 1783705503.4819458,
-        "topic": "Schliemann's Troy Discovery"
-    },
-    {
-        "timestamp": 1783711312.5774488,
-        "topic": "Erie Canal Completion"
-    },
-    {
         "timestamp": 1783717379.9293404,
         "topic": "Roman Teutoburg Defeat"
     },
@@ -2690,5 +2678,9 @@
     {
         "timestamp": 1791463368.1648903,
         "topic": "First Human in Space"
+    },
+    {
+        "timestamp": 1791488296.8715818,
+        "topic": "Declaration Signed Today"
     }
 ]
