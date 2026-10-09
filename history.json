@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783717379.9293404,
-        "topic": "Roman Teutoburg Defeat"
-    },
-    {
-        "timestamp": 1783724234.6290803,
-        "topic": "Louisiana Purchase Signed"
-    },
-    {
         "timestamp": 1783735904.4264596,
         "topic": "Pendulum Clock Invented"
     },
@@ -2682,5 +2674,9 @@
     {
         "timestamp": 1791488296.8715818,
         "topic": "Declaration Signed Today"
+    },
+    {
+        "timestamp": 1791504451.607616,
+        "topic": "Founding Ottoman Empire"
     }
 ]
