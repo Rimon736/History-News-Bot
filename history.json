@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783735904.4264596,
-        "topic": "Pendulum Clock Invented"
-    },
-    {
-        "timestamp": 1783750194.2902017,
-        "topic": "Carthage Founded"
-    },
-    {
         "timestamp": 1783761865.8136067,
         "topic": "Roman Hadrian's Wall Completed"
     },
@@ -2678,5 +2670,9 @@
     {
         "timestamp": 1791504451.607616,
         "topic": "Founding Ottoman Empire"
+    },
+    {
+        "timestamp": 1791534248.0632362,
+        "topic": "Invention of Paper"
     }
 ]
