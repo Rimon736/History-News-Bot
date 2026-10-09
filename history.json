@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1783761865.8136067,
-        "topic": "Roman Hadrian's Wall Completed"
-    },
-    {
-        "timestamp": 1783767650.8806198,
-        "topic": "Suez Canal Construction"
-    },
-    {
-        "timestamp": 1783775351.0205054,
-        "topic": "President Kennedy Assassinated"
-    },
-    {
-        "timestamp": 1783781367.9434595,
-        "topic": "Mutiny on the Bounty"
-    },
-    {
         "timestamp": 1783788739.597087,
         "topic": "Lascaux Caves Discovered"
     },
@@ -2674,5 +2658,9 @@
     {
         "timestamp": 1791534248.0632362,
         "topic": "Invention of Paper"
+    },
+    {
+        "timestamp": 1791564490.8162367,
+        "topic": "Alexander the Great's Death"
     }
 ]
