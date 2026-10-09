@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783788739.597087,
-        "topic": "Lascaux Caves Discovered"
-    },
-    {
-        "timestamp": 1783796163.5169683,
-        "topic": "Giza Pyramid Construction"
-    },
-    {
-        "timestamp": 1783802566.7593434,
-        "topic": "Ancient Temple Construction"
-    },
-    {
         "timestamp": 1783809778.8722715,
         "topic": "Ancient Hieroglyphic Development"
     },
@@ -2662,5 +2650,9 @@
     {
         "timestamp": 1791564490.8162367,
         "topic": "Alexander the Great's Death"
+    },
+    {
+        "timestamp": 1791583832.1567364,
+        "topic": "Great Pyramid Completed"
     }
 ]
