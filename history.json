@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783809778.8722715,
-        "topic": "Ancient Hieroglyphic Development"
-    },
-    {
-        "timestamp": 1783822918.2002394,
-        "topic": "Jerusalem Siege Concludes"
-    },
-    {
         "timestamp": 1783837796.8211737,
         "topic": "G\u00f6bekli Tepe Discovery"
     },
@@ -2654,5 +2646,9 @@
     {
         "timestamp": 1791583832.1567364,
         "topic": "Great Pyramid Completed"
+    },
+    {
+        "timestamp": 1791605028.0307214,
+        "topic": "October Revolution Begins"
     }
 ]
