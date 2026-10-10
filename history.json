@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783837796.8211737,
-        "topic": "G\u00f6bekli Tepe Discovery"
-    },
-    {
-        "timestamp": 1783849673.884714,
-        "topic": "Founding Seleucid Empire"
-    },
-    {
-        "timestamp": 1783854696.0505185,
-        "topic": "Machu Picchu Rediscovery"
-    },
-    {
         "timestamp": 1783861851.5202074,
         "topic": "English Peasants' Revolt"
     },
@@ -2650,5 +2638,9 @@
     {
         "timestamp": 1791605028.0307214,
         "topic": "October Revolution Begins"
+    },
+    {
+        "timestamp": 1791632913.6145837,
+        "topic": "JFK Assassination Dallas"
     }
 ]
