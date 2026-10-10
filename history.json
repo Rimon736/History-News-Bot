@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783875335.988135,
-        "topic": "First Paper Money"
-    },
-    {
-        "timestamp": 1783882788.3295076,
-        "topic": "Galileo's Starry Messenger"
-    },
-    {
-        "timestamp": 1783888798.7753818,
-        "topic": "Battle of Kalinga"
-    },
-    {
         "timestamp": 1783896169.5742862,
         "topic": "Antikythera Mechanism Unveiled"
     },
@@ -2638,5 +2626,9 @@
     {
         "timestamp": 1791651150.5847378,
         "topic": "Musical Notation Standardized"
+    },
+    {
+        "timestamp": 1791666261.1188316,
+        "topic": "Spanish Armada Defeated"
     }
 ]
