@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783909422.772258,
-        "topic": "Siege of Alesia Concludes"
-    },
-    {
-        "timestamp": 1783925383.0509033,
-        "topic": "Gallic Sack of Rome"
-    },
-    {
         "timestamp": 1783940207.885309,
         "topic": "Toba Catastrophe Eruption"
     },
@@ -2630,5 +2622,9 @@
     {
         "timestamp": 1791679119.7993443,
         "topic": "Battle of Zama Concludes"
+    },
+    {
+        "timestamp": 1791706392.093718,
+        "topic": "Plato Founds Academy"
     }
 ]
