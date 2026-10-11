@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783940207.885309,
-        "topic": "Toba Catastrophe Eruption"
-    },
-    {
-        "timestamp": 1783952773.8378124,
-        "topic": "Battle of Issus"
-    },
-    {
         "timestamp": 1783965113.7180674,
         "topic": "Martin Luther King Jr. Assassinated"
     },
@@ -2626,5 +2618,9 @@
     {
         "timestamp": 1791706392.093718,
         "topic": "Plato Founds Academy"
+    },
+    {
+        "timestamp": 1791734842.1056015,
+        "topic": "Chinese Smallpox Variolation"
     }
 ]
