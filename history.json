@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1783965113.7180674,
-        "topic": "Martin Luther King Jr. Assassinated"
-    },
-    {
-        "timestamp": 1783970341.7112865,
-        "topic": "Diocletian Abdicates Power"
-    },
-    {
-        "timestamp": 1783976066.0382807,
-        "topic": "Amundsen Reaches South Pole"
-    },
-    {
         "timestamp": 1783983168.68065,
         "topic": "East-West Schism"
     },
@@ -2622,5 +2610,9 @@
     {
         "timestamp": 1791734842.1056015,
         "topic": "Chinese Smallpox Variolation"
+    },
+    {
+        "timestamp": 1791753918.8248427,
+        "topic": "Founding of Carthage"
     }
 ]
