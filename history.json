@@ -1,29 +1,5 @@
 [
     {
-        "timestamp": 1784022870.2013829,
-        "topic": "The Great Stink"
-    },
-    {
-        "timestamp": 1784028221.1894841,
-        "topic": "Revocation Edict Nantes"
-    },
-    {
-        "timestamp": 1784035464.4880424,
-        "topic": "Suez Canal Construction Begins"
-    },
-    {
-        "timestamp": 1784042500.349728,
-        "topic": "Electron Discovered"
-    },
-    {
-        "timestamp": 1784049021.4981427,
-        "topic": "Africa Circumnavigated"
-    },
-    {
-        "timestamp": 1784056349.5190692,
-        "topic": "Siege of Carthage Concludes"
-    },
-    {
         "timestamp": 1784062579.6256819,
         "topic": "Lydian Coinage Unveiled"
     },
@@ -2610,5 +2586,9 @@
     {
         "timestamp": 1791793815.4907727,
         "topic": "Rosetta Stone Discovery"
+    },
+    {
+        "timestamp": 1791833720.7471616,
+        "topic": "Empire State Completion"
     }
 ]
