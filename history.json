@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1783994623.854053,
-        "topic": "Antarctic Mainland Sighted"
-    },
-    {
-        "timestamp": 1784009266.2042584,
-        "topic": "Battle of Leuctra"
-    },
-    {
         "timestamp": 1784022870.2013829,
         "topic": "The Great Stink"
     },
@@ -2614,5 +2606,9 @@
     {
         "timestamp": 1791766569.7932744,
         "topic": "Founding Ming Dynasty"
+    },
+    {
+        "timestamp": 1791793815.4907727,
+        "topic": "Rosetta Stone Discovery"
     }
 ]
