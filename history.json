@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784080834.0947506,
-        "topic": "King Richard III Remains"
-    },
-    {
-        "timestamp": 1784092126.3530827,
-        "topic": "Pompeii's Rediscovery Begins"
-    },
-    {
         "timestamp": 1784110254.285097,
         "topic": "Encyclop\u00e9die Volume One"
     },
@@ -2586,5 +2578,9 @@
     {
         "timestamp": 1791856019.754925,
         "topic": "Mona Lisa Painting Unveiled"
+    },
+    {
+        "timestamp": 1791881567.5816555,
+        "topic": "Great Chicago Fire"
     }
 ]
