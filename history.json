@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784182424.2827594,
-        "topic": "International Red Cross Founded"
-    },
-    {
         "timestamp": 1784196286.7595594,
         "topic": "Battle of Trafalgar"
     },
@@ -2562,5 +2558,9 @@
     {
         "timestamp": 1791947889.113562,
         "topic": "Chicken Domestication Confirmed"
+    },
+    {
+        "timestamp": 1791969269.968512,
+        "topic": "Eratosthenes Measures Earth"
     }
 ]
