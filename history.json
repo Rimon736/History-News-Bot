@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784196286.7595594,
-        "topic": "Battle of Trafalgar"
-    },
-    {
-        "timestamp": 1784209256.5961652,
-        "topic": "Chinese Gunpowder Invention"
-    },
-    {
         "timestamp": 1784215810.9214897,
         "topic": "Fall of Aztec Empire"
     },
@@ -2562,5 +2554,9 @@
     {
         "timestamp": 1791969269.968512,
         "topic": "Eratosthenes Measures Earth"
+    },
+    {
+        "timestamp": 1791989474.34277,
+        "topic": "Chaucer's Tales Released"
     }
 ]
