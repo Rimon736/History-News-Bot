@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784235177.918135,
-        "topic": "Treaty of Tordesillas"
-    },
-    {
-        "timestamp": 1784242449.5859985,
-        "topic": "London Underground Opens"
-    },
-    {
         "timestamp": 1784254406.4238505,
         "topic": "Germ Theory Confirmed"
     },
@@ -2550,5 +2542,9 @@
     {
         "timestamp": 1792007815.5590694,
         "topic": "Chernobyl Reactor Meltdown"
+    },
+    {
+        "timestamp": 1792018766.581499,
+        "topic": "Great Schism Declared"
     }
 ]
