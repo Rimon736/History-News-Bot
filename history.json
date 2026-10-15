@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784268746.5422244,
-        "topic": "Zero Concept Emerges"
-    },
-    {
         "timestamp": 1784281993.5412574,
         "topic": "Theodosian Walls Completed"
     },
@@ -2546,5 +2542,9 @@
     {
         "timestamp": 1792032985.3594964,
         "topic": "First Neanderthal Discovery"
+    },
+    {
+        "timestamp": 1792054029.7186222,
+        "topic": "Socrates' Execution Athens"
     }
 ]
