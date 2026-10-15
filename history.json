@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784301022.030509,
-        "topic": "Victory in Europe"
-    },
-    {
-        "timestamp": 1784308083.5989792,
-        "topic": "Lisbon Earthquake 1755"
-    },
-    {
-        "timestamp": 1784314877.5251873,
-        "topic": "Alexandria Lighthouse Completed"
-    },
-    {
         "timestamp": 1784321450.738833,
         "topic": "British Slavery Abolished"
     },
@@ -2538,5 +2526,9 @@
     {
         "timestamp": 1792075085.7141325,
         "topic": "Cosmic Background Radiation"
+    },
+    {
+        "timestamp": 1792093204.070835,
+        "topic": "G\u00f6bekli Tepe Unveiled"
     }
 ]
