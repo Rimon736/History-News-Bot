@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784321450.738833,
-        "topic": "British Slavery Abolished"
-    },
-    {
-        "timestamp": 1784328274.946014,
-        "topic": "Harvard College Founded"
-    },
-    {
         "timestamp": 1784340154.4716854,
         "topic": "Viking Greenland Settlement"
     },
@@ -2530,5 +2522,9 @@
     {
         "timestamp": 1792093204.070835,
         "topic": "G\u00f6bekli Tepe Unveiled"
+    },
+    {
+        "timestamp": 1792104716.13653,
+        "topic": "Eyeglasses Invention Revealed"
     }
 ]
