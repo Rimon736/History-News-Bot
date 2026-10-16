@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784407334.9823675,
-        "topic": "Rosetta Stone Deciphered"
-    },
-    {
         "timestamp": 1784414674.2256515,
         "topic": "Shakespeare's First Folio"
     },
@@ -2510,5 +2506,9 @@
     {
         "timestamp": 1792178074.337879,
         "topic": "Planet Neptune Discovered"
+    },
+    {
+        "timestamp": 1792189601.763527,
+        "topic": "Fall of Ancient Troy"
     }
 ]
