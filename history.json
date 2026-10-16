@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784340154.4716854,
-        "topic": "Viking Greenland Settlement"
-    },
-    {
         "timestamp": 1784354510.722058,
         "topic": "Roman Sewer Completion"
     },
@@ -2526,5 +2522,9 @@
     {
         "timestamp": 1792104716.13653,
         "topic": "Eyeglasses Invention Revealed"
+    },
+    {
+        "timestamp": 1792119253.4053369,
+        "topic": "Transatlantic Cable Completion"
     }
 ]
