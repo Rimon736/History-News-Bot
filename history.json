@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784354510.722058,
-        "topic": "Roman Sewer Completion"
-    },
-    {
         "timestamp": 1784366426.936756,
         "topic": "Founding of Baghdad"
     },
@@ -2526,5 +2522,9 @@
     {
         "timestamp": 1792119253.4053369,
         "topic": "Transatlantic Cable Completion"
+    },
+    {
+        "timestamp": 1792140171.712457,
+        "topic": "Hoover Dam Dedication"
     }
 ]
