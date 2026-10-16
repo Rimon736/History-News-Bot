@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784386090.7382514,
-        "topic": "ARPANET Goes Live"
-    },
-    {
-        "timestamp": 1784393567.5603945,
-        "topic": "United Nations Founding"
-    },
-    {
-        "timestamp": 1784401032.4527686,
-        "topic": "English Monasteries Dissolved"
-    },
-    {
         "timestamp": 1784407334.9823675,
         "topic": "Rosetta Stone Deciphered"
     },
@@ -2518,5 +2506,9 @@
     {
         "timestamp": 1792160938.9293199,
         "topic": "Charlemagne Crowned Emperor"
+    },
+    {
+        "timestamp": 1792178074.337879,
+        "topic": "Planet Neptune Discovered"
     }
 ]
