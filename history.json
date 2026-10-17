@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784480035.5110116,
-        "topic": "Founding Buenos Aires"
-    },
-    {
-        "timestamp": 1784487612.0118034,
-        "topic": "Wealth of Nations Published"
-    },
-    {
         "timestamp": 1784493682.419271,
         "topic": "Periodic Table Unveiled"
     },
@@ -2498,5 +2490,9 @@
     {
         "timestamp": 1792255726.2037733,
         "topic": "American Independence Declared"
+    },
+    {
+        "timestamp": 1792267258.934722,
+        "topic": "Zero Concept Formalized"
     }
 ]
