@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784493682.419271,
-        "topic": "Periodic Table Unveiled"
-    },
-    {
-        "timestamp": 1784501198.8665643,
-        "topic": "Microscope Unveiled"
-    },
-    {
         "timestamp": 1784514884.4955714,
         "topic": "Europe's First University Founded"
     },
@@ -2494,5 +2486,9 @@
     {
         "timestamp": 1792267258.934722,
         "topic": "Zero Concept Formalized"
+    },
+    {
+        "timestamp": 1792280629.3619795,
+        "topic": "Mendeleev's Periodic Table"
     }
 ]
