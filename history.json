@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784454515.652336,
-        "topic": "Council of Trent Convenes"
-    },
-    {
-        "timestamp": 1784459249.149835,
-        "topic": "Emancipation Proclamation Issued"
-    },
-    {
-        "timestamp": 1784466461.934494,
-        "topic": "Capture of Jerusalem"
-    },
-    {
         "timestamp": 1784472681.2680943,
         "topic": "Mount Pel\u00e9e Eruption"
     },
@@ -2506,5 +2494,9 @@
     {
         "timestamp": 1792224791.398042,
         "topic": "Ur-Nammu Law Code"
+    },
+    {
+        "timestamp": 1792243555.8246152,
+        "topic": "Edict of Nantes Proclaimed"
     }
 ]
