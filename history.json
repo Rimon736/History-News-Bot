@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784414674.2256515,
-        "topic": "Shakespeare's First Folio"
-    },
-    {
-        "timestamp": 1784427246.0098312,
-        "topic": "Fall of Babylon"
-    },
-    {
         "timestamp": 1784442414.579135,
         "topic": "Florence Cathedral Dome"
     },
@@ -2510,5 +2502,9 @@
     {
         "timestamp": 1792189601.763527,
         "topic": "Fall of Ancient Troy"
+    },
+    {
+        "timestamp": 1792205132.6194346,
+        "topic": "Romanov Family Disappearance"
     }
 ]
