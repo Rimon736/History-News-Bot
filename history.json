@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784472681.2680943,
-        "topic": "Mount Pel\u00e9e Eruption"
-    },
-    {
         "timestamp": 1784480035.5110116,
         "topic": "Founding Buenos Aires"
     },
@@ -2498,5 +2494,9 @@
     {
         "timestamp": 1792243555.8246152,
         "topic": "Edict of Nantes Proclaimed"
+    },
+    {
+        "timestamp": 1792255726.2037733,
+        "topic": "American Independence Declared"
     }
 ]
