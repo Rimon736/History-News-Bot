@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784529751.0827124,
-        "topic": "First Dog Domestication"
-    },
-    {
         "timestamp": 1784544451.7975144,
         "topic": "Amelia Earhart Disappears"
     },
@@ -2490,5 +2486,9 @@
     {
         "timestamp": 1792291600.4652355,
         "topic": "Florence Dome Completed"
+    },
+    {
+        "timestamp": 1792312212.0678005,
+        "topic": "Founding Quebec City"
     }
 ]
