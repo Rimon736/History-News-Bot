@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784555831.902069,
-        "topic": "Indus Valley Decline"
-    },
-    {
-        "timestamp": 1784562509.0699909,
-        "topic": "Great Exhibition Opens"
-    },
-    {
         "timestamp": 1784570228.9347453,
         "topic": "Olmec Colossal Heads"
     },
@@ -2490,5 +2482,9 @@
     {
         "timestamp": 1792331097.3607059,
         "topic": "Joan of Arc Executed"
+    },
+    {
+        "timestamp": 1792342979.4343536,
+        "topic": "Rediscovery Machu Picchu"
     }
 ]
