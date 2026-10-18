@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784544451.7975144,
-        "topic": "Amelia Earhart Disappears"
-    },
-    {
         "timestamp": 1784555831.902069,
         "topic": "Indus Valley Decline"
     },
@@ -2490,5 +2486,9 @@
     {
         "timestamp": 1792312212.0678005,
         "topic": "Founding Quebec City"
+    },
+    {
+        "timestamp": 1792331097.3607059,
+        "topic": "Joan of Arc Executed"
     }
 ]
