@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784570228.9347453,
-        "topic": "Olmec Colossal Heads"
-    },
-    {
-        "timestamp": 1784576563.1665497,
-        "topic": "Hittite Iron Smelting"
-    },
-    {
         "timestamp": 1784581683.6918855,
         "topic": "Croatian-Ottoman Conflict"
     },
@@ -2486,5 +2478,9 @@
     {
         "timestamp": 1792342979.4343536,
         "topic": "Rediscovery Machu Picchu"
+    },
+    {
+        "timestamp": 1792353645.0686128,
+        "topic": "Egyptian Unification Achieved"
     }
 ]
