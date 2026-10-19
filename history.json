@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784629324.1802156,
-        "topic": "First Dated Printed Book"
-    },
-    {
-        "timestamp": 1784648416.1942563,
-        "topic": "Plague of Athens Outbreak"
-    },
-    {
         "timestamp": 1784653977.532364,
         "topic": "Hiroshima Atomic Bombing"
     },
@@ -2478,5 +2470,9 @@
     {
         "timestamp": 1792402363.8074293,
         "topic": "Roman Legions Decimated"
+    },
+    {
+        "timestamp": 1792428369.36868,
+        "topic": "Silk Road Expansion"
     }
 ]
