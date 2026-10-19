@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784588154.3368955,
-        "topic": "Founding US Mint"
-    },
-    {
-        "timestamp": 1784599973.3348002,
-        "topic": "Antwerp Bourse Established"
-    },
-    {
         "timestamp": 1784615102.692796,
         "topic": "Chariot Warfare Introduced"
     },
@@ -2482,5 +2474,9 @@
     {
         "timestamp": 1792362144.581941,
         "topic": "Magnetic Compass Unveiled"
+    },
+    {
+        "timestamp": 1792378805.9099607,
+        "topic": "Acts of Union 1707"
     }
 ]
