@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784615102.692796,
-        "topic": "Chariot Warfare Introduced"
-    },
-    {
         "timestamp": 1784629324.1802156,
         "topic": "First Dated Printed Book"
     },
@@ -2478,5 +2474,9 @@
     {
         "timestamp": 1792378805.9099607,
         "topic": "Acts of Union 1707"
+    },
+    {
+        "timestamp": 1792402363.8074293,
+        "topic": "Roman Legions Decimated"
     }
 ]
