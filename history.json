@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784747336.1018205,
-        "topic": "Byzantine Ravenna Capture"
-    },
-    {
-        "timestamp": 1784754115.434865,
-        "topic": "Execution of Mary Stuart"
-    },
-    {
         "timestamp": 1784761066.7682352,
         "topic": "Public Railway Inauguration"
     },
@@ -2454,5 +2446,9 @@
     {
         "timestamp": 1792520220.044877,
         "topic": "Horse Domestication Begins"
+    },
+    {
+        "timestamp": 1792536882.3321536,
+        "topic": "Congress of Vienna Opens"
     }
 ]
