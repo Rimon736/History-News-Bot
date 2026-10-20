@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784686275.9354002,
-        "topic": "Emperor Henry IV's Penance"
-    },
-    {
-        "timestamp": 1784701496.755913,
-        "topic": "Voynich Manuscript Acquired"
-    },
-    {
         "timestamp": 1784715713.620055,
         "topic": "Viking Raid Lindisfarne"
     },
@@ -2466,5 +2458,9 @@
     {
         "timestamp": 1792457735.031154,
         "topic": "Angkor Wat Consecration"
+    },
+    {
+        "timestamp": 1792479863.535095,
+        "topic": "Visigothic Sack of Rome"
     }
 ]
