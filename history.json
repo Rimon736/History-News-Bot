@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784801820.0830858,
-        "topic": "Electromagnetism Discovery"
-    },
-    {
-        "timestamp": 1784814467.0853846,
-        "topic": "Dome of the Rock Completed"
-    },
-    {
         "timestamp": 1784821999.0051646,
         "topic": "King James Bible Published"
     },
@@ -2446,5 +2438,9 @@
     {
         "timestamp": 1792573501.8962355,
         "topic": "Gunpowder Discovery"
+    },
+    {
+        "timestamp": 1792594201.0157516,
+        "topic": "Borobudur Temple Completion"
     }
 ]
