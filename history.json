@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784821999.0051646,
-        "topic": "King James Bible Published"
-    },
-    {
-        "timestamp": 1784827014.1200912,
-        "topic": "Treaty of Nanking Signed"
-    },
-    {
-        "timestamp": 1784833729.5931585,
-        "topic": "Great Smog London"
-    },
-    {
         "timestamp": 1784840312.440641,
         "topic": "First Hamlet Performance"
     },
@@ -2442,5 +2430,9 @@
     {
         "timestamp": 1792594201.0157516,
         "topic": "Borobudur Temple Completion"
+    },
+    {
+        "timestamp": 1792612509.2795699,
+        "topic": "Carthage Annihilated"
     }
 ]
