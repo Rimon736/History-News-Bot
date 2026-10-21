@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784761066.7682352,
-        "topic": "Public Railway Inauguration"
-    },
-    {
-        "timestamp": 1784773372.1681662,
-        "topic": "Achaemenid Empire Founded"
-    },
-    {
         "timestamp": 1784788032.2492278,
         "topic": "Virgil's Aeneid Completed"
     },
@@ -2450,5 +2442,9 @@
     {
         "timestamp": 1792536882.3321536,
         "topic": "Congress of Vienna Opens"
+    },
+    {
+        "timestamp": 1792551864.625706,
+        "topic": "Founding of Uruk"
     }
 ]
