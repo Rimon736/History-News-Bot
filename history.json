@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784906575.0372262,
-        "topic": "Queen Elizabeth II Crowned"
-    },
-    {
-        "timestamp": 1784913954.006182,
-        "topic": "Battle of Philippi"
-    },
-    {
-        "timestamp": 1784920730.671312,
-        "topic": "Halicarnassus Mausoleum Completed"
-    },
-    {
         "timestamp": 1784926725.0167172,
         "topic": "Magellan Strait Discovery"
     },
@@ -2426,5 +2414,9 @@
     {
         "timestamp": 1792680662.8379602,
         "topic": "Statue Liberty Dedication"
+    },
+    {
+        "timestamp": 1792698210.1467583,
+        "topic": "Viking Greenland Settlement"
     }
 ]
