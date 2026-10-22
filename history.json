@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1784887971.8433309,
-        "topic": "World's First Zoo Opens"
-    },
-    {
-        "timestamp": 1784899639.108634,
-        "topic": "Trans-Siberian Railway Completion"
-    },
-    {
         "timestamp": 1784906575.0372262,
         "topic": "Queen Elizabeth II Crowned"
     },
@@ -2430,5 +2422,9 @@
     {
         "timestamp": 1792660021.057281,
         "topic": "Troy's Ancient Site Unearthed"
+    },
+    {
+        "timestamp": 1792680662.8379602,
+        "topic": "Statue Liberty Dedication"
     }
 ]
