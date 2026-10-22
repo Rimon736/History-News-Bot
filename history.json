@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784859243.3304896,
-        "topic": "Great Mosque Cordoba Completion"
-    },
-    {
         "timestamp": 1784874129.587046,
         "topic": "Robespierre's Execution"
     },
@@ -2430,5 +2426,9 @@
     {
         "timestamp": 1792623582.6952407,
         "topic": "Cook's Botany Bay Landing"
+    },
+    {
+        "timestamp": 1792638425.53155,
+        "topic": "Fall of Aztec Empire"
     }
 ]
