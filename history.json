@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1784926725.0167172,
-        "topic": "Magellan Strait Discovery"
-    },
-    {
         "timestamp": 1784933890.8969042,
         "topic": "Bronze Age Begins"
     },
@@ -2418,5 +2414,9 @@
     {
         "timestamp": 1792698210.1467583,
         "topic": "Viking Greenland Settlement"
+    },
+    {
+        "timestamp": 1792709805.378313,
+        "topic": "Siege of Alesia"
     }
 ]
