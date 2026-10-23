@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784991546.5175328,
-        "topic": "Strasbourg Dancing Plague"
-    },
-    {
-        "timestamp": 1784998368.4902523,
-        "topic": "Voyager 1 Heliopause Crossing"
-    },
-    {
-        "timestamp": 1785006244.8839586,
-        "topic": "Chauvet Cave Discovery"
-    },
-    {
         "timestamp": 1785012268.4332135,
         "topic": "Morse Telegraph Debut"
     },
@@ -2406,5 +2394,9 @@
     {
         "timestamp": 1792766266.9669945,
         "topic": "Hundred Years' War Begins"
+    },
+    {
+        "timestamp": 1792784686.100055,
+        "topic": "Franklin's Kite Experiment"
     }
 ]
