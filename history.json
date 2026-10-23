@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1784972548.6622655,
-        "topic": "Roman Defeat at Carrhae"
-    },
-    {
-        "timestamp": 1784977576.1653953,
-        "topic": "California Gold Rush"
-    },
-    {
-        "timestamp": 1784985339.396466,
-        "topic": "Founding St. Petersburg"
-    },
-    {
         "timestamp": 1784991546.5175328,
         "topic": "Strasbourg Dancing Plague"
     },
@@ -2414,5 +2402,9 @@
     {
         "timestamp": 1792746131.652813,
         "topic": "Boston Tea Party"
+    },
+    {
+        "timestamp": 1792766266.9669945,
+        "topic": "Hundred Years' War Begins"
     }
 ]
