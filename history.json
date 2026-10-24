@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785059713.6621625,
-        "topic": "Harrison Chronometer Proved"
-    },
-    {
-        "timestamp": 1785064629.1265206,
-        "topic": "Bessemer Process Steel"
-    },
-    {
-        "timestamp": 1785071462.54301,
-        "topic": "Quranic Text Codified"
-    },
-    {
         "timestamp": 1785078127.0756752,
         "topic": "Theodosius Bans Olympics"
     },
@@ -2394,5 +2382,9 @@
     {
         "timestamp": 1792830913.4684205,
         "topic": "Battle of Philippi"
+    },
+    {
+        "timestamp": 1792849732.265225,
+        "topic": "Mausoleum Completion"
     }
 ]
