@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785099202.6023655,
-        "topic": "Diocletian's Price Edict"
-    },
-    {
-        "timestamp": 1785106594.7141044,
-        "topic": "Controversial Jerusalem Execution"
-    },
-    {
         "timestamp": 1785119546.4082055,
         "topic": "First Atomic Test"
     },
@@ -2382,5 +2374,9 @@
     {
         "timestamp": 1792872433.389392,
         "topic": "Roman Legion Annihilation"
+    },
+    {
+        "timestamp": 1792886280.59157,
+        "topic": "Vasco da Gama's Voyage"
     }
 ]
