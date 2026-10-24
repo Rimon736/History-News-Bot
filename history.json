@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785092717.4833975,
-        "topic": "Chinese Supernova Observation"
-    },
-    {
         "timestamp": 1785099202.6023655,
         "topic": "Diocletian's Price Edict"
     },
@@ -2382,5 +2378,9 @@
     {
         "timestamp": 1792861813.6280115,
         "topic": "Jerusalem Temple Fall"
+    },
+    {
+        "timestamp": 1792872433.389392,
+        "topic": "Roman Legion Annihilation"
     }
 ]
