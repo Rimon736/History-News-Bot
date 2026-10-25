@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785150999.134564,
-        "topic": "Great Bath Completed"
-    },
-    {
         "timestamp": 1785162186.218511,
         "topic": "Pericles' Funeral Oration"
     },
@@ -2378,5 +2374,9 @@
     {
         "timestamp": 1792918481.7170994,
         "topic": "Fall of Acre"
+    },
+    {
+        "timestamp": 1792937082.0511312,
+        "topic": "Harvard University Founded"
     }
 ]
