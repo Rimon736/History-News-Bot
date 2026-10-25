@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785119546.4082055,
-        "topic": "First Atomic Test"
-    },
-    {
         "timestamp": 1785135517.290406,
         "topic": "Telescope Invention Unveiled"
     },
@@ -2378,5 +2374,9 @@
     {
         "timestamp": 1792886280.59157,
         "topic": "Vasco da Gama's Voyage"
+    },
+    {
+        "timestamp": 1792899447.962183,
+        "topic": "Mount Pel\u00e9e Eruption"
     }
 ]
