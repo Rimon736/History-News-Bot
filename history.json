@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785180044.208208,
-        "topic": "Challenger Disaster"
-    },
-    {
-        "timestamp": 1785186391.2488325,
-        "topic": "Confucius Analects Completed"
-    },
-    {
         "timestamp": 1785193040.3316755,
         "topic": "Gregorian Calendar Reform"
     },
@@ -2374,5 +2366,9 @@
     {
         "timestamp": 1792953709.1189005,
         "topic": "Founding of Baghdad"
+    },
+    {
+        "timestamp": 1792966556.8093503,
+        "topic": "An Lushan Rebellion"
     }
 ]
