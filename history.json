@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785162186.218511,
-        "topic": "Pericles' Funeral Oration"
-    },
-    {
-        "timestamp": 1785173956.5788925,
-        "topic": "Galileo Discovers Moons"
-    },
-    {
         "timestamp": 1785180044.208208,
         "topic": "Challenger Disaster"
     },
@@ -2378,5 +2370,9 @@
     {
         "timestamp": 1792937082.0511312,
         "topic": "Harvard University Founded"
+    },
+    {
+        "timestamp": 1792953709.1189005,
+        "topic": "Founding of Baghdad"
     }
 ]
