@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785234637.043028,
-        "topic": "Battle of Naseby"
-    },
-    {
-        "timestamp": 1785246912.5860298,
-        "topic": "Peloponnesian War Begins"
-    },
-    {
-        "timestamp": 1785254634.8143578,
-        "topic": "Athenian Democratic Reforms"
-    },
-    {
         "timestamp": 1785266265.4081533,
         "topic": "North Pole Reached"
     },
@@ -2366,5 +2354,9 @@
     {
         "timestamp": 1793007429.3544648,
         "topic": "Lascaux Caves Discovery"
+    },
+    {
+        "timestamp": 1793031966.171639,
+        "topic": "Encyclop\u00e9die First Volume"
     }
 ]
