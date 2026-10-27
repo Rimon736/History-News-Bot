@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785340373.7219508,
-        "topic": "Battle of Cajamarca"
-    },
-    {
-        "timestamp": 1785345101.991126,
-        "topic": "Destruction Bamiyan Buddhas"
-    },
-    {
-        "timestamp": 1785352069.4613404,
-        "topic": "Edict of Worms"
-    },
-    {
         "timestamp": 1785358283.5039659,
         "topic": "Karnak Hypostyle Hall"
     },
@@ -2346,5 +2334,9 @@
     {
         "timestamp": 1793115678.4954393,
         "topic": "Black Death Arrives"
+    },
+    {
+        "timestamp": 1793132602.4918973,
+        "topic": "Jamestown Colony Founded"
     }
 ]
