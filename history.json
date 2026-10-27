@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785306661.1219606,
-        "topic": "The Black Death"
-    },
-    {
         "timestamp": 1785321303.5525608,
         "topic": "Marco Polo's Return"
     },
@@ -2350,5 +2346,9 @@
     {
         "timestamp": 1793071727.6647685,
         "topic": "Viking Raid Lindisfarne"
+    },
+    {
+        "timestamp": 1793093591.0411983,
+        "topic": "Dutch East India Company Founding"
     }
 ]
