@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785432160.7620392,
-        "topic": "Kepler's New Astronomy"
-    },
-    {
-        "timestamp": 1785439156.6249669,
-        "topic": "Uncle Tom's Cabin Published"
-    },
-    {
         "timestamp": 1785445425.2062597,
         "topic": "Roman Civil War Battle"
     },
@@ -2322,5 +2314,9 @@
     {
         "timestamp": 1793198924.3099918,
         "topic": "North Pole Reached"
+    },
+    {
+        "timestamp": 1793220295.174863,
+        "topic": "Napoleon Crowned Emperor"
     }
 ]
