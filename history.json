@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785358283.5039659,
-        "topic": "Karnak Hypostyle Hall"
-    },
-    {
-        "timestamp": 1785365839.7594917,
-        "topic": "Becket Assassination"
-    },
-    {
         "timestamp": 1785376750.011203,
         "topic": "Great Leap Forward Launched"
     },
@@ -2338,5 +2330,9 @@
     {
         "timestamp": 1793132602.4918973,
         "topic": "Jamestown Colony Founded"
+    },
+    {
+        "timestamp": 1793148975.6947627,
+        "topic": "Cordoba Mosque Completion"
     }
 ]
