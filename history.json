@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785376750.011203,
-        "topic": "Great Leap Forward Launched"
-    },
-    {
-        "timestamp": 1785388395.0708933,
-        "topic": "Aristotle Founds Lyceum"
-    },
-    {
         "timestamp": 1785399434.6843002,
         "topic": "Hanging Gardens Completed"
     },
@@ -2334,5 +2326,9 @@
     {
         "timestamp": 1793148975.6947627,
         "topic": "Cordoba Mosque Completion"
+    },
+    {
+        "timestamp": 1793173913.4970887,
+        "topic": "Prophet Muhammad's Hegira"
     }
 ]
