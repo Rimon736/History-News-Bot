@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785399434.6843002,
-        "topic": "Hanging Gardens Completed"
-    },
-    {
-        "timestamp": 1785412143.5368855,
-        "topic": "Lavoisier's Mass Conservation"
-    },
-    {
-        "timestamp": 1785419364.4264534,
-        "topic": "Machiavelli's The Prince"
-    },
-    {
         "timestamp": 1785432160.7620392,
         "topic": "Kepler's New Astronomy"
     },
@@ -2330,5 +2318,9 @@
     {
         "timestamp": 1793173913.4970887,
         "topic": "Prophet Muhammad's Hegira"
+    },
+    {
+        "timestamp": 1793198924.3099918,
+        "topic": "North Pole Reached"
     }
 ]
