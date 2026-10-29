@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785494098.5940697,
-        "topic": "Death of Genghis Khan"
-    },
-    {
-        "timestamp": 1785506025.4677167,
-        "topic": "New Zealand Suffrage Granted"
-    },
-    {
         "timestamp": 1785513601.0829275,
         "topic": "Potala Palace Completion"
     },
@@ -2310,5 +2302,9 @@
     {
         "timestamp": 1793260652.7278671,
         "topic": "German Empire Proclaimed"
+    },
+    {
+        "timestamp": 1793285923.33768,
+        "topic": "Council of Trent Convenes"
     }
 ]
