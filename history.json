@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785513601.0829275,
-        "topic": "Potala Palace Completion"
-    },
-    {
-        "timestamp": 1785519988.4449806,
-        "topic": "Globe Theatre Opening"
-    },
-    {
-        "timestamp": 1785525491.2592392,
-        "topic": "Fall of Akkadian Empire"
-    },
-    {
         "timestamp": 1785531628.5912738,
         "topic": "Safavid Empire Founded"
     },
@@ -2306,5 +2294,9 @@
     {
         "timestamp": 1793285923.33768,
         "topic": "Council of Trent Convenes"
+    },
+    {
+        "timestamp": 1793306941.9880617,
+        "topic": "Discovery of Radium"
     }
 ]
