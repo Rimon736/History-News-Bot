@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785445425.2062597,
-        "topic": "Roman Civil War Battle"
-    },
-    {
-        "timestamp": 1785452509.550674,
-        "topic": "Peking Man Discovery"
-    },
-    {
         "timestamp": 1785464676.6494546,
         "topic": "Battle of Granicus"
     },
@@ -2318,5 +2310,9 @@
     {
         "timestamp": 1793220295.174863,
         "topic": "Napoleon Crowned Emperor"
+    },
+    {
+        "timestamp": 1793237475.2899046,
+        "topic": "Uranus Planet Discovered"
     }
 ]
