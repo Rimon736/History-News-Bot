@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1785578116.725914,
-        "topic": "Wycliffe Bible Translation"
-    },
-    {
-        "timestamp": 1785582785.9274788,
-        "topic": "Battle of Cannae"
-    },
-    {
-        "timestamp": 1785589761.383041,
-        "topic": "Salk Polio Vaccine Announced"
-    },
-    {
-        "timestamp": 1785596253.275365,
-        "topic": "First Light Speed Measurement"
-    },
-    {
         "timestamp": 1785603313.4700348,
         "topic": "Battle of Qadisiya"
     },
@@ -2290,5 +2274,9 @@
     {
         "timestamp": 1793347187.6547241,
         "topic": "Great Wall Construction Begins"
+    },
+    {
+        "timestamp": 1793372294.8686876,
+        "topic": "Battle of Cannae"
     }
 ]
