@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785603313.4700348,
-        "topic": "Battle of Qadisiya"
-    },
-    {
-        "timestamp": 1785610945.3342378,
-        "topic": "Venice City Founded"
-    },
-    {
         "timestamp": 1785617144.6884792,
         "topic": "Battle of Manzikert"
     },
@@ -2278,5 +2270,9 @@
     {
         "timestamp": 1793372294.8686876,
         "topic": "Battle of Cannae"
+    },
+    {
+        "timestamp": 1793391650.4332488,
+        "topic": "Hatshepsut's Punt Expedition"
     }
 ]
