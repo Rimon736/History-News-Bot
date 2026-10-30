@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785551108.1903903,
-        "topic": "Magellan's Final Battle"
-    },
-    {
-        "timestamp": 1785565498.2241805,
-        "topic": "Stoicism School Founded"
-    },
-    {
         "timestamp": 1785578116.725914,
         "topic": "Wycliffe Bible Translation"
     },
@@ -2294,5 +2286,9 @@
     {
         "timestamp": 1793323861.7043023,
         "topic": "Peloponnesian War Begins"
+    },
+    {
+        "timestamp": 1793347187.6547241,
+        "topic": "Great Wall Construction Begins"
     }
 ]
