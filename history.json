@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785664352.7715454,
-        "topic": "Athens Public Library"
-    },
-    {
-        "timestamp": 1785669264.1981122,
-        "topic": "Djoser's Step Pyramid"
-    },
-    {
-        "timestamp": 1785676287.2979102,
-        "topic": "Invention of the Wheel"
-    },
-    {
         "timestamp": 1785682717.1188734,
         "topic": "Battle of Lepanto"
     },
@@ -2266,5 +2254,9 @@
     {
         "timestamp": 1793433384.7605827,
         "topic": "Lusitania Sunk"
+    },
+    {
+        "timestamp": 1793456206.5714476,
+        "topic": "Venice City Founding"
     }
 ]
