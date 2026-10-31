@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785637379.2630732,
-        "topic": "Founding Mali Empire"
-    },
-    {
-        "timestamp": 1785652175.202078,
-        "topic": "Edict of Toleration"
-    },
-    {
         "timestamp": 1785664352.7715454,
         "topic": "Athens Public Library"
     },
@@ -2270,5 +2262,9 @@
     {
         "timestamp": 1793409849.5731454,
         "topic": "Sumerian Measurement Standardization"
+    },
+    {
+        "timestamp": 1793433384.7605827,
+        "topic": "Lusitania Sunk"
     }
 ]
