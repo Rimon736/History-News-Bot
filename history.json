@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785703798.0474212,
-        "topic": "Venus Willendorf Figurine Uncovered"
-    },
-    {
-        "timestamp": 1785711172.8820949,
-        "topic": "Ashurbanipal Library Unearthed"
-    },
-    {
         "timestamp": 1785723922.6619964,
         "topic": "Mansa Musa's Historic Hajj"
     },
@@ -2250,5 +2242,9 @@
     {
         "timestamp": 1793475668.9962447,
         "topic": "Children's Crusade Begins"
+    },
+    {
+        "timestamp": 1793487856.0278504,
+        "topic": "Salem Witchcraft Accusations"
     }
 ]
