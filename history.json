@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785682717.1188734,
-        "topic": "Battle of Lepanto"
-    },
-    {
-        "timestamp": 1785689657.5254707,
-        "topic": "Communist Manifesto Published"
-    },
-    {
-        "timestamp": 1785697416.7872293,
-        "topic": "Ptolemaic Dynasty Established"
-    },
-    {
         "timestamp": 1785703798.0474212,
         "topic": "Venus Willendorf Figurine Uncovered"
     },
@@ -2258,5 +2246,9 @@
     {
         "timestamp": 1793456206.5714476,
         "topic": "Venice City Founding"
+    },
+    {
+        "timestamp": 1793475668.9962447,
+        "topic": "Children's Crusade Begins"
     }
 ]
