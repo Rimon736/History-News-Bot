@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785617144.6884792,
-        "topic": "Battle of Manzikert"
-    },
-    {
-        "timestamp": 1785624935.1631675,
-        "topic": "Declaration of Human Rights"
-    },
-    {
         "timestamp": 1785637379.2630732,
         "topic": "Founding Mali Empire"
     },
@@ -2274,5 +2266,9 @@
     {
         "timestamp": 1793391650.4332488,
         "topic": "Hatshepsut's Punt Expedition"
+    },
+    {
+        "timestamp": 1793409849.5731454,
+        "topic": "Sumerian Measurement Standardization"
     }
 ]
