@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785723922.6619964,
-        "topic": "Mansa Musa's Historic Hajj"
-    },
-    {
         "timestamp": 1785740178.140014,
         "topic": "Scottish Church Disruption"
     },
@@ -2246,5 +2242,9 @@
     {
         "timestamp": 1793487856.0278504,
         "topic": "Salem Witchcraft Accusations"
+    },
+    {
+        "timestamp": 1793505589.112533,
+        "topic": "Mount Tambora Eruption"
     }
 ]
