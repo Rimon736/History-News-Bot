@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785755935.091376,
-        "topic": "Qin Emperor's Mausoleum"
-    },
-    {
-        "timestamp": 1785767369.7349827,
-        "topic": "Great Zimbabwe Construction"
-    },
-    {
         "timestamp": 1785779279.3848839,
         "topic": "Empress Wu Overthrown"
     },
@@ -2246,5 +2238,9 @@
     {
         "timestamp": 1793531391.3014703,
         "topic": "Athenian Democratic Reforms"
+    },
+    {
+        "timestamp": 1793554431.2534394,
+        "topic": "Zola's \"J'accuse...!\""
     }
 ]
