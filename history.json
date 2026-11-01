@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1785740178.140014,
-        "topic": "Scottish Church Disruption"
-    },
-    {
         "timestamp": 1785755935.091376,
         "topic": "Qin Emperor's Mausoleum"
     },
@@ -2246,5 +2242,9 @@
     {
         "timestamp": 1793505589.112533,
         "topic": "Mount Tambora Eruption"
+    },
+    {
+        "timestamp": 1793531391.3014703,
+        "topic": "Athenian Democratic Reforms"
     }
 ]
