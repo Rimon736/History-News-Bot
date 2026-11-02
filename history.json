@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785809103.6978207,
-        "topic": "Battle of Thermopylae"
-    },
-    {
-        "timestamp": 1785824637.7276037,
-        "topic": "Battle of Pharsalus"
-    },
-    {
         "timestamp": 1785839607.0250466,
         "topic": "Roman Concrete Innovation"
     },
@@ -2234,5 +2226,9 @@
     {
         "timestamp": 1793581949.8343694,
         "topic": "Discovery of Electron"
+    },
+    {
+        "timestamp": 1793609224.5872533,
+        "topic": "Thermopylae Stand"
     }
 ]
