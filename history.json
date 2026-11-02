@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1785839607.0250466,
-        "topic": "Roman Concrete Innovation"
-    },
-    {
-        "timestamp": 1785852015.0817616,
-        "topic": "Bayeux Tapestry Unveiled"
-    },
-    {
-        "timestamp": 1785860180.452527,
-        "topic": "Bronze Age Collapse"
-    },
-    {
-        "timestamp": 1785871601.2887957,
-        "topic": "First Opium War"
-    },
-    {
         "timestamp": 1785877682.4840949,
         "topic": "Teotihuacan Pyramid Consecrated"
     },
@@ -2230,5 +2214,9 @@
     {
         "timestamp": 1793609224.5872533,
         "topic": "Thermopylae Stand"
+    },
+    {
+        "timestamp": 1793649436.0836442,
+        "topic": "Battle of Pharsalus"
     }
 ]
