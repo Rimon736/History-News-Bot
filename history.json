@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785895461.590977,
-        "topic": "Timbuktu Founded"
-    },
-    {
-        "timestamp": 1785911053.2917092,
-        "topic": "Michelangelo's David Unveiled"
-    },
-    {
-        "timestamp": 1785925837.5289652,
-        "topic": "Ptolemy's Canopus Decree"
-    },
-    {
         "timestamp": 1785938291.5810273,
         "topic": "Mishneh Torah Publication"
     },
@@ -2214,5 +2202,9 @@
     {
         "timestamp": 1793671298.848869,
         "topic": "Oxygen Discovery"
+    },
+    {
+        "timestamp": 1793705647.1613374,
+        "topic": "Jikji Movable Type Printing"
     }
 ]
