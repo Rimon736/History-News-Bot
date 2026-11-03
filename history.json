@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785877682.4840949,
-        "topic": "Teotihuacan Pyramid Consecrated"
-    },
-    {
-        "timestamp": 1785884335.6827693,
-        "topic": "Crimean War Begins"
-    },
-    {
         "timestamp": 1785895461.590977,
         "topic": "Timbuktu Founded"
     },
@@ -2218,5 +2210,9 @@
     {
         "timestamp": 1793649436.0836442,
         "topic": "Battle of Pharsalus"
+    },
+    {
+        "timestamp": 1793671298.848869,
+        "topic": "Oxygen Discovery"
     }
 ]
