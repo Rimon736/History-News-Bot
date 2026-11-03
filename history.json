@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785938291.5810273,
-        "topic": "Mishneh Torah Publication"
-    },
-    {
-        "timestamp": 1785945726.6343405,
-        "topic": "Pharaohs' Canal Completed"
-    },
-    {
         "timestamp": 1785957828.155043,
         "topic": "Colossus of Rhodes Completion"
     },
@@ -2206,5 +2198,9 @@
     {
         "timestamp": 1793705647.1613374,
         "topic": "Jikji Movable Type Printing"
+    },
+    {
+        "timestamp": 1793732299.191213,
+        "topic": "Pyramid of Sun Dedication"
     }
 ]
