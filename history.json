@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1785982087.7300253,
-        "topic": "Silent Spring Published"
-    },
-    {
-        "timestamp": 1785997607.7641578,
-        "topic": "Ottoman Siege of Rhodes"
-    },
-    {
         "timestamp": 1786012458.0562427,
         "topic": "Justinian's Code Promulgated"
     },
@@ -2194,5 +2186,9 @@
     {
         "timestamp": 1793751638.4026828,
         "topic": "Lydian Coinage Emerges"
+    },
+    {
+        "timestamp": 1793781087.2920504,
+        "topic": "Glorious Revolution Unfolds"
     }
 ]
