@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786012458.0562427,
-        "topic": "Justinian's Code Promulgated"
-    },
-    {
-        "timestamp": 1786024515.9869368,
-        "topic": "Execution of King Louis XVI"
-    },
-    {
         "timestamp": 1786060469.5441315,
         "topic": "Principia Mathematica Published"
     },
@@ -2190,5 +2182,9 @@
     {
         "timestamp": 1793781087.2920504,
         "topic": "Glorious Revolution Unfolds"
+    },
+    {
+        "timestamp": 1793814156.4785502,
+        "topic": "Mansa Musa's Hajj"
     }
 ]
