@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1785957828.155043,
-        "topic": "Colossus of Rhodes Completion"
-    },
-    {
-        "timestamp": 1785963842.8531816,
-        "topic": "First Crusade Declared"
-    },
-    {
-        "timestamp": 1785970526.7029805,
-        "topic": "Panini's Grammar Unveiled"
-    },
-    {
         "timestamp": 1785982087.7300253,
         "topic": "Silent Spring Published"
     },
@@ -2202,5 +2190,9 @@
     {
         "timestamp": 1793732299.191213,
         "topic": "Pyramid of Sun Dedication"
+    },
+    {
+        "timestamp": 1793751638.4026828,
+        "topic": "Lydian Coinage Emerges"
     }
 ]
