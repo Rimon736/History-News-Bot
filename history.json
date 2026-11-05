@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786060469.5441315,
-        "topic": "Principia Mathematica Published"
-    },
-    {
-        "timestamp": 1786069615.5823169,
-        "topic": "Sumerian Law Code Enacted"
-    },
-    {
         "timestamp": 1786081079.297374,
         "topic": "Pausanias' Greek Description"
     },
@@ -2190,5 +2182,9 @@
     {
         "timestamp": 1793833693.3758907,
         "topic": "Great Serpent Mound Completed"
+    },
+    {
+        "timestamp": 1793854342.5260231,
+        "topic": "Midway Battle Concludes"
     }
 ]
