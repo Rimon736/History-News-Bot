@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786081079.297374,
-        "topic": "Pausanias' Greek Description"
-    },
-    {
-        "timestamp": 1786092839.2964544,
-        "topic": "Roanoke Colony Vanishes"
-    },
-    {
-        "timestamp": 1786099722.8815353,
-        "topic": "Mount Fuji Eruption"
-    },
-    {
-        "timestamp": 1786107219.0533462,
-        "topic": "Tsar Alexander II Assassinated"
-    },
-    {
         "timestamp": 1786114171.3263211,
         "topic": "Berlin Wall Construction"
     },
@@ -2186,5 +2170,9 @@
     {
         "timestamp": 1793854342.5260231,
         "topic": "Midway Battle Concludes"
+    },
+    {
+        "timestamp": 1793886882.8493383,
+        "topic": "Galileo's Inquisition Verdict"
     }
 ]
