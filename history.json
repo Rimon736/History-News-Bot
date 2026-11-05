@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786114171.3263211,
-        "topic": "Berlin Wall Construction"
-    },
-    {
-        "timestamp": 1786121367.7959056,
-        "topic": "Hadrian Dedicates Zeus Temple"
-    },
-    {
-        "timestamp": 1786128582.973017,
-        "topic": "Fall of Granada"
-    },
-    {
-        "timestamp": 1786134944.3168652,
-        "topic": "Scottish Independence Declaration"
-    },
-    {
         "timestamp": 1786141808.7629488,
         "topic": "Temple of Artemis Destroyed"
     },
@@ -2174,5 +2158,9 @@
     {
         "timestamp": 1793886882.8493383,
         "topic": "Galileo's Inquisition Verdict"
+    },
+    {
+        "timestamp": 1793912114.3110902,
+        "topic": "Edict of Worms Issued"
     }
 ]
