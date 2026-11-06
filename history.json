@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1786213814.752862,
-        "topic": "Newton's Principia Published"
-    },
-    {
-        "timestamp": 1786220606.9775908,
-        "topic": "Mandela's Historic Release"
-    },
-    {
-        "timestamp": 1786227882.4413362,
-        "topic": "Socratic Method Emerges"
-    },
-    {
         "timestamp": 1786238379.14608,
         "topic": "First Ether Anesthesia"
     },
@@ -2134,5 +2122,9 @@
     {
         "timestamp": 1793984878.2908452,
         "topic": "Dome of the Rock Consecration"
+    },
+    {
+        "timestamp": 1794004802.1952722,
+        "topic": "Teutoburg Forest Massacre"
     }
 ]
