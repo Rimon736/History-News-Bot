@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786184875.575573,
-        "topic": "Song Dynasty Founded"
-    },
-    {
-        "timestamp": 1786192700.257205,
-        "topic": "Euclid's Elements Publication"
-    },
-    {
-        "timestamp": 1786199284.9697952,
-        "topic": "Mona Lisa Theft"
-    },
-    {
-        "timestamp": 1786206477.6009324,
-        "topic": "Themistocles' Ostracism"
-    },
-    {
         "timestamp": 1786213814.752862,
         "topic": "Newton's Principia Published"
     },
@@ -2146,5 +2130,9 @@
     {
         "timestamp": 1793955626.442134,
         "topic": "Invention of Wheel"
+    },
+    {
+        "timestamp": 1793984878.2908452,
+        "topic": "Dome of the Rock Consecration"
     }
 ]
