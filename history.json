@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786141808.7629488,
-        "topic": "Temple of Artemis Destroyed"
-    },
-    {
-        "timestamp": 1786151660.0231283,
-        "topic": "Lindbergh Transatlantic Flight"
-    },
-    {
         "timestamp": 1786159265.780515,
         "topic": "First Buddhist Sermon"
     },
@@ -2162,5 +2154,9 @@
     {
         "timestamp": 1793912114.3110902,
         "topic": "Edict of Worms Issued"
+    },
+    {
+        "timestamp": 1793930310.7495613,
+        "topic": "Founding East India Company"
     }
 ]
