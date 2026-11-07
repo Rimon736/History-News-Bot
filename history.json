@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786251581.2190382,
-        "topic": "Battle of the Somme"
-    },
-    {
-        "timestamp": 1786258167.0902872,
-        "topic": "First Olympic Champion"
-    },
-    {
-        "timestamp": 1786264606.7403748,
-        "topic": "Notre Dame Cornerstone"
-    },
-    {
-        "timestamp": 1786271349.8275833,
-        "topic": "Voltaic Pile Unveiled"
-    },
-    {
         "timestamp": 1786279257.5140073,
         "topic": "Edict of Torda Proclaimed"
     },
@@ -2122,5 +2106,9 @@
     {
         "timestamp": 1794025337.0325675,
         "topic": "Discovery of Uranium"
+    },
+    {
+        "timestamp": 1794054038.7594619,
+        "topic": "Newton's Principia Publication"
     }
 ]
