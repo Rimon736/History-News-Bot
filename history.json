@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1786279257.5140073,
-        "topic": "Edict of Torda Proclaimed"
-    },
-    {
-        "timestamp": 1786285826.2116666,
-        "topic": "Kamakura Great Buddha Cast"
-    },
-    {
-        "timestamp": 1786292957.1009576,
-        "topic": "Celsus Library Completion"
-    },
-    {
         "timestamp": 1786300457.1926525,
         "topic": "Praetorian Guard Formed"
     },
@@ -2110,5 +2098,9 @@
     {
         "timestamp": 1794054038.7594619,
         "topic": "Newton's Principia Publication"
+    },
+    {
+        "timestamp": 1794076024.4267917,
+        "topic": "Brooklyn Bridge Opens"
     }
 ]
