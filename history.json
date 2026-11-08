@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786339347.755402,
-        "topic": "Treaty of Guadalupe Hidalgo"
-    },
-    {
-        "timestamp": 1786346567.9809055,
-        "topic": "Parthenon Completion"
-    },
-    {
-        "timestamp": 1786353296.0368705,
-        "topic": "Proclamation of Italy"
-    },
-    {
-        "timestamp": 1786359850.5775485,
-        "topic": "Miracle on Vistula"
-    },
-    {
         "timestamp": 1786366685.7120197,
         "topic": "Cairo City Founded"
     },
@@ -2090,5 +2074,9 @@
     {
         "timestamp": 1794110684.780894,
         "topic": "Trojan Horse Entry"
+    },
+    {
+        "timestamp": 1794141615.6839275,
+        "topic": "Lisbon Earthquake Devastates"
     }
 ]
