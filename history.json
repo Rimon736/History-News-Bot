@@ -1,29 +1,5 @@
 [
     {
-        "timestamp": 1786424586.61476,
-        "topic": "Founding of Constantinople"
-    },
-    {
-        "timestamp": 1786431560.1356587,
-        "topic": "Hagia Sophia Consecration"
-    },
-    {
-        "timestamp": 1786438172.9816492,
-        "topic": "Alfred's Law Code"
-    },
-    {
-        "timestamp": 1786445214.8726895,
-        "topic": "Tiberius Gracchus Reforms"
-    },
-    {
-        "timestamp": 1786452871.425013,
-        "topic": "Harvey's Circulation Theory"
-    },
-    {
-        "timestamp": 1786460030.6792178,
-        "topic": "Golden Temple Inaugurated"
-    },
-    {
         "timestamp": 1786467269.8553479,
         "topic": "Panama Canal Excavation Commences"
     },
@@ -2058,5 +2034,9 @@
     {
         "timestamp": 1794198036.1831884,
         "topic": "Marco Polo Arrives China"
+    },
+    {
+        "timestamp": 1794236383.1204956,
+        "topic": "Capture of Jerusalem"
     }
 ]
