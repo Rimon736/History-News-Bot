@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786411150.1157844,
-        "topic": "Prague Defenestration"
-    },
-    {
-        "timestamp": 1786419598.2154536,
-        "topic": "Treaty of Kadesh Signed"
-    },
-    {
         "timestamp": 1786424586.61476,
         "topic": "Founding of Constantinople"
     },
@@ -2062,5 +2054,9 @@
     {
         "timestamp": 1794180269.3611538,
         "topic": "Parthenon Completion"
+    },
+    {
+        "timestamp": 1794198036.1831884,
+        "topic": "Marco Polo Arrives China"
     }
 ]
