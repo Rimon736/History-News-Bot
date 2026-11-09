@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786467269.8553479,
-        "topic": "Panama Canal Excavation Commences"
-    },
-    {
-        "timestamp": 1786474688.4531093,
-        "topic": "Trajan's Column Unveiled"
-    },
-    {
-        "timestamp": 1786480698.17219,
-        "topic": "Forth Bridge Completion"
-    },
-    {
-        "timestamp": 1786487835.3921707,
-        "topic": "Behistun Inscription Deciphered"
-    },
-    {
         "timestamp": 1786498074.6684453,
         "topic": "Kepler's Third Law"
     },
@@ -2038,5 +2022,9 @@
     {
         "timestamp": 1794236383.1204956,
         "topic": "Capture of Jerusalem"
+    },
+    {
+        "timestamp": 1794268617.2601988,
+        "topic": "Battle of Kadesh"
     }
 ]
