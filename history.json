@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786498074.6684453,
-        "topic": "Kepler's Third Law"
-    },
-    {
-        "timestamp": 1786507353.4146664,
-        "topic": "\u00c7atalh\u00f6y\u00fck Discovery"
-    },
-    {
         "timestamp": 1786519077.2613246,
         "topic": "Rosetta Stone Deciphered"
     },
@@ -2026,5 +2018,9 @@
     {
         "timestamp": 1794268617.2601988,
         "topic": "Battle of Kadesh"
+    },
+    {
+        "timestamp": 1794290622.224516,
+        "topic": "Pope Urban's Crusade Call"
     }
 ]
