@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1786647427.6823502,
-        "topic": "Phosphorus Discovery"
-    },
-    {
-        "timestamp": 1786653471.8260229,
-        "topic": "Fundamental Orders Enacted"
-    },
-    {
-        "timestamp": 1786660582.4355986,
-        "topic": "Founding Sasanian Empire"
-    },
-    {
         "timestamp": 1786670978.0330496,
         "topic": "San Francisco Earthquake"
     },
@@ -1974,5 +1962,9 @@
     {
         "timestamp": 1794418816.9745646,
         "topic": "Trans-Siberian Railway Completed"
+    },
+    {
+        "timestamp": 1794441544.6437013,
+        "topic": "Plague Strikes Athens"
     }
 ]
