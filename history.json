@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786574168.4524722,
-        "topic": "Persepolis Construction Begins"
-    },
-    {
-        "timestamp": 1786584556.2614949,
-        "topic": "Cholula Pyramid Dedication"
-    },
-    {
         "timestamp": 1786594069.7259946,
         "topic": "Iceman Discovery"
     },
@@ -1998,5 +1990,9 @@
     {
         "timestamp": 1794346673.8493698,
         "topic": "Baghdad Falls to Mongols"
+    },
+    {
+        "timestamp": 1794361289.3331273,
+        "topic": "Destruction of Artemis Temple"
     }
 ]
