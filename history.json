@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786726300.0451503,
-        "topic": "Great Kanto Earthquake"
-    },
-    {
-        "timestamp": 1786733205.1127422,
-        "topic": "Bl\u00e9riot Crosses Channel"
-    },
-    {
-        "timestamp": 1786739178.5727575,
-        "topic": "Polish Constitution Enacted"
-    },
-    {
-        "timestamp": 1786745867.4320467,
-        "topic": "Akhenaten's Religious Revolution"
-    },
-    {
         "timestamp": 1786755520.3378751,
         "topic": "Rite of Spring Premiere"
     },
@@ -1946,5 +1930,9 @@
     {
         "timestamp": 1794501081.7070644,
         "topic": "Sumerian Irrigation Breakthrough"
+    },
+    {
+        "timestamp": 1794524930.0119283,
+        "topic": "Founding of Amarna"
     }
 ]
