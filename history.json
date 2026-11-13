@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1786755520.3378751,
-        "topic": "Rite of Spring Premiere"
-    },
-    {
-        "timestamp": 1786762077.6342893,
-        "topic": "Bosworth Field Battle"
-    },
-    {
-        "timestamp": 1786767927.4382122,
-        "topic": "Han Dynasty Established"
-    },
-    {
         "timestamp": 1786775388.927122,
         "topic": "Roman Disaster Adrianople"
     },
@@ -1934,5 +1922,9 @@
     {
         "timestamp": 1794524930.0119283,
         "topic": "Founding of Amarna"
+    },
+    {
+        "timestamp": 1794545342.8087304,
+        "topic": "Germany Invades Poland"
     }
 ]
