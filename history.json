@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786775388.927122,
-        "topic": "Roman Disaster Adrianople"
-    },
-    {
-        "timestamp": 1786782128.1105444,
-        "topic": "Roman Empire Division"
-    },
-    {
-        "timestamp": 1786789051.8062901,
-        "topic": "Arbroath Declaration Signed"
-    },
-    {
-        "timestamp": 1786796931.3290668,
-        "topic": "Chichen Itza Pyramid Dedicated"
-    },
-    {
         "timestamp": 1786803440.0496936,
         "topic": "First Permanent Photograph"
     },
@@ -1926,5 +1910,9 @@
     {
         "timestamp": 1794545342.8087304,
         "topic": "Germany Invades Poland"
+    },
+    {
+        "timestamp": 1794577839.3880477,
+        "topic": "Walk to Canossa"
     }
 ]
