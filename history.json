@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786848925.7878656,
-        "topic": "Hadrian's Villa Inauguration"
-    },
-    {
-        "timestamp": 1786854655.3388581,
-        "topic": "Partition of India"
-    },
-    {
-        "timestamp": 1786861956.6217468,
-        "topic": "First Punic War Erupts"
-    },
-    {
-        "timestamp": 1786868601.1068425,
-        "topic": "Atomic Nucleus Discovery"
-    },
-    {
         "timestamp": 1786875508.1175907,
         "topic": "Bronze Age Collapse"
     },
@@ -1898,5 +1882,9 @@
     {
         "timestamp": 1794621466.4041226,
         "topic": "Library of Celsus Unveiled"
+    },
+    {
+        "timestamp": 1794645607.9624317,
+        "topic": "Globe Theatre Inauguration"
     }
 ]
