@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786832224.7579417,
-        "topic": "Bras\u00edlia Capital Inaugurated"
-    },
-    {
-        "timestamp": 1786842108.3361468,
-        "topic": "Johnstown Flood Disaster"
-    },
-    {
         "timestamp": 1786848925.7878656,
         "topic": "Hadrian's Villa Inauguration"
     },
@@ -1902,5 +1894,9 @@
     {
         "timestamp": 1794602681.6355553,
         "topic": "Phoenician Alphabet Unveiled"
+    },
+    {
+        "timestamp": 1794621466.4041226,
+        "topic": "Library of Celsus Unveiled"
     }
 ]
