@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1786991595.1509116,
-        "topic": "Statue of Zeus Completed"
-    },
-    {
-        "timestamp": 1786998051.9426544,
-        "topic": "Cleopatra Arrives Rome"
-    },
-    {
         "timestamp": 1787014670.9545949,
         "topic": "Sicilian Vespers Uprising"
     },
@@ -1842,5 +1834,9 @@
     {
         "timestamp": 1794761171.6407747,
         "topic": "Piltdown Man Hoax"
+    },
+    {
+        "timestamp": 1794781557.3385015,
+        "topic": "Qing Dynasty Ends"
     }
 ]
