@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786935330.9839876,
-        "topic": "Second Vatican Council"
-    },
-    {
-        "timestamp": 1786941409.1144447,
-        "topic": "European Union Formed"
-    },
-    {
-        "timestamp": 1786949041.4607801,
-        "topic": "Linear B Deciphered"
-    },
-    {
-        "timestamp": 1786955902.879815,
-        "topic": "Siege of Vienna Lifted"
-    },
-    {
         "timestamp": 1786962480.67301,
         "topic": "Turkish Republic Proclaimed"
     },
@@ -1866,5 +1850,9 @@
     {
         "timestamp": 1794706193.4751058,
         "topic": "Euclid's Elements Published"
+    },
+    {
+        "timestamp": 1794732360.5158474,
+        "topic": "London Underground Inauguration"
     }
 ]
