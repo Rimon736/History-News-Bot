@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1786962480.67301,
-        "topic": "Turkish Republic Proclaimed"
-    },
-    {
-        "timestamp": 1786970116.2038605,
-        "topic": "Rialto Bridge Completion"
-    },
-    {
-        "timestamp": 1786976543.744651,
-        "topic": "Kon-Tiki Expedition Success"
-    },
-    {
-        "timestamp": 1786983701.8470676,
-        "topic": "Charlemagne's Palace School"
-    },
-    {
         "timestamp": 1786991595.1509116,
         "topic": "Statue of Zeus Completed"
     },
@@ -1854,5 +1838,9 @@
     {
         "timestamp": 1794732360.5158474,
         "topic": "London Underground Inauguration"
+    },
+    {
+        "timestamp": 1794761171.6407747,
+        "topic": "Piltdown Man Hoax"
     }
 ]
