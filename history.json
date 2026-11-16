@@ -1,29 +1,5 @@
 [
     {
-        "timestamp": 1787027486.855836,
-        "topic": "Pharos Lighthouse Completion"
-    },
-    {
-        "timestamp": 1787034915.7256384,
-        "topic": "Sicilian Vespers Uprising"
-    },
-    {
-        "timestamp": 1787041856.930156,
-        "topic": "Colossus of Rhodes Destruction"
-    },
-    {
-        "timestamp": 1787048603.177271,
-        "topic": "Bauhaus School Inaugurated"
-    },
-    {
-        "timestamp": 1787056551.7515562,
-        "topic": "Colossus of Rhodes Falls"
-    },
-    {
-        "timestamp": 1787063307.5152075,
-        "topic": "Founding St. Augustine Florida"
-    },
-    {
         "timestamp": 1787070461.3045683,
         "topic": "English Victory at Cr\u00e9cy"
     },
@@ -1834,5 +1810,9 @@
     {
         "timestamp": 1794803395.2959044,
         "topic": "Hieroglyph Decipherment Announced"
+    },
+    {
+        "timestamp": 1794839757.119898,
+        "topic": "Hadrian's Wall Construction"
     }
 ]
