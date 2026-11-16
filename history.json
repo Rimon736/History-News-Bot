@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1787014670.9545949,
-        "topic": "Sicilian Vespers Uprising"
-    },
-    {
-        "timestamp": 1787021511.4831548,
-        "topic": "Pilgrims Land Plymouth"
-    },
-    {
         "timestamp": 1787027486.855836,
         "topic": "Pharos Lighthouse Completion"
     },
@@ -1838,5 +1830,9 @@
     {
         "timestamp": 1794781557.3385015,
         "topic": "Qing Dynasty Ends"
+    },
+    {
+        "timestamp": 1794803395.2959044,
+        "topic": "Hieroglyph Decipherment Announced"
     }
 ]
