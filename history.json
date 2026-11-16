@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1787070461.3045683,
-        "topic": "English Victory at Cr\u00e9cy"
-    },
-    {
-        "timestamp": 1787078049.2667818,
-        "topic": "Xuanzang's India Pilgrimage"
-    },
-    {
-        "timestamp": 1787084290.7758384,
-        "topic": "Galerius' Edict of Toleration"
-    },
-    {
-        "timestamp": 1787091472.2906725,
-        "topic": "Watergate Scandal Unfolds"
-    },
-    {
         "timestamp": 1787101154.6211483,
         "topic": "Pasteur's Rabies Vaccine"
     },
@@ -1814,5 +1798,9 @@
     {
         "timestamp": 1794839757.119898,
         "topic": "Hadrian's Wall Construction"
+    },
+    {
+        "timestamp": 1794873472.4462428,
+        "topic": "California Gold Rush"
     }
 ]
