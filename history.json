@@ -1,25 +1,5 @@
 [
     {
-        "timestamp": 1787221481.2308457,
-        "topic": "Battle of New Orleans"
-    },
-    {
-        "timestamp": 1787229519.634049,
-        "topic": "Battle of Karbala"
-    },
-    {
-        "timestamp": 1787236274.3552508,
-        "topic": "Maurya Empire Founded"
-    },
-    {
-        "timestamp": 1787243352.9188356,
-        "topic": "Ptolemy's Almagest Publication"
-    },
-    {
-        "timestamp": 1787250749.1401236,
-        "topic": "Battle of Megiddo"
-    },
-    {
         "timestamp": 1787257388.8604069,
         "topic": "Aristotle Tutors Alexander"
     },
@@ -1754,5 +1734,9 @@
     {
         "timestamp": 1794994882.8851717,
         "topic": "Pont du Gard Completion"
+    },
+    {
+        "timestamp": 1795026992.0475357,
+        "topic": "Dante's Divine Comedy"
     }
 ]
