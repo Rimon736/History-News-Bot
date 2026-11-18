@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787164088.5107343,
-        "topic": "Herculaneum Rediscovery Begins"
-    },
-    {
-        "timestamp": 1787170896.1896043,
-        "topic": "Sun Tzu's Art of War"
-    },
-    {
-        "timestamp": 1787178280.807758,
-        "topic": "Michelson-Morley Experiment"
-    },
-    {
         "timestamp": 1787187542.8049116,
         "topic": "Byzantine Greek Fire"
     },
@@ -1778,5 +1766,9 @@
     {
         "timestamp": 1794935981.9537797,
         "topic": "Via Appia Inaugurated"
+    },
+    {
+        "timestamp": 1794961579.1920784,
+        "topic": "Colossus of Rhodes Completion"
     }
 ]
