@@ -1,25 +1,5 @@
 [
     {
-        "timestamp": 1787187542.8049116,
-        "topic": "Byzantine Greek Fire"
-    },
-    {
-        "timestamp": 1787194366.0979292,
-        "topic": "Fall of Inca Empire"
-    },
-    {
-        "timestamp": 1787200370.2371967,
-        "topic": "Draco's Law Code"
-    },
-    {
-        "timestamp": 1787207887.8910596,
-        "topic": "Byzantine Nika Riots"
-    },
-    {
-        "timestamp": 1787214725.806497,
-        "topic": "Ulugh Beg Observatory Opens"
-    },
-    {
         "timestamp": 1787221481.2308457,
         "topic": "Battle of New Orleans"
     },
@@ -1770,5 +1750,9 @@
     {
         "timestamp": 1794961579.1920784,
         "topic": "Colossus of Rhodes Completion"
+    },
+    {
+        "timestamp": 1794994882.8851717,
+        "topic": "Pont du Gard Completion"
     }
 ]
