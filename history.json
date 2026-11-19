@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787257388.8604069,
-        "topic": "Aristotle Tutors Alexander"
-    },
-    {
-        "timestamp": 1787264523.075223,
-        "topic": "Battle of Yarmouk"
-    },
-    {
-        "timestamp": 1787274126.4971433,
-        "topic": "Cyrus's Edict"
-    },
-    {
         "timestamp": 1787281096.509257,
         "topic": "Lalibela Churches Completed"
     },
@@ -1738,5 +1726,9 @@
     {
         "timestamp": 1795026992.0475357,
         "topic": "Dante's Divine Comedy"
+    },
+    {
+        "timestamp": 1795052353.425102,
+        "topic": "Ziggurat of Ur Construction"
     }
 ]
