@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1787281096.509257,
-        "topic": "Lalibela Churches Completed"
-    },
-    {
-        "timestamp": 1787286799.3731616,
-        "topic": "First World Map Unveiled"
-    },
-    {
-        "timestamp": 1787294295.6612754,
-        "topic": "Hagia Sophia Construction"
-    },
-    {
-        "timestamp": 1787301276.4988728,
-        "topic": "Battle of Zama"
-    },
-    {
         "timestamp": 1787307913.7916965,
         "topic": "Transistor Invention Unveiled"
     },
@@ -1730,5 +1714,9 @@
     {
         "timestamp": 1795052353.425102,
         "topic": "Ziggurat of Ur Construction"
+    },
+    {
+        "timestamp": 1795081688.3968468,
+        "topic": "Movable Type Printing Invented"
     }
 ]
