@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787343628.2151902,
-        "topic": "Founding of Antioch"
-    },
-    {
-        "timestamp": 1787350747.171962,
-        "topic": "Solon's Debt Reforms"
-    },
-    {
-        "timestamp": 1787360325.3623993,
-        "topic": "Nazca Lines Completion"
-    },
-    {
         "timestamp": 1787367224.1074378,
         "topic": "Cahokia Founding"
     },
@@ -1702,5 +1690,9 @@
     {
         "timestamp": 1795114100.8758843,
         "topic": "Inca Emperor Captured"
+    },
+    {
+        "timestamp": 1795138642.091994,
+        "topic": "Hagia Sophia Consecration"
     }
 ]
