@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1787367224.1074378,
-        "topic": "Cahokia Founding"
-    },
-    {
-        "timestamp": 1787372897.701024,
-        "topic": "Molotov-Ribbentrop Pact"
-    },
-    {
-        "timestamp": 1787380328.8211696,
-        "topic": "Marconi's Transatlantic Wireless"
-    },
-    {
-        "timestamp": 1787387022.196355,
-        "topic": "Petra City Flourishes"
-    },
-    {
         "timestamp": 1787393952.517644,
         "topic": "Black Sea Flood"
     },
@@ -1694,5 +1678,9 @@
     {
         "timestamp": 1795138642.091994,
         "topic": "Hagia Sophia Consecration"
+    },
+    {
+        "timestamp": 1795167342.407471,
+        "topic": "Battle of Mylae"
     }
 ]
