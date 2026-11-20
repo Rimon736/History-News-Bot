@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787393952.517644,
-        "topic": "Black Sea Flood"
-    },
-    {
-        "timestamp": 1787401773.2936401,
-        "topic": "Sistine Chapel Unveiling"
-    },
-    {
-        "timestamp": 1787415560.6829696,
-        "topic": "First Exoplanet Discovery"
-    },
-    {
         "timestamp": 1787422923.7227757,
         "topic": "Manned Balloon Flight"
     },
@@ -1682,5 +1670,9 @@
     {
         "timestamp": 1795167342.407471,
         "topic": "Battle of Mylae"
+    },
+    {
+        "timestamp": 1795198486.2807803,
+        "topic": "Mount Rushmore Completion"
     }
 ]
