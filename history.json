@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787422923.7227757,
-        "topic": "Manned Balloon Flight"
-    },
-    {
-        "timestamp": 1787429872.6678405,
-        "topic": "Capitoline Temple Dedication"
-    },
-    {
-        "timestamp": 1787437045.7055488,
-        "topic": "Hebrew Bible Canon Finalized"
-    },
-    {
         "timestamp": 1787446991.39915,
         "topic": "Gortyn Law Code"
     },
@@ -1674,5 +1662,9 @@
     {
         "timestamp": 1795198486.2807803,
         "topic": "Mount Rushmore Completion"
+    },
+    {
+        "timestamp": 1795223278.1329565,
+        "topic": "University of Bologna Founded"
     }
 ]
