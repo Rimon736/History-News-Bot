@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787509357.8227818,
-        "topic": "First Nuclear Chain Reaction"
-    },
-    {
-        "timestamp": 1787516219.2242079,
-        "topic": "Benzene Structure Discovered"
-    },
-    {
-        "timestamp": 1787523408.6579463,
-        "topic": "Early Human Remains"
-    },
-    {
         "timestamp": 1787533246.0770562,
         "topic": "Vandal Sack of Rome"
     },
@@ -1638,5 +1626,9 @@
     {
         "timestamp": 1795280654.685121,
         "topic": "Temple of Zeus Dedication"
+    },
+    {
+        "timestamp": 1795301011.2121387,
+        "topic": "First Telescope Revealed"
     }
 ]
