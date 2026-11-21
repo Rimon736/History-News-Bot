@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1787480353.2287629,
-        "topic": "Apollo 13 Crisis"
-    },
-    {
-        "timestamp": 1787488249.1687553,
-        "topic": "Dutch Sighting Australia"
-    },
-    {
-        "timestamp": 1787494750.071968,
-        "topic": "Puma Punku Revelation"
-    },
-    {
-        "timestamp": 1787501992.2424817,
-        "topic": "First Athenian Tragedy"
-    },
-    {
         "timestamp": 1787509357.8227818,
         "topic": "First Nuclear Chain Reaction"
     },
@@ -1650,5 +1634,9 @@
     {
         "timestamp": 1795252049.9821205,
         "topic": "Great Fire of Rome"
+    },
+    {
+        "timestamp": 1795280654.685121,
+        "topic": "Temple of Zeus Dedication"
     }
 ]
