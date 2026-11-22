@@ -1,21 +1,5 @@
 [
     {
-        "timestamp": 1787554080.35541,
-        "topic": "Porcelain Invented China"
-    },
-    {
-        "timestamp": 1787560959.2386127,
-        "topic": "Hanseatic League Formation"
-    },
-    {
-        "timestamp": 1787567575.28892,
-        "topic": "Battle of Grunwald"
-    },
-    {
-        "timestamp": 1787575186.2505934,
-        "topic": "Montgolfier Aerostat Unveiled"
-    },
-    {
         "timestamp": 1787582222.439852,
         "topic": "Hippocrates Medical School"
     },
@@ -1622,5 +1606,9 @@
     {
         "timestamp": 1795322913.8077514,
         "topic": "Climate Cycles Theory"
+    },
+    {
+        "timestamp": 1795355894.116679,
+        "topic": "Djoser Step Pyramid Unveiled"
     }
 ]
