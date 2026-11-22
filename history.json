@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1787582222.439852,
-        "topic": "Hippocrates Medical School"
-    },
-    {
-        "timestamp": 1787589103.7101557,
-        "topic": "Aksum Embraces Christianity"
-    },
-    {
-        "timestamp": 1787603085.8047302,
-        "topic": "Spartacus Slave Revolt"
-    },
-    {
         "timestamp": 1787610043.650563,
         "topic": "Zhang Heng Seismoscope"
     },
@@ -1610,5 +1598,9 @@
     {
         "timestamp": 1795355894.116679,
         "topic": "Djoser Step Pyramid Unveiled"
+    },
+    {
+        "timestamp": 1795379784.62802,
+        "topic": "Athenian Sicilian Defeat"
     }
 ]
