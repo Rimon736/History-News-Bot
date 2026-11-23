@@ -1,29 +1,5 @@
 [
     {
-        "timestamp": 1787626525.0441933,
-        "topic": "Great Stupa Completion"
-    },
-    {
-        "timestamp": 1787632504.3623507,
-        "topic": "Astrolabe Invention Announced"
-    },
-    {
-        "timestamp": 1787639914.5197372,
-        "topic": "Lateran Treaty Signed"
-    },
-    {
-        "timestamp": 1787647006.5015545,
-        "topic": "Parchment Development Pergamum"
-    },
-    {
-        "timestamp": 1787653612.7987206,
-        "topic": "Fermat's Last Theorem"
-    },
-    {
-        "timestamp": 1787661600.704761,
-        "topic": "Mahavira's Moksha Attained"
-    },
-    {
         "timestamp": 1787668834.3617566,
         "topic": "9/11 Terrorist Attacks"
     },
@@ -1598,5 +1574,9 @@
     {
         "timestamp": 1795399790.9523044,
         "topic": "Lighthouse Alexandria Completion"
+    },
+    {
+        "timestamp": 1795442320.4085004,
+        "topic": "Diocletian Abdicates Throne"
     }
 ]
