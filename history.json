@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1787610043.650563,
-        "topic": "Zhang Heng Seismoscope"
-    },
-    {
-        "timestamp": 1787619625.017718,
-        "topic": "Ionian Revolt Erupts"
-    },
-    {
         "timestamp": 1787626525.0441933,
         "topic": "Great Stupa Completion"
     },
@@ -1602,5 +1594,9 @@
     {
         "timestamp": 1795379784.62802,
         "topic": "Athenian Sicilian Defeat"
+    },
+    {
+        "timestamp": 1795399790.9523044,
+        "topic": "Lighthouse Alexandria Completion"
     }
 ]
