@@ -1,49 +1,5 @@
 [
     {
-        "timestamp": 1787668834.3617566,
-        "topic": "9/11 Terrorist Attacks"
-    },
-    {
-        "timestamp": 1787675544.3295956,
-        "topic": "Edict of Thessalonica"
-    },
-    {
-        "timestamp": 1787682830.52138,
-        "topic": "Fahrenheit Thermometer Invented"
-    },
-    {
-        "timestamp": 1787689432.4281862,
-        "topic": "Aeolipile Demonstration"
-    },
-    {
-        "timestamp": 1787696517.1970346,
-        "topic": "First Papal Election"
-    },
-    {
-        "timestamp": 1787706136.5562077,
-        "topic": "Human Genome Project"
-    },
-    {
-        "timestamp": 1787713199.8314207,
-        "topic": "Perry's Japan Arrival"
-    },
-    {
-        "timestamp": 1787718945.888881,
-        "topic": "Destruction Zeus Statue"
-    },
-    {
-        "timestamp": 1787726440.022739,
-        "topic": "St. Peter's Basilica Completion"
-    },
-    {
-        "timestamp": 1787733461.1244445,
-        "topic": "Galileo's \"Dialogue\" Published"
-    },
-    {
-        "timestamp": 1787740248.642286,
-        "topic": "Mount Pinatubo Eruption"
-    },
-    {
         "timestamp": 1787748176.4683645,
         "topic": "Neolithic Revolution Begins"
     },
@@ -1578,5 +1534,9 @@
     {
         "timestamp": 1795442320.4085004,
         "topic": "Diocletian Abdicates Throne"
+    },
+    {
+        "timestamp": 1795521426.1039603,
+        "topic": "First Mont Blanc Ascent"
     }
 ]
