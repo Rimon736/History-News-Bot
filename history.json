@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1787784037.104012,
-        "topic": "Battle of Chaeronea"
-    },
-    {
-        "timestamp": 1787813896.5020196,
-        "topic": "Buddha's Birth"
-    },
-    {
         "timestamp": 1787856420.8953876,
         "topic": "Custer's Last Stand"
     },
@@ -1526,5 +1518,9 @@
     {
         "timestamp": 1795557418.6658843,
         "topic": "Constantinople Founding Ceremony"
+    },
+    {
+        "timestamp": 1795624951.8911,
+        "topic": "Blood Type Discovery"
     }
 ]
