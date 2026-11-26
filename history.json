@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1787889660.0684347,
-        "topic": "Mesa Verde Abandonment"
-    },
-    {
         "timestamp": 1787934665.9855394,
         "topic": "Dutch Republic Founded"
     },
@@ -1522,5 +1518,9 @@
     {
         "timestamp": 1795656569.991331,
         "topic": "Perry Opens Japan"
+    },
+    {
+        "timestamp": 1795688551.0944982,
+        "topic": "Sistine Chapel Unveiled"
     }
 ]
