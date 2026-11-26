@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1787856420.8953876,
-        "topic": "Custer's Last Stand"
-    },
-    {
         "timestamp": 1787889660.0684347,
         "topic": "Mesa Verde Abandonment"
     },
@@ -1522,5 +1518,9 @@
     {
         "timestamp": 1795624951.8911,
         "topic": "Blood Type Discovery"
+    },
+    {
+        "timestamp": 1795656569.991331,
+        "topic": "Perry Opens Japan"
     }
 ]
