@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1787966687.0450127,
-        "topic": "Royal Tombs of Ur Discovery"
-    },
-    {
         "timestamp": 1787992527.5473347,
         "topic": "King's \"I Have a Dream\""
     },
@@ -1522,5 +1518,9 @@
     {
         "timestamp": 1795726335.512798,
         "topic": "Anaximander's World Map"
+    },
+    {
+        "timestamp": 1795751715.947551,
+        "topic": "Solomon's Temple Dedication"
     }
 ]
