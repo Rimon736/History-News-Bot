@@ -1,17 +1,5 @@
 [
     {
-        "timestamp": 1788015307.1570058,
-        "topic": "Boston Molasses Flood"
-    },
-    {
-        "timestamp": 1788030463.1774435,
-        "topic": "First Oil Well"
-    },
-    {
-        "timestamp": 1788041741.1448956,
-        "topic": "Uluburun Shipwreck Discovery"
-    },
-    {
         "timestamp": 1788059920.331307,
         "topic": "First Open-Heart Surgery"
     },
@@ -1522,5 +1510,9 @@
     {
         "timestamp": 1795786032.7923725,
         "topic": "Galileo Observes Jupiter's Moons"
+    },
+    {
+        "timestamp": 1795818487.6157432,
+        "topic": "Akhenaten's Religious Reforms"
     }
 ]
