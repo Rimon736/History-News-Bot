@@ -1,9 +1,5 @@
 [
     {
-        "timestamp": 1787992527.5473347,
-        "topic": "King's \"I Have a Dream\""
-    },
-    {
         "timestamp": 1788015307.1570058,
         "topic": "Boston Molasses Flood"
     },
@@ -1522,5 +1518,9 @@
     {
         "timestamp": 1795751715.947551,
         "topic": "Solomon's Temple Dedication"
+    },
+    {
+        "timestamp": 1795786032.7923725,
+        "topic": "Galileo Observes Jupiter's Moons"
     }
 ]
