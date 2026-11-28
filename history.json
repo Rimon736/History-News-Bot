@@ -1,13 +1,5 @@
 [
     {
-        "timestamp": 1788082892.5454528,
-        "topic": "Toledo Reconquest"
-    },
-    {
-        "timestamp": 1788100780.413901,
-        "topic": "Cabot Reaches North America"
-    },
-    {
         "timestamp": 1788116478.021178,
         "topic": "Founding of Yale College"
     },
@@ -1514,5 +1506,9 @@
     {
         "timestamp": 1795845932.1565087,
         "topic": "Bayeux Tapestry Unveiled"
+    },
+    {
+        "timestamp": 1795883714.2462301,
+        "topic": "Ancient Iron Production"
     }
 ]
